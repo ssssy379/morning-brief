@@ -1,0 +1,16 @@
+{
+  "name": "아침 신문 브리핑",
+  "short_name": "신문 브리핑",
+  "description": "뉴욕타임즈 · 워싱턴포스트 · 한국경제 오늘의 주요 기사 5선",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ee",
+  "theme_color": "#b3261e",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T09:14:39.787002+09:00",
+  "sources": [
+    {
+      "id": "nyt",
+      "name": "뉴욕타임즈",
+      "name_en": "The New York Times",
+      "articles": [
+        {
+          "title_ko": "미국 재정적자 2조 달러 육박…트럼프 정부 ‘비용 절감’에 현실 경고",
+          "title_original": "U.S. Budget Deficit Nears $2 Trillion, a Reality Check for Trump’s Cost Cutting",
+          "summary_ko": "고금리로 국채 이자 부담이 커진 데다 이란 전쟁 비용과 관세 환급 지출이 겹치면서 미국 연방 재정적자가 2조 달러에 가까워졌다. 트럼프 행정부가 내세운 정부 지출 삭감 성과에 의문을 던지는 수치다.",
+          "category": "경제",
+          "url": "https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html",
+          "published": "2026-10-16T18:28:21+00:00"
+        },
+        {
+          "title_ko": "젤렌스키 “러시아 정유시설 공격 재개”…트럼프에 정면 반기",
+          "title_original": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+          "summary_ko": "젤렌스키 우크라이나 대통령이 파이낸셜타임스 인터뷰에서 미국에 대한 불만을 공개적으로 드러내며, 미국 요구로 중단했던 러시아 정유시설 공격을 다시 시작하겠다고 밝혔다. 트럼프 대통령이 약속한 종전 구상이 흔들리고 있다는 신호다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+          "published": "2026-10-16T16:07:37+00:00"
+        },
+        {
+          "title_ko": "오리건주 초등학교 총격 참사…숨진 교사, ‘꿈의 직장’에서 아이들 지키다 희생",
+          "title_original": "Teacher Killed in Oregon School Shooting Was Working Her ‘Dream Job,’ Family Says",
+          "summary_ko": "오리건주 벤드의 한 초등학교에 총격범이 잠긴 문을 쏘고 들어와 4명이 숨졌다. 희생된 교사 메건 램버트는 자신이 졸업한 학군에서 일하던 중 교실에서 아이들과 함께 목숨을 잃었다.",
+          "category": "사회",
+          "url": "https://www.nytimes.com/2026/10/16/us/bend-school-shooting-victims-megan-lambert-rhoam-summer.html",
+          "published": "2026-10-16T23:29:53+00:00"
+        },
+        {
+          "title_ko": "트럼프의 새 백악관 대변인, 취임 5일 만에 경질",
+          "title_original": "Katie Zacharia, Trump’s New Press Secretary, Is Ousted After 5 Days",
+          "summary_ko": "케이티 재커라이아 백악관 대변인이 임명 닷새 만에 물러났다. 법조 경력을 어떻게 소개했는지와 첫 브리핑 대응을 두고 논란이 이어진 끝의 갑작스러운 퇴진이다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html",
+          "published": "2026-10-16T21:57:40+00:00"
+        },
+        {
+          "title_ko": "러시아, 미국 중간선거 앞두고 여론 공작 강화 정황",
+          "title_original": "Russia Appears to Step Up Efforts to Influence U.S. Voters",
+          "summary_ko": "러시아가 미국 유권자를 겨냥한 영향력 공작을 확대하는 것으로 보인다. 미국의 이스라엘 지원을 부각하는 소셜미디어 게시물로 중간선거를 앞둔 미국 사회의 분열을 노리는 캠페인이 확인됐다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/16/us/politics/russian-influence-campaigns-midterms.html",
+          "published": "2026-10-16T18:24:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wapo",
+      "name": "워싱턴포스트",
+      "name_en": "The Washington Post",
+      "articles": [
+        {
+          "title_ko": "중간선거 패배 우려 속 트럼프 백악관 내 권력 다툼 격화",
+          "title_original": "Power struggle erupts in Trump’s White House as midterm losses loom",
+          "summary_ko": "중간선거에서 손실이 예상되는 가운데 트럼프 백악관 내부에서 주도권을 둘러싼 갈등이 불거지고 있다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVVVTURrb1VQcVNwWEFMX2xYUnlQSV95TFV6MVJ4ZTBKSENmcmtHM29HeGVsYkZKMUI0RC1DbHpJdDM2dXNmcDFEanlFUnd6QmtNeEtQNzR0c1FhanlnbW9scU02cXpLdkRmWU9XTTRfZG9YWFd3UDJYbHVuR0dhTHpsV2FmRk9JbElGVDBWRFAycHJuT0E0NDh5ZG1sYnRtUXNOVU5SUUdoVkJhMnc?oc=5",
+          "published": "2026-10-16T16:00:00+00:00"
+        },
+        {
+          "title_ko": "우크라이나, 패트리엇 요격미사일 바닥나…러시아 공습은 더 거세져",
+          "title_original": "Ukraine critically low on Patriot interceptors as Russian strikes intensify",
+          "summary_ko": "러시아의 공습이 강해지는 가운데 우크라이나의 패트리엇 방공 요격미사일 재고가 위험할 만큼 줄어든 것으로 전해졌다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkFUUWl2cU1MNkFNYU9KY2V5OG9JWUtUbGRfLWZNVG4tamZaY252SXRvVlZZSmlsSnVDTDBocEx5ZTFSQTlzWV9uOEticEJIUjFnYlo4eW41Zldibjh4WVhYQ09QRkE5ZG1OZWtxQ3liRHdfZ0VkQm43MzUyYkhIeXlhSW9yZXRPdzVSYVNjNmlYQUJnT21tbmNaQkQ1NngyTk9oZlhqMUhYSFlvaFlUdUlXM2hwX0lvUVpMMDlFaUNPc1pUUzNQM0NR?oc=5",
+          "published": "2026-10-16T06:12:06+00:00"
+        },
+        {
+          "title_ko": "미 법무부, ‘외국인 유권자 2만 명’ 문제로 캘리포니아 당국 제소",
+          "title_original": "Justice Dept. sues California officials over 20K alleged noncitizen voters",
+          "summary_ko": "미국 법무부가 시민권이 없는 유권자 약 2만 명이 등록돼 있다고 주장하며 캘리포니아주 관계자들을 상대로 소송을 제기했다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGlWVGtNOVVmb0hpOTNYV2VERnpvWmNQSmhkc1Z2c1hRVktTMXNHVHI4QjE3VGdRcXVqaDMweDVjUzhmVlZPckF1ZjVGaWVJbDZQNlJhQV92RnJ5NXg1T0FRS2t3YU5tbkRKTjhyRjJVd2o4T21vdENyMVlQek80SmV6RlNVWUNqVHpCSVNDOWdEN09Ca051aGctWXFFV0pSbHVaUDJURDhtaFVkRERHT3VhUDJYSUFXR29lVXdYYWt4Mlk?oc=5",
+          "published": "2026-10-16T03:25:23+00:00"
+        },
+        {
+          "title_ko": "슈머 등 연방 의원들에게 의심 물질 배달돼",
+          "title_original": "Suspicious materials sent to Schumer, other members of Congress, authorities say",
+          "summary_ko": "척 슈머 상원 원내대표를 비롯한 여러 의회 의원들에게 의심스러운 물질이 발송됐다고 당국이 밝혔다.",
+          "category": "사회",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdllCRWpCUkFzN1ByRFBiMTFyR1o1RUl5dTltMzN1V1Rpam5iTGVFUW1VbGQwVllhbVYyVWRQX09EdnZocGY0c0JxNTlMZGhWOXcyWmNyMWQ1RnVCaVhmRmZoRjZsSTdCTlpXdHUxRmt5ZmhENm9sOGFiZjFTNFRLVW5XWVl6TENfMnFZaWowWklEU1cyUC13cGxfSXVEQWJGMG1HVmt6OE0?oc=5",
+          "published": "2026-10-16T03:22:34+00:00"
+        },
+        {
+          "title_ko": "“선원 체포 후 선박 폭파”…미국, 해상 마약 단속 작전 방식 전환",
+          "title_original": "Seize crew, then blow up boat. U.S. shifts tactics in anti-drug strikes at sea.",
+          "summary_ko": "미국이 바다에서 벌이는 마약 밀수 대응 작전에서 선원을 먼저 체포한 뒤 선박을 폭파하는 방식으로 전술을 바꿨다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFNadFNYUmxmMWNMeTRqdzc5aWhiTjVxOUxNWUppZjFoYzlHRkhBUWFFTmFDNF90VEowRTd0TGR2ZW1pWW1seUFlSUpMYTVkTzljdEVGVDFjRXBfak9fZm5iSEJ6UjlYbjI2YThveWw5NlpBY1M3ZU9zTFdJNEVqakI3Vnc0aThuU2xCWGtxckh5ZC1XOVlOb2FMMlRILWFVV3lsRDlHUW9teXJLSEhJQ0FWVkpPUQ?oc=5",
+          "published": "2026-10-16T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "name_en": "The Korea Economic Daily",
+      "articles": [
+        {
+          "title_ko": "한미 재무·통화당국 첫 ‘2+2’ 회동…“금융 충격 땐 신속 공조”",
+          "title_original": null,
+          "summary_ko": "한국과 미국의 재무 당국과 중앙은행이 처음으로 ‘2+2’ 형식의 회의를 열었다. 양국은 금융시장에 충격이 닥치면 신속히 공조하기로 했다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/2026101672657",
+          "published": "2026-10-16T10:18:09+00:00"
+        },
+        {
+          "title_ko": "불황에 빚 못 견딘 법인파산, 4년 새 2.4배",
+          "title_original": null,
+          "summary_ko": "경기 불황 속에 빚을 감당하지 못하고 파산하는 중소기업이 4년 사이 2.4배로 늘었다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026101775467",
+          "published": "2026-10-16T23:30:35+00:00"
+        },
+        {
+          "title_ko": "고유가에 수입물가 반등…최고가격제 또 동결",
+          "title_original": null,
+          "summary_ko": "유가 상승으로 수입물가가 다시 오름세로 돌아섰고, 정부는 최고가격제를 또다시 동결했다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026101671641",
+          "published": "2026-10-16T09:00:03+00:00"
+        },
+        {
+          "title_ko": "美 데이터센터 열풍에 K변압기 수출 고공행진",
+          "title_original": null,
+          "summary_ko": "미국의 데이터센터 건설 붐을 타고 한국산 변압기 수출이 큰 폭으로 늘고 있다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026101670421",
+          "published": "2026-10-16T08:33:07+00:00"
+        },
+        {
+          "title_ko": "애플 CEO, 반도체 품귀에 ‘중국산 메모리’ 사용 시사",
+          "title_original": null,
+          "summary_ko": "반도체 공급 부족이 이어지자 애플 최고경영자가 중국산 메모리 채택 가능성을 내비쳤다. 국내 메모리 업계에도 영향을 줄 수 있는 대목이다.",
+          "category": "기술",
+          "url": "https://www.hankyung.com/article/2026101670441",
+          "published": "2026-10-16T08:32:21+00:00"
+        }
+      ]
+    }
+  ]
+}
