@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T08:50:09.662318+09:00",
+  "sources": [
+    {
+      "id": "nyt",
+      "name": "뉴욕타임즈",
+      "name_en": "The New York Times",
+      "articles": [
+        {
+          "title_ko": "트럼프, 러시아 신규 제재 면제… 푸틴에 경제적 숨통 터주며 보답 기대",
+          "title_original": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
+          "summary_ko": "트럼프 행정부가 의회의 뜻을 무시하고 러시아에 대한 신규 제재를 면제했다. 고유가가 다음 달 선거에서 공화당에 불리하게 작용할 수 있다는 우려가 배경으로 꼽히며, 러시아가 그에 상응하는 보답을 하기를 기대하는 조치로 풀이된다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
+          "published": "2026-10-17T23:46:16+00:00"
+        },
+        {
+          "title_ko": "균열 깊어지는 트럼프-젤렌스키 관계, 우크라이나와 유럽 동맹에 타격 우려",
+          "title_original": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
+          "summary_ko": "트럼프 대통령과 젤렌스키 대통령 간 설전이 어디까지 이어질지 예측하기 어려운 상황이다. 갈등이 계속되면 우크라이나가 여전히 미국으로부터 받고 있는 핵심적인 작전 지원이 위협받을 수 있다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
+          "published": "2026-10-16T19:12:25+00:00"
+        },
+        {
+          "title_ko": "AI 차입에 드러나기 시작한 약한 고리",
+          "title_original": "Weak Links Start to Show in A.I. Borrowing",
+          "summary_ko": "코어위브, 오라클, 소프트뱅크에서 부채 문제가 불거지고 있다. 이는 데이터센터 확장 전반에 더 광범위한 문제가 있는 것 아니냐는 의문을 낳고 있다.",
+          "category": "금융",
+          "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
+          "published": "2026-10-17T18:00:06+00:00"
+        },
+        {
+          "title_ko": "트럼프 정부서 기업 이익 급증에도 법인세 수입은 감소",
+          "title_original": "Corporate Tax Revenue Falls Even as Profits Soar Under Trump",
+          "summary_ko": "연간 법인세 수입이 약 700억 달러 줄었다. 기업들이 트럼프 대통령이 서명한 감세법을 활용해 수십억 달러 규모의 AI 투자를 비용으로 처리하고 있기 때문이다.",
+          "category": "경제",
+          "url": "https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html",
+          "published": "2026-10-17T09:02:09+00:00"
+        },
+        {
+          "title_ko": "프랑스 시위의 날 폭력 사태로 얼룩져… 학생 운동 전국으로 확산",
+          "title_original": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+          "summary_ko": "생활비 상승과 열악한 학교 여건에 항의하는 수만 명의 평화 행진과 함께 프랑스 여러 도시에서 폭동이 일어났다. 학생 중심으로 시작된 운동이 전국적 시위로 번지고 있다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+          "published": "2026-10-17T22:06:44+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wapo",
+      "name": "워싱턴포스트",
+      "name_en": "The Washington Post",
+      "articles": [
+        {
+          "title_ko": "트럼프의 대러시아 제재 면제에 여야 한목소리로 반발",
+          "title_original": "Trump’s waiver of sanctions on Russia stirs bipartisan outrage",
+          "summary_ko": "트럼프 대통령이 러시아에 대한 제재를 면제하자 민주·공화 양당 모두에서 거센 반발이 나오고 있습니다. 대러 정책을 둘러싼 행정부와 의회 간 갈등을 보여주는 사안으로 주목됩니다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5",
+          "published": "2026-10-17T23:42:08+00:00"
+        },
+        {
+          "title_ko": "오리건주 초등학교 총격 사건, 알아야 할 것들",
+          "title_original": "What to know about the Oregon elementary school shooting",
+          "summary_ko": "미국 오리건주의 한 초등학교에서 총격 사건이 발생했습니다. 경찰은 교사와 기민하게 대응한 한 아버지가 인명 피해를 줄이는 데 도움을 줬다고 밝혔습니다.",
+          "category": "사회",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHNhYXNlMlh0eGtmUGRWeXlfejYxUGR3Y0tBS0VrMElYVzJzWVlZTnRzWHU4dUhxdjJtX01IeXotRm5OSHF2OHI5WmxjbThpUENVcThBdWZYVmxPZDF3aVlwdndnb0hQZGw3Wjluam1MelRXcWJpN2hCWF9UMTdqY0lCZ2QzLWtxR096aEp4M3FTTEhOVHNnZ3lrdVZSX1FmTXczWjF5VExFMmdQZUt1ZHpzTEtGZDg?oc=5",
+          "published": "2026-10-17T05:43:19+00:00"
+        },
+        {
+          "title_ko": "요르단강 서안서 이스라엘 정착민, 팔레스타인인과 WP 사진기자 공격",
+          "title_original": "Israeli settlers attack Palestinians and Washington Post photographer in West Bank",
+          "summary_ko": "요르단강 서안지구에서 이스라엘 정착민들이 팔레스타인 주민들과 워싱턴포스트 사진기자를 공격했습니다. 미 의회 의원들도 이번 공격을 규탄하고 나섰습니다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1p3QWNMcUlFQTQxMVgtX2U3YVhmMzBPcjg3U3RmSXFqc3ljOWxuc3h4MXRtQ0tYQkk5RjZYblBWdDVGM3hTcmlwaDRLZ1BRNWJOU1JTam80SmFWMTNYNks2X2V2TURDQmoxZWo1X1h5MnpocVdVRGpWUnI4dGRWM3BmTEh5WWU5cl9mdkhRTldqc2hSSlZrV3hKSE1rdFMzNENJbVdmeEZtWDFmRVE?oc=5",
+          "published": "2026-10-17T00:09:55+00:00"
+        },
+        {
+          "title_ko": "트럼프의 선거부정 태스크포스, 과거 자신을 수사한 인사들 겨냥",
+          "title_original": "Trump’s election fraud task force is going after the people who investigated him",
+          "summary_ko": "트럼프 행정부의 선거부정 태스크포스가 과거 트럼프 대통령을 수사했던 인물들을 표적으로 삼고 있는 것으로 나타났습니다. 정부 기구가 정치적 보복에 활용되는 것 아니냐는 논란과 맞닿은 사안입니다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2ZGc1NIWVAyLXYyZGFKSDBNWUZQb3R6V2x0Q1Ffem00OFBfaHlId3d1dUpkNE9CejlwYS1yRG1ycUUtNk1XSU5iekJlVWtjZlRvTmRvZUpiS3V1ZDUwSUZZdDFOQmE5YkNtX2x4S2JZRFZOZWtqNlpuUU1Nc09oMEwtV3hqaC1UN29aWFU4M3ZBQl9DbEt2SUVjUkV4cWJWLWZYQjN2RS1KYnRLN3RlbG5OcHBFUUZtZkFraUx0U25iTnN5Wmc?oc=5",
+          "published": "2026-10-17T16:00:00+00:00"
+        },
+        {
+          "title_ko": "교황 레오, 폐암 수술 후 퇴원",
+          "title_original": "Pope Leo leaves hospital after lung cancer operation",
+          "summary_ko": "교황 레오가 폐암 수술을 받은 뒤 병원에서 퇴원했습니다. 전 세계 가톨릭 신자들의 관심이 쏠린 교황의 건강 문제와 관련된 소식입니다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeGhYWFhIdFdCRnFmd2FTQUFrRjZSUHo0VldwQVpfY2xwNWtUVjFJQlp5UEdZTnZUYjRXSy1sdkFOVFVVaXlLbFk2TnZPcE4xcmlpS3c3T1lpWTdXY1JWNko0cjhRTTR4NnJ3dENVd090NzB3TF9HNUdqX2xkLTZzbjNXRW1KTXFISkdVUUk2ejdJRGV6STZhN010aEtqTlpP?oc=5",
+          "published": "2026-10-17T21:19:31+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "name_en": "The Korea Economic Daily",
+      "articles": [
+        {
+          "title_ko": "빚투 3천억 원 강제청산… 증시 급락에도 정부는 '예의 주시'만",
+          "title_original": null,
+          "summary_ko": "빚을 내 주식에 투자한 이른바 '빚투' 물량 3천억 원어치가 강제청산된 것으로 나타났습니다. 증시가 흔들리는데도 정부 대응은 '예의 주시'라는 말에 그친다는 비판이 나옵니다. 개인투자자 손실과 시장 불안이 커질 수 있다는 점에서 주목됩니다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/2026101780247",
+          "published": "2026-10-17T14:03:05+00:00"
+        },
+        {
+          "title_ko": "나스닥 2.2% 하락하며 최악의 한 주… AI 경고등에 유가 급등까지",
+          "title_original": null,
+          "summary_ko": "뉴욕증시 나스닥 지수가 한 주 동안 2.2% 하락하며 최악의 일주일을 보냈습니다. AI 관련 경고 신호와 유가 급등이 겹치면서 투자 심리가 위축됐습니다. 글로벌 증시와 국내 반도체주에도 영향을 줄 수 있는 흐름입니다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/2026101775037",
+          "published": "2026-10-16T22:55:04+00:00"
+        },
+        {
+          "title_ko": "불황에 빚 못 갚은 중소기업… 법인파산 4년 새 2.4배로 늘어",
+          "title_original": null,
+          "summary_ko": "경기 불황 속에 빚을 감당하지 못해 파산하는 법인이 4년 사이 2.4배로 늘었습니다. 중소기업의 경영난이 심각해지고 있음을 보여주는 지표로, 실물경제 전반의 위험 신호로 읽힙니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026101775467",
+          "published": "2026-10-16T23:30:35+00:00"
+        },
+        {
+          "title_ko": "'없어서 못 판다'… 중국 반도체, 삼성전자·SK하이닉스 맹추격",
+          "title_original": null,
+          "summary_ko": "중국 반도체 업체들이 삼성전자와 SK하이닉스를 빠르게 추격하고 있습니다. 공급 부족 속에 수요가 넘치는 상황에서 중국의 기술력이 예상보다 높아졌다는 평가가 나옵니다. 한국 반도체 산업의 경쟁 구도에 변화를 줄 수 있다는 점에서 중요합니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026101779027",
+          "published": "2026-10-17T09:06:38+00:00"
+        },
+        {
+          "title_ko": "\"반도체는 워싱턴에서 결정된다\"… 최태원 회장, 직접 미국행",
+          "title_original": null,
+          "summary_ko": "최태원 SK그룹 회장이 반도체 산업의 향방이 미국 워싱턴에서 결정된다고 보고 직접 미국을 찾았습니다. 반도체가 기술을 넘어 정책·외교 사안이 된 상황에서 대미 대응에 승부수를 던진 것으로 풀이됩니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026101667266",
+          "published": "2026-10-17T00:30:01+00:00"
+        }
+      ]
+    }
+  ]
+}
