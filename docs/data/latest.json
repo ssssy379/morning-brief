@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T08:50:09.662318+09:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T08:50:50.670935+09:00",
   "sources": [
     {
       "id": "nyt",
@@ -8,44 +8,44 @@
       "name_en": "The New York Times",
       "articles": [
         {
-          "title_ko": "트럼프, 러시아 신규 제재 면제… 푸틴에 경제적 숨통 터주며 보답 기대",
-          "title_original": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
-          "summary_ko": "트럼프 행정부가 의회의 뜻을 무시하고 러시아에 대한 신규 제재를 면제했다. 고유가가 다음 달 선거에서 공화당에 불리하게 작용할 수 있다는 우려가 배경으로 꼽히며, 러시아가 그에 상응하는 보답을 하기를 기대하는 조치로 풀이된다.",
+          "title_ko": "프랑스, 시위가 폭동으로 번지며 충격… 건물·상점 파손",
+          "title_original": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
+          "summary_ko": "생활비 상승과 열악한 학교 여건에 항의하는 반정부 시위가 학생 운동을 계기로 전국으로 확산되면서 주말 동안 여러 도시에서 폭동으로 번졌습니다. 시청과 상점이 공격받았고, 평소 조용하던 리모주에서는 시청에 불이 났습니다. 일요일에는 소요가 대체로 진정됐지만, 좌우 정치권 지도자들은 서로에게 책임을 돌리고 있습니다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+          "published": "2026-10-18T22:50:27+00:00"
+        },
+        {
+          "title_ko": "미국, 러시아에 '생명줄' 제안… 대유럽 가스 판매 확대 허용 검토",
+          "title_original": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
+          "summary_ko": "트럼프 행정부가 우크라이나 평화협정의 일환으로 러시아의 대유럽 가스 판매를 늘리도록 허용하는 방안을 내놓았습니다. 유럽은 이에 경계하고 있으며, 비판론자들은 러시아의 힘만 키워줄 것이라고 지적합니다. 우크라이나 전쟁 종식 협상의 방향과 유럽 에너지 안보에 큰 영향을 줄 수 있는 사안입니다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
+          "published": "2026-10-17T18:00:45+00:00"
+        },
+        {
+          "title_ko": "트럼프 유세 나섰지만… 백악관 혼란에 공화당 중간선거 전망 '먹구름'",
+          "title_original": "Trump Hits Campaign Trail as White House Turmoil Weighs on GOP Midterm Prospects",
+          "summary_ko": "트럼프 대통령이 전국을 돌며 유세를 이어가는 동안 백악관은 잇따른 내부 갈등과 논란에 휩싸였습니다. 이런 상황은 트럼프 대통령의 국정 운영이 중간선거를 앞둔 공화당에 부담이 되고 있음을 보여줍니다.",
           "category": "정치",
-          "url": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
-          "published": "2026-10-17T23:46:16+00:00"
+          "url": "https://www.nytimes.com/2026/10/18/us/trump-midterm-elections-republicans-approval-ratings.html",
+          "published": "2026-10-18T21:50:16+00:00"
         },
         {
-          "title_ko": "균열 깊어지는 트럼프-젤렌스키 관계, 우크라이나와 유럽 동맹에 타격 우려",
-          "title_original": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
-          "summary_ko": "트럼프 대통령과 젤렌스키 대통령 간 설전이 어디까지 이어질지 예측하기 어려운 상황이다. 갈등이 계속되면 우크라이나가 여전히 미국으로부터 받고 있는 핵심적인 작전 지원이 위협받을 수 있다.",
+          "title_ko": "O.J. 심슨 사건, 비밀 정보원과 수십 년 묵은 미스터리",
+          "title_original": "O.J. Simpson, a Secret Informant and a Decades-Old Mystery",
+          "summary_ko": "새로 공개된 기록에 따르면 '매우 신뢰할 만한' 한 정보원이 당국에 사라진 살해 흉기에 관한 정보를 제공한 것으로 드러났습니다. 이 정보원의 형제는 뉴욕타임스에 그가 범행 현장에 있었다고 밝혔습니다. 뉴욕타임스는 새로 공개된 법원 자료와 인터뷰를 토대로 '세기의 재판'을 둘러싼 통념에 의문을 제기하는 재조명 보도를 했습니다.",
+          "category": "사회",
+          "url": "https://www.nytimes.com/2026/10/18/us/oj-simpson-ippolito-informant-accomplice.html",
+          "published": "2026-10-18T13:05:18+00:00"
+        },
+        {
+          "title_ko": "이집트 국방 수뇌부, 후티 공격받은 사우디 지원 약속",
+          "title_original": "Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks",
+          "summary_ko": "후티 반군의 공격 이후 이집트 국방 수뇌부가 사우디아라비아를 지원하겠다고 약속했습니다. 앞서 엘시시 대통령은 의회에 사우디에 대한 군사 지원 승인을 요청하며, 지원은 방어적 성격이 될 것이라고 밝혔습니다. 엘시시 대통령은 또한 2030년에 퇴임하겠다며 헌법상 임기 제한을 존중하겠다고 약속했습니다.",
           "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
-          "published": "2026-10-16T19:12:25+00:00"
-        },
-        {
-          "title_ko": "AI 차입에 드러나기 시작한 약한 고리",
-          "title_original": "Weak Links Start to Show in A.I. Borrowing",
-          "summary_ko": "코어위브, 오라클, 소프트뱅크에서 부채 문제가 불거지고 있다. 이는 데이터센터 확장 전반에 더 광범위한 문제가 있는 것 아니냐는 의문을 낳고 있다.",
-          "category": "금융",
-          "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
-          "published": "2026-10-17T18:00:06+00:00"
-        },
-        {
-          "title_ko": "트럼프 정부서 기업 이익 급증에도 법인세 수입은 감소",
-          "title_original": "Corporate Tax Revenue Falls Even as Profits Soar Under Trump",
-          "summary_ko": "연간 법인세 수입이 약 700억 달러 줄었다. 기업들이 트럼프 대통령이 서명한 감세법을 활용해 수십억 달러 규모의 AI 투자를 비용으로 처리하고 있기 때문이다.",
-          "category": "경제",
-          "url": "https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html",
-          "published": "2026-10-17T09:02:09+00:00"
-        },
-        {
-          "title_ko": "프랑스 시위의 날 폭력 사태로 얼룩져… 학생 운동 전국으로 확산",
-          "title_original": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
-          "summary_ko": "생활비 상승과 열악한 학교 여건에 항의하는 수만 명의 평화 행진과 함께 프랑스 여러 도시에서 폭동이 일어났다. 학생 중심으로 시작된 운동이 전국적 시위로 번지고 있다.",
-          "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
-          "published": "2026-10-17T22:06:44+00:00"
+          "url": "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html",
+          "published": "2026-10-18T15:00:02+00:00"
         }
       ]
     },
@@ -55,44 +55,44 @@
       "name_en": "The Washington Post",
       "articles": [
         {
-          "title_ko": "트럼프의 대러시아 제재 면제에 여야 한목소리로 반발",
+          "title_ko": "이란 전쟁 확산 속 사우디와 후티 반군, '싸움만이 유일한 길'로 판단",
+          "title_original": "As Iran war spills over, Saudis and Houthis see fighting as only path ahead",
+          "summary_ko": "이란 전쟁이 주변 지역으로 번지면서 사우디아라비아와 예멘 후티 반군이 모두 전투를 앞으로 나아갈 유일한 길로 보고 있다고 워싱턴포스트가 보도했습니다. 중동 분쟁이 더 확대될 수 있음을 보여주는 신호입니다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEJaeEpsVGVjMFo4YlNuNXhoMXBpLVF3OXNWNDFRSnphZzJ2dGRlMnJKRFl0WlR6SDJoODFSZ1cta2tHTmJQQUtYX1NzVlVRVTNLUGVCYVNadVh4NVV3b0JJOWg4eUtUb2dKbmV6cVo4ZTJrN0k1UUZvM1BERFotSFVQVnNndHJOVjFfTWFMSDBzQkM0bFlKbWVaNFE2Vld1cnlzN3FOeWwwLXhEaXVxcUxkbw?oc=5",
+          "published": "2026-10-18T16:00:00+00:00"
+        },
+        {
+          "title_ko": "트럼프 지지율 사상 최저… 중간선거에서 민주당 뚜렷한 우위",
+          "title_original": "Trump approval hits record low, handing Democrats a clear midterm edge",
+          "summary_ko": "트럼프 대통령의 지지율이 사상 최저치를 기록했습니다. 이로 인해 다가오는 중간선거에서 민주당이 분명한 우위를 점하게 됐다는 분석이 나옵니다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkJrME56Z1A3aVBwazIzNTA5ekFNUDFtRzAyaTgteUo1cU4yOElmOFJwYzB4WUVkR3hoWk5QYk9kbDRJR3AtWm91VEZfRnUyQzBQeVk1czBkWGhhNXZwWjNtUk1NdVpRcG1DMGZTZ2swcU5lQmFESzR5Y2h6ak1OdWhKQ0kxTERscDBPcGZlWWVleFdPczNVOWdlYkdkQUtick1oanByQlkxXzJKWi1hRDNDYXlFekVlaG1r?oc=5",
+          "published": "2026-10-18T21:08:56+00:00"
+        },
+        {
+          "title_ko": "트럼프의 대러시아 제재 유예, 여야 모두 거센 반발",
           "title_original": "Trump’s waiver of sanctions on Russia stirs bipartisan outrage",
-          "summary_ko": "트럼프 대통령이 러시아에 대한 제재를 면제하자 민주·공화 양당 모두에서 거센 반발이 나오고 있습니다. 대러 정책을 둘러싼 행정부와 의회 간 갈등을 보여주는 사안으로 주목됩니다.",
+          "summary_ko": "트럼프 대통령이 러시아에 대한 제재를 유예하자 공화·민주 양당에서 강한 반발이 일고 있습니다. 대러 정책을 둘러싼 초당적 우려가 커지고 있음을 보여줍니다.",
           "category": "국제",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5",
-          "published": "2026-10-17T23:42:08+00:00"
+          "published": "2026-10-18T04:16:00+00:00"
         },
         {
-          "title_ko": "오리건주 초등학교 총격 사건, 알아야 할 것들",
-          "title_original": "What to know about the Oregon elementary school shooting",
-          "summary_ko": "미국 오리건주의 한 초등학교에서 총격 사건이 발생했습니다. 경찰은 교사와 기민하게 대응한 한 아버지가 인명 피해를 줄이는 데 도움을 줬다고 밝혔습니다.",
-          "category": "사회",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHNhYXNlMlh0eGtmUGRWeXlfejYxUGR3Y0tBS0VrMElYVzJzWVlZTnRzWHU4dUhxdjJtX01IeXotRm5OSHF2OHI5WmxjbThpUENVcThBdWZYVmxPZDF3aVlwdndnb0hQZGw3Wjluam1MelRXcWJpN2hCWF9UMTdqY0lCZ2QzLWtxR096aEp4M3FTTEhOVHNnZ3lrdVZSX1FmTXczWjF5VExFMmdQZUt1ZHpzTEtGZDg?oc=5",
-          "published": "2026-10-17T05:43:19+00:00"
-        },
-        {
-          "title_ko": "요르단강 서안서 이스라엘 정착민, 팔레스타인인과 WP 사진기자 공격",
-          "title_original": "Israeli settlers attack Palestinians and Washington Post photographer in West Bank",
-          "summary_ko": "요르단강 서안지구에서 이스라엘 정착민들이 팔레스타인 주민들과 워싱턴포스트 사진기자를 공격했습니다. 미 의회 의원들도 이번 공격을 규탄하고 나섰습니다.",
-          "category": "국제",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1p3QWNMcUlFQTQxMVgtX2U3YVhmMzBPcjg3U3RmSXFqc3ljOWxuc3h4MXRtQ0tYQkk5RjZYblBWdDVGM3hTcmlwaDRLZ1BRNWJOU1JTam80SmFWMTNYNks2X2V2TURDQmoxZWo1X1h5MnpocVdVRGpWUnI4dGRWM3BmTEh5WWU5cl9mdkhRTldqc2hSSlZrV3hKSE1rdFMzNENJbVdmeEZtWDFmRVE?oc=5",
-          "published": "2026-10-17T00:09:55+00:00"
-        },
-        {
-          "title_ko": "트럼프의 선거부정 태스크포스, 과거 자신을 수사한 인사들 겨냥",
-          "title_original": "Trump’s election fraud task force is going after the people who investigated him",
-          "summary_ko": "트럼프 행정부의 선거부정 태스크포스가 과거 트럼프 대통령을 수사했던 인물들을 표적으로 삼고 있는 것으로 나타났습니다. 정부 기구가 정치적 보복에 활용되는 것 아니냐는 논란과 맞닿은 사안입니다.",
+          "title_ko": "일한 오마 하원의원 측 \"당국이 판사의 자택 수색 제한 무시\"",
+          "title_original": "Rep. Ilhan Omar’s lawyers say authorities ignored judge’s restrictions on home search",
+          "summary_ko": "일한 오마 하원의원의 변호인단은 당국이 자택 수색 과정에서 판사가 정한 제한을 무시했다고 주장했습니다. 오바마 전 대통령도 트럼프 행정부 관리들의 오마 의원 추적이 '모든 미국인을 분노케 해야 한다'고 비판하는 등 정치적 파장이 커지고 있습니다.",
           "category": "정치",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2ZGc1NIWVAyLXYyZGFKSDBNWUZQb3R6V2x0Q1Ffem00OFBfaHlId3d1dUpkNE9CejlwYS1yRG1ycUUtNk1XSU5iekJlVWtjZlRvTmRvZUpiS3V1ZDUwSUZZdDFOQmE5YkNtX2x4S2JZRFZOZWtqNlpuUU1Nc09oMEwtV3hqaC1UN29aWFU4M3ZBQl9DbEt2SUVjUkV4cWJWLWZYQjN2RS1KYnRLN3RlbG5OcHBFUUZtZkFraUx0U25iTnN5Wmc?oc=5",
-          "published": "2026-10-17T16:00:00+00:00"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRUlsZVQwRS0xdzNOV09jVzh6NnQzZndNN25GdEQ0YUw1U294ZTZLcm9uNXAtZzBUampmT1pzVDVjUHR1cDNqS3pTM2g1czAwbWo5WHN6bU9tMC1wYXRqSmp5UmNES0xpVlBfRnZkQzVDNVBWMlRrSnpZV3hYb3JNY0pwSXZvUUtYd1BlQmFRU21Nd3p5OVl2Z0pUZkZ2LXVFYlJORDk0M2J3ZDVEaDBTUkt3NnJ1eXJCTFNKRUdRM3REMnhEUnBGMFZzdjIzUmNjSDR0OE5yZw?oc=5",
+          "published": "2026-10-18T03:35:00+00:00"
         },
         {
-          "title_ko": "교황 레오, 폐암 수술 후 퇴원",
-          "title_original": "Pope Leo leaves hospital after lung cancer operation",
-          "summary_ko": "교황 레오가 폐암 수술을 받은 뒤 병원에서 퇴원했습니다. 전 세계 가톨릭 신자들의 관심이 쏠린 교황의 건강 문제와 관련된 소식입니다.",
+          "title_ko": "프랑스, 공공건물 방화·수백 명 구금 등 소요 사태로 혼란",
+          "title_original": "France reels from unrest, with public buildings burned and hundreds detained",
+          "summary_ko": "프랑스에서 소요 사태가 벌어져 공공건물이 불타고 수백 명이 구금됐습니다. 프랑스 사회가 심각한 혼란에 빠져 있음을 보여줍니다.",
           "category": "국제",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeGhYWFhIdFdCRnFmd2FTQUFrRjZSUHo0VldwQVpfY2xwNWtUVjFJQlp5UEdZTnZUYjRXSy1sdkFOVFVVaXlLbFk2TnZPcE4xcmlpS3c3T1lpWTdXY1JWNko0cjhRTTR4NnJ3dENVd090NzB3TF9HNUdqX2xkLTZzbjNXRW1KTXFISkdVUUk2ejdJRGV6STZhN010aEtqTlpP?oc=5",
-          "published": "2026-10-17T21:19:31+00:00"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTkxVSTcyeG5GWU5fZU9YQ2l4em1TNDFGT1BpT19ldXhOMEx0azNBc3lUVERoT0ZZUmNnWU9BbXFtRlBjS21PcXY3VUF6STdOQi1RQ2hyanNSaUFXQlY0bnI5bTFmTS13MnpxYjMtdmVMUVZrd3NiY0hlS29TZzgzTTdyWlNRUQ?oc=5",
+          "published": "2026-10-18T22:38:54+00:00"
         }
       ]
     },
@@ -102,44 +102,44 @@
       "name_en": "The Korea Economic Daily",
       "articles": [
         {
-          "title_ko": "빚투 3천억 원 강제청산… 증시 급락에도 정부는 '예의 주시'만",
+          "title_ko": "국민연금 보유 주식 100일 만에 182조 원 증발…삼성전자·SK하이닉스에서만 131조 원 손실",
           "title_original": null,
-          "summary_ko": "빚을 내 주식에 투자한 이른바 '빚투' 물량 3천억 원어치가 강제청산된 것으로 나타났습니다. 증시가 흔들리는데도 정부 대응은 '예의 주시'라는 말에 그친다는 비판이 나옵니다. 개인투자자 손실과 시장 불안이 커질 수 있다는 점에서 주목됩니다.",
+          "summary_ko": "국민연금의 주식 평가액이 최근 100일 동안 182조 원 줄어든 것으로 나타났습니다. 이 가운데 131조 원이 삼성전자와 SK하이닉스에 몰려 있었습니다. 국민 노후자금의 운용 성과와 특정 종목 집중 위험을 드러낸 사안입니다.",
           "category": "금융",
-          "url": "https://www.hankyung.com/article/2026101780247",
-          "published": "2026-10-17T14:03:05+00:00"
+          "url": "https://www.hankyung.com/article/2026101993047",
+          "published": "2026-10-18T22:23:35+00:00"
         },
         {
-          "title_ko": "나스닥 2.2% 하락하며 최악의 한 주… AI 경고등에 유가 급등까지",
+          "title_ko": "10조 달러 AI 투자 흔들…데이터센터 계획 중 현실성 있는 건 35%뿐",
           "title_original": null,
-          "summary_ko": "뉴욕증시 나스닥 지수가 한 주 동안 2.2% 하락하며 최악의 일주일을 보냈습니다. AI 관련 경고 신호와 유가 급등이 겹치면서 투자 심리가 위축됐습니다. 글로벌 증시와 국내 반도체주에도 영향을 줄 수 있는 흐름입니다.",
-          "category": "국제",
-          "url": "https://www.hankyung.com/article/2026101775037",
-          "published": "2026-10-16T22:55:04+00:00"
+          "summary_ko": "10조 달러 규모로 거론되는 AI 투자 계획이 흔들리고 있습니다. 발표된 데이터센터 계획 가운데 현실성이 있는 것은 35%에 그친다는 분석이 나왔습니다. AI 투자 열기의 지속 가능성에 의문을 던지는 내용입니다.",
+          "category": "기술",
+          "url": "https://www.hankyung.com/article/202610199367i",
+          "published": "2026-10-18T23:03:20+00:00"
         },
         {
-          "title_ko": "불황에 빚 못 갚은 중소기업… 법인파산 4년 새 2.4배로 늘어",
+          "title_ko": "\"한국은행, 10월 기준금리 동결 후 11월 인상 유력\"",
           "title_original": null,
-          "summary_ko": "경기 불황 속에 빚을 감당하지 못해 파산하는 법인이 4년 사이 2.4배로 늘었습니다. 중소기업의 경영난이 심각해지고 있음을 보여주는 지표로, 실물경제 전반의 위험 신호로 읽힙니다.",
+          "summary_ko": "한국은행이 10월에는 기준금리를 동결하고 11월에 인상할 가능성이 크다는 전망이 나왔습니다. 금리 인상이 현실화하면 가계와 기업의 자금 조달 여건 전반에 영향을 줄 전망입니다.",
           "category": "경제",
-          "url": "https://www.hankyung.com/article/2026101775467",
-          "published": "2026-10-16T23:30:35+00:00"
+          "url": "https://www.hankyung.com/article/2026101888781",
+          "published": "2026-10-18T08:27:09+00:00"
         },
         {
-          "title_ko": "'없어서 못 판다'… 중국 반도체, 삼성전자·SK하이닉스 맹추격",
+          "title_ko": "유럽 숨통 죄는 중국의 공세…배터리·전기차 공장만 26곳",
           "title_original": null,
-          "summary_ko": "중국 반도체 업체들이 삼성전자와 SK하이닉스를 빠르게 추격하고 있습니다. 공급 부족 속에 수요가 넘치는 상황에서 중국의 기술력이 예상보다 높아졌다는 평가가 나옵니다. 한국 반도체 산업의 경쟁 구도에 변화를 줄 수 있다는 점에서 중요합니다.",
-          "category": "산업",
-          "url": "https://www.hankyung.com/article/2026101779027",
-          "published": "2026-10-17T09:06:38+00:00"
+          "summary_ko": "중국이 유럽에 배터리·전기차 공장 26곳을 세우며 현지 시장을 빠르게 잠식하고 있습니다. 유럽의 관세 부과에 맞서 현지 생산으로 대응하는 것으로, BYD는 27% 관세를 피하려고 헝가리에 생산 거점을 마련했습니다. 한·중 전기차 경쟁의 격전지가 된 유럽에서 제조업의 미래가 갈릴 것이라는 분석입니다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/2026101889341",
+          "published": "2026-10-18T08:35:11+00:00"
         },
         {
-          "title_ko": "\"반도체는 워싱턴에서 결정된다\"… 최태원 회장, 직접 미국행",
+          "title_ko": "\"한국 없인 안 돼\"…체코 SMR 독자 수주로 대박 난 K원전 공급망",
           "title_original": null,
-          "summary_ko": "최태원 SK그룹 회장이 반도체 산업의 향방이 미국 워싱턴에서 결정된다고 보고 직접 미국을 찾았습니다. 반도체가 기술을 넘어 정책·외교 사안이 된 상황에서 대미 대응에 승부수를 던진 것으로 풀이됩니다.",
+          "summary_ko": "체코의 소형모듈원전(SMR) 독자 수주를 계기로 한국 원전 공급망(밸류체인)이 주목받고 있습니다. 한국 기업의 역할이 필수적이라는 평가가 나오며 국내 원전 산업의 해외 사업 기회가 확대되고 있습니다.",
           "category": "산업",
-          "url": "https://www.hankyung.com/article/2026101667266",
-          "published": "2026-10-17T00:30:01+00:00"
+          "url": "https://www.hankyung.com/article/202610154699i",
+          "published": "2026-10-18T23:00:03+00:00"
         }
       ]
     }
