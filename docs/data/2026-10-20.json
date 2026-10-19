@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T08:57:03.293781+09:00",
+  "sources": [
+    {
+      "id": "nyt",
+      "name": "뉴욕타임즈",
+      "name_en": "The New York Times",
+      "articles": [
+        {
+          "title_ko": "프랑스, 전국적 폭동 후 파리 등 일부 도시에 통행금지령",
+          "title_original": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
+          "summary_ko": "생활비 부담과 열악한 학교 여건에 항의하는 주말 시위가 폭동으로 번지자 프랑스가 파리 일부와 여러 도시에 통행금지를 시행했다. 내무장관은 경찰이 폭동 규모에 대비하지 못했다고 인정했으나, 세바스티앵 르코르뉘 총리는 경찰 대응을 옹호하며 질서 회복을 약속했다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
+          "published": "2026-10-19T19:25:50+00:00"
+        },
+        {
+          "title_ko": "젤렌스키 \"트럼프가 우크라이나에 대러 항복을 압박하고 있다\"",
+          "title_original": "Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says",
+          "summary_ko": "볼로디미르 젤렌스키 우크라이나 대통령은 미국이 우크라이나의 희생을 대가로 전쟁을 끝내려 한다고 믿고 싶지 않지만 \"그렇게 보인다\"고 말했다. 우크라이나 전쟁 종식 협상을 둘러싼 미국과 우크라이나 간 갈등이 드러난 발언이다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html",
+          "published": "2026-10-19T12:39:50+00:00"
+        },
+        {
+          "title_ko": "중간선거 앞두고 공화당 지지층 열기 우려 속 트럼프, 공화당 텃밭 유세",
+          "title_original": "Trump Rallies Red States Amid Fears About G.O.P. Voter Enthusiasm as Midterms Near",
+          "summary_ko": "트럼프 대통령이 중간선거를 앞두고 사우스캐롤라이나와 캔자스 등 불과 몇 달 전만 해도 경합지로 여겨지지 않던 주들을 돌며 유세에 나섰다. 공화당 유권자들의 투표 열기가 식었다는 우려가 커지는 상황을 보여준다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html",
+          "published": "2026-10-19T21:04:40+00:00"
+        },
+        {
+          "title_ko": "케네디 장관의 백신 정책, B형 간염 급증 초래할 수 있다는 연구 결과",
+          "title_original": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds",
+          "summary_ko": "보건장관이 권고한 대로 출생 시 B형 간염 정기 예방접종을 중단하면 만성 감염 건수가 최대 83% 늘어날 수 있다고 연구진이 발표했다. 미국 보건 정책 변화가 공중보건에 미칠 파장을 보여주는 결과다.",
+          "category": "사회",
+          "url": "https://www.nytimes.com/2026/10/19/health/hepatitis-b-vaccine-kennedy.html",
+          "published": "2026-10-19T21:00:05+00:00"
+        },
+        {
+          "title_ko": "검찰 \"사우디, 오픈AI 도청 혐의 엔지니어 가족 도왔다\"",
+          "title_original": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
+          "summary_ko": "법원 서류에 따르면 사우디 당국자들이 오픈AI 도청 혐의를 받는 엔지니어의 아내와 아들이 미국을 떠나는 항공료를 대고 보석금까지 내주겠다고 제안했다. 판사는 이 엔지니어의 구금 유지를 명령했다.",
+          "category": "기술",
+          "url": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
+          "published": "2026-10-19T21:17:42+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wapo",
+      "name": "워싱턴포스트",
+      "name_en": "The Washington Post",
+      "articles": [
+        {
+          "title_ko": "트럼프·젤렌스키 갈등 격화… 우크라이나 전쟁에 동맹 균열",
+          "title_original": "Trump and Zelensky escalate feud as Ukraine war strains alliance",
+          "summary_ko": "트럼프 대통령과 젤렌스키 우크라이나 대통령의 갈등이 한층 격화되고 있다. 우크라이나 전쟁이 장기화하면서 미국과 우크라이나 간 동맹 관계에 부담이 커지고 있다는 점에서 주목된다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblN6VHNwQ1V3NUZ1aVg4RzVPQ1RHWmRIU0lWUm1JenRXcGM0Y0hJd2RqMHlUSE9Tcm1EWWg4SlB1QUJ3d29COUR2TzEtdTRrR0JYcHpMZ2xqVjVJbzRuZTF3MlBiX0Fqd0hHMDlHNEFFVzhlVjc1Y0RGLXAzbnRVV0k3cmhUZjUxdnhmaGtBMjhVc0cyMDlqaDhwaWxJRFQxV1JwT3ZjbFM3Zw?oc=5",
+          "published": "2026-10-19T06:34:27+00:00"
+        },
+        {
+          "title_ko": "러시아, 다음 달 중국서 트럼프·시진핑·푸틴 3자 회담 제안",
+          "title_original": "Russia proposes a Trump-Xi-Putin meeting in China next month",
+          "summary_ko": "러시아가 다음 달 중국에서 트럼프 대통령, 시진핑 국가주석, 푸틴 대통령이 함께 만나는 3자 회담을 제안했다. 성사될 경우 미·중·러 정상이 한자리에 모이게 돼 국제 정세에 큰 파장이 예상된다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXNBcWQzNFVXRnc1VWp4ekFJQjFLeWR5TVdjU2dRczRXc2pNMHI0Uk50a3RRQl90cXpaY1hLRnZYOVRvdzBSazQtYU1DNGJiWmdsbXVxZlRwVTREMDAxWkN3WHpjTS11U2J3MnVORjA3UjZPcE50UFZkM3NCSGdWUWN4MkVxMUd2WHJKWFZtVzBESDQ4cXlzZ2dzU3lUNVRGRmhGUTRWTQ?oc=5",
+          "published": "2026-10-19T23:36:02+00:00"
+        },
+        {
+          "title_ko": "이란, 유가 압박으로 중간선거서 트럼프 응징 노려",
+          "title_original": "Tehran seeks to punish Trump in midterms with oil price pain, Iranian officials say",
+          "summary_ko": "이란 관리들에 따르면 이란 정부가 유가 상승 압박을 통해 미국 중간선거에서 트럼프 대통령에게 타격을 주려 하고 있다. 국제 유가와 미국 국내 정치가 맞물린 사안으로 경제적 파급력이 크다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQU9zWmplZXFuSDRfamdEOHBqZDlvY2VEYkNMTUZ6blFPN3ptd0tWZVBJU1FvSE90Z08xdjJTZEl2eXliTFJQVjExSENYMXhRMUhxVmZoSXQ5UVZIeGdPODBfa3d2eG9MZVdfeE5rQjloZ19zMkJORVFsaC1pV1RNXzRCcGhhVzdWSm1LMFFucG5GT19DcmlrcUhHbnRGWlJIYktoZHh0Q1J1SV82X2tfSkVoLVozbmVpOUUwMmVMMVI5Vk0?oc=5",
+          "published": "2026-10-19T16:00:00+00:00"
+        },
+        {
+          "title_ko": "프랑스 소요 사태 확산… 공공건물 방화에 수백 명 체포",
+          "title_original": "France reels from unrest, with public buildings burned and hundreds detained",
+          "summary_ko": "프랑스에서 소요 사태가 벌어져 공공건물이 불타고 수백 명이 구금됐다. 사회 불안이 확산되며 프랑스가 큰 혼란에 빠졌다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTkxVSTcyeG5GWU5fZU9YQ2l4em1TNDFGT1BpT19ldXhOMEx0azNBc3lUVERoT0ZZUmNnWU9BbXFtRlBjS21PcXY3VUF6STdOQi1RQ2hyanNSaUFXQlY0bnI5bTFmTS13MnpxYjMtdmVMUVZrd3NiY0hlS29TZzgzTTdyWlNRUQ?oc=5",
+          "published": "2026-10-19T03:05:22+00:00"
+        },
+        {
+          "title_ko": "플로리다주, 쿠바 라울 카스트로에 체포영장 발부",
+          "title_original": "Florida issues arrest warrant for Cuba’s Raúl Castro",
+          "summary_ko": "미국 플로리다주가 쿠바의 라울 카스트로에 대한 체포영장을 발부했다. 쿠바 전 지도자를 겨냥한 이례적 조치로 미·쿠바 관계에 미칠 영향이 주목된다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUENZNE1CbzNpRlFZVWN3V0ttVHk2emxGd2ZsV0JIaXB1X2hTTHM3RHRMMFFyR2NBTnRCbWxKOTJYRHA4VHJqMTZRS25fU2FZMFpuLXJ4WjgyMnJiNEJyV0RidU5abHRESk44R205eVpMaUFPanlhdDZLVjd5N1NjaEk3eTlCRmdiMGtRcmdnYWFmQXM5N25RY2RGZw?oc=5",
+          "published": "2026-10-19T21:14:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "name_en": "The Korea Economic Daily",
+      "articles": [
+        {
+          "title_ko": "프랑스 대규모 폭동으로 상점 3000곳 약탈…국채 가격 폭락",
+          "title_original": null,
+          "summary_ko": "프랑스에서 대규모 폭동이 일어나 상점 3000곳이 약탈당했고, 프랑스 국채 가격이 폭락했습니다. 돈을 풀면 국가부도 우려가, 돈을 줄이면 폭동이 커지는 진퇴양난의 국가부채 문제가 사회 불안과 금융시장 충격으로 번지고 있다는 점에서 주목됩니다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/202610202122i",
+          "published": "2026-10-19T23:11:01+00:00"
+        },
+        {
+          "title_ko": "TSMC, 3나노 공장 추가 건설…삼성은 'GAA 2나노'로 맞불",
+          "title_original": null,
+          "summary_ko": "TSMC가 3나노 공장을 추가로 짓겠다고 밝혔고, 삼성전자는 GAA 기반 2나노 공정을 승부수로 내세워 맞서고 있습니다. 첨단 파운드리 공정을 둘러싼 두 회사의 경쟁이 한층 치열해지고 있습니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/202610191471i",
+          "published": "2026-10-19T23:00:04+00:00"
+        },
+        {
+          "title_ko": "\"올해 성장률 3.4~3.6%…잠재성장률 반등 임박\"",
+          "title_original": null,
+          "summary_ko": "올해 성장률이 3.4~3.6%에 이를 것이라는 전망이 나왔습니다. 잠재성장률도 곧 반등할 것이라는 진단이 함께 제시돼 경기 흐름에 관심이 쏠립니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026101915061",
+          "published": "2026-10-19T09:17:16+00:00"
+        },
+        {
+          "title_ko": "사우디 '사막의 다보스' 결국 연기…후티 공항 습격에 중동 정세 요동",
+          "title_original": null,
+          "summary_ko": "'사막의 다보스'로 불리는 사우디아라비아의 행사가 결국 연기됐습니다. 후티의 공항 습격으로 중동 정세가 크게 흔들리고 있어 지역 안보 불안이 커지고 있습니다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/202610202056i",
+          "published": "2026-10-19T23:03:01+00:00"
+        },
+        {
+          "title_ko": "中, 수출 호조에 3분기 4.5% 성장…소비·부동산 침체는 여전",
+          "title_original": null,
+          "summary_ko": "중국 경제가 수출 호조에 힘입어 3분기 4.5% 성장했습니다. 다만 소비와 부동산 부문의 침체는 계속되고 있어 내수 회복이 과제로 남았습니다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/2026101914591",
+          "published": "2026-10-19T09:12:46+00:00"
+        }
+      ]
+    }
+  ]
+}
