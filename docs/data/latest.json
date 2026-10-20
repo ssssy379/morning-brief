@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T08:57:03.293781+09:00",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T08:54:46.649114+09:00",
   "sources": [
     {
       "id": "nyt",
@@ -8,44 +8,44 @@
       "name_en": "The New York Times",
       "articles": [
         {
-          "title_ko": "프랑스, 전국적 폭동 후 파리 등 일부 도시에 통행금지령",
-          "title_original": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
-          "summary_ko": "생활비 부담과 열악한 학교 여건에 항의하는 주말 시위가 폭동으로 번지자 프랑스가 파리 일부와 여러 도시에 통행금지를 시행했다. 내무장관은 경찰이 폭동 규모에 대비하지 못했다고 인정했으나, 세바스티앵 르코르뉘 총리는 경찰 대응을 옹호하며 질서 회복을 약속했다.",
-          "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
-          "published": "2026-10-19T19:25:50+00:00"
-        },
-        {
-          "title_ko": "젤렌스키 \"트럼프가 우크라이나에 대러 항복을 압박하고 있다\"",
-          "title_original": "Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says",
-          "summary_ko": "볼로디미르 젤렌스키 우크라이나 대통령은 미국이 우크라이나의 희생을 대가로 전쟁을 끝내려 한다고 믿고 싶지 않지만 \"그렇게 보인다\"고 말했다. 우크라이나 전쟁 종식 협상을 둘러싼 미국과 우크라이나 간 갈등이 드러난 발언이다.",
-          "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html",
-          "published": "2026-10-19T12:39:50+00:00"
-        },
-        {
-          "title_ko": "중간선거 앞두고 공화당 지지층 열기 우려 속 트럼프, 공화당 텃밭 유세",
-          "title_original": "Trump Rallies Red States Amid Fears About G.O.P. Voter Enthusiasm as Midterms Near",
-          "summary_ko": "트럼프 대통령이 중간선거를 앞두고 사우스캐롤라이나와 캔자스 등 불과 몇 달 전만 해도 경합지로 여겨지지 않던 주들을 돌며 유세에 나섰다. 공화당 유권자들의 투표 열기가 식었다는 우려가 커지는 상황을 보여준다.",
+          "title_ko": "트럼프 사면 노린 억만장자 가문, 앨리나 하바에 5천만 달러 계약 안겨",
+          "title_original": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
+          "summary_ko": "사면을 요청하던 베네수엘라 유력 인사 훌리오 에레라 벨루티니가 트럼프 대통령으로부터 사면을 받았다. 이는 그의 딸이 트럼프 측근 변호사 앨리나 하바에게 5천만 달러 규모의 이례적으로 수익성 높은 일자리를 준 지 얼마 지나지 않은 시점이었다. 대통령 사면권 행사를 둘러싼 이해충돌 논란으로 번질 수 있는 사안이다.",
           "category": "정치",
-          "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html",
-          "published": "2026-10-19T21:04:40+00:00"
+          "url": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html",
+          "published": "2026-10-20T23:18:31+00:00"
         },
         {
-          "title_ko": "케네디 장관의 백신 정책, B형 간염 급증 초래할 수 있다는 연구 결과",
-          "title_original": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds",
-          "summary_ko": "보건장관이 권고한 대로 출생 시 B형 간염 정기 예방접종을 중단하면 만성 감염 건수가 최대 83% 늘어날 수 있다고 연구진이 발표했다. 미국 보건 정책 변화가 공중보건에 미칠 파장을 보여주는 결과다.",
-          "category": "사회",
-          "url": "https://www.nytimes.com/2026/10/19/health/hepatitis-b-vaccine-kennedy.html",
-          "published": "2026-10-19T21:00:05+00:00"
+          "title_ko": "캐나다 앨버타주, 분리독립 국민투표서 '잔류' 선택",
+          "title_original": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
+          "summary_ko": "앨버타주 주민들은 캐나다 잔류와 분리독립 재투표 실시 가운데 하나를 고르는 국민투표에서 분리독립을 거부했다. 이번 결과는 마크 카니 총리의 승리로 평가된다. 카니 총리는 송유관 건설을 약속하고 적극적인 캠페인을 벌여 캐나다에서 가장 보수적인 주의 민심을 얻은 것으로 분석된다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
+          "published": "2026-10-20T20:26:35+00:00"
         },
         {
-          "title_ko": "검찰 \"사우디, 오픈AI 도청 혐의 엔지니어 가족 도왔다\"",
-          "title_original": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
-          "summary_ko": "법원 서류에 따르면 사우디 당국자들이 오픈AI 도청 혐의를 받는 엔지니어의 아내와 아들이 미국을 떠나는 항공료를 대고 보석금까지 내주겠다고 제안했다. 판사는 이 엔지니어의 구금 유지를 명령했다.",
+          "title_ko": "러시아와의 거래 원하는 트럼프, 우크라이나에 대한 불만 키워",
+          "title_original": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+          "summary_ko": "트럼프 대통령이 최근 잇따라 블라디미르 푸틴에게 유리해 보이는 조치를 취하고 있다. 이는 우크라이나에 대한 지지를 약화시키더라도 모스크바와의 관계를 정상화하려는 의지가 강해지고 있음을 보여준다. 우크라이나 당국자들은 이에 맞서 젤렌스키 대통령이 침묵보다 공개 발언을 택하고 있다고 밝혔다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
+          "published": "2026-10-20T19:00:35+00:00"
+        },
+        {
+          "title_ko": "프랑스, 수일간 폭동 뒤 평온한 밤 맞아… 통행금지 연장",
+          "title_original": "France to Extend Curfews After Calm Night Follows Days of Riots",
+          "summary_ko": "프랑스 정부가 수년 만의 최대 규모 폭동 이후 통제력을 되찾기 위해 특정 지역 통행금지를 연장하기로 했다. 혼란 속에 체포된 이들은 신속 재판을 받게 된다. 학생 시위에서 시작된 이번 사태는 전국적 폭동으로 번졌다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
+          "published": "2026-10-20T16:06:13+00:00"
+        },
+        {
+          "title_ko": "중국, 미 정부 시스템의 딥시크 AI 사용 금지에 반발",
+          "title_original": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
+          "summary_ko": "미 국토안보부가 중국 기업 딥시크가 개발한 제품을 정부 시스템에서 제거하고 배제하라고 명령하자 중국이 이를 비판했다. AI 기술을 둘러싼 미·중 갈등이 이어지고 있음을 보여주는 사례다.",
           "category": "기술",
-          "url": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
-          "published": "2026-10-19T21:17:42+00:00"
+          "url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+          "published": "2026-10-20T22:24:29+00:00"
         }
       ]
     },
@@ -55,44 +55,44 @@
       "name_en": "The Washington Post",
       "articles": [
         {
-          "title_ko": "트럼프·젤렌스키 갈등 격화… 우크라이나 전쟁에 동맹 균열",
-          "title_original": "Trump and Zelensky escalate feud as Ukraine war strains alliance",
-          "summary_ko": "트럼프 대통령과 젤렌스키 우크라이나 대통령의 갈등이 한층 격화되고 있다. 우크라이나 전쟁이 장기화하면서 미국과 우크라이나 간 동맹 관계에 부담이 커지고 있다는 점에서 주목된다.",
-          "category": "국제",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblN6VHNwQ1V3NUZ1aVg4RzVPQ1RHWmRIU0lWUm1JenRXcGM0Y0hJd2RqMHlUSE9Tcm1EWWg4SlB1QUJ3d29COUR2TzEtdTRrR0JYcHpMZ2xqVjVJbzRuZTF3MlBiX0Fqd0hHMDlHNEFFVzhlVjc1Y0RGLXAzbnRVV0k3cmhUZjUxdnhmaGtBMjhVc0cyMDlqaDhwaWxJRFQxV1JwT3ZjbFM3Zw?oc=5",
-          "published": "2026-10-19T06:34:27+00:00"
+          "title_ko": "트럼프의 선거 개입 우려하는 주(州)들에 미 당국자들 비공개 조언",
+          "title_original": "U.S. officials privately advise states fearing Trump election meddling",
+          "summary_ko": "미국 정부 당국자들이 트럼프 대통령의 선거 개입을 우려하는 주들에 비공개로 조언하고 있는 것으로 전해졌다. 연방 정부 내부에서도 선거 공정성에 대한 우려가 제기되고 있음을 보여주는 사안이다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalVEUUpTcXpwSWU1d1lnR2tGYjE2MmhnRHFoR0I2REltdGRqXzBzT2NDMW1Mb2Y0ZjYyRGJkREprcmFCTFFSODFFSldMRWJLbmVpQnV6YUdOaUVfbXZ0TjNLMkJ5dVUtZU1NYVZvTzVHVFVSVkx5SkpySWxmTEs1UUkzRnE2d0pudXdDa0s3ZW1mRlFlYWx6Ujhza1RkSDlWbnhfckxnMGFnZlBLRnFQUFJmNVJDUUF3cjctanhiYWFlUVdMZmc?oc=5",
+          "published": "2026-10-20T17:00:00+00:00"
         },
         {
-          "title_ko": "러시아, 다음 달 중국서 트럼프·시진핑·푸틴 3자 회담 제안",
+          "title_ko": "트럼프 행정부, 우크라이나행 패트리엇 미사일 지원 보류",
+          "title_original": "Trump administration holds up Patriot missiles for Ukraine",
+          "summary_ko": "트럼프 행정부가 우크라이나에 제공할 패트리엇 미사일 지원을 보류했다. 러시아는 트럼프의 이 같은 대(對)우크라이나 기조 변화를 승리의 신호로 받아들이며 환영하고 있다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnRKRWVRSmwzaFFkcFBLbG1wS1BORl9qR0xSaTkzY0VhX0dKNzc1V2JGbEFtTm1wZkx0VjY2dkRzbGYxWlljZG5zVUY2eGU1RnZiTVRBSmNDYnJNSXo3RWFpT2JhM1ZQcklHVzhXcW5zSXRHemNaMS1PMGJJOHowOVpMQWRqNE54cU11Z2ZNUUFnZFBqQkFsVUNhbl9rLU13eDhyMGQ0cDVGdk5nLWxFOEZVQ0E?oc=5",
+          "published": "2026-10-20T05:33:27+00:00"
+        },
+        {
+          "title_ko": "캐나다 앨버타주, 대미 무역전쟁 속 '캐나다 잔류' 투표로 결정",
+          "title_original": "Alberta votes to stay in Canada amid trade war with U.S.",
+          "summary_ko": "캐나다 앨버타주가 미국과의 무역전쟁이 이어지는 가운데 캐나다에 남기로 하는 투표 결과를 냈다. 미국과의 통상 갈등이 캐나다 내부 정치에까지 영향을 미친 상황에서 나온 결정이다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWVTV2hEdlBNU01HUXVSZnFnN084a1otbXdTWEhndE51V0NQTC00eS0yV01LVWNPWmkyNGtXaXUzYzE0aWtOQXBxTzNGOFpUR0dGbVR4dHcyc3ZHQnNFZl95NWJnVTdmelRfZkhZNzFkc3Y1ZjkwaDhvS2VfN3dxenhZY0lCVnUyZnRyaGEtZUZDU1VPVFlTZG1Wd1BfZkdrSjRrQmlB?oc=5",
+          "published": "2026-10-20T19:15:00+00:00"
+        },
+        {
+          "title_ko": "러시아, 다음 달 중국에서 트럼프·시진핑·푸틴 3자 회담 제안",
           "title_original": "Russia proposes a Trump-Xi-Putin meeting in China next month",
-          "summary_ko": "러시아가 다음 달 중국에서 트럼프 대통령, 시진핑 국가주석, 푸틴 대통령이 함께 만나는 3자 회담을 제안했다. 성사될 경우 미·중·러 정상이 한자리에 모이게 돼 국제 정세에 큰 파장이 예상된다.",
+          "summary_ko": "러시아가 다음 달 중국에서 트럼프 미국 대통령, 시진핑 중국 국가주석, 푸틴 러시아 대통령의 3자 회담을 열자고 제안했다. 성사될 경우 세 강대국 정상이 한자리에 모이는 회동이 된다.",
           "category": "국제",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXNBcWQzNFVXRnc1VWp4ekFJQjFLeWR5TVdjU2dRczRXc2pNMHI0Uk50a3RRQl90cXpaY1hLRnZYOVRvdzBSazQtYU1DNGJiWmdsbXVxZlRwVTREMDAxWkN3WHpjTS11U2J3MnVORjA3UjZPcE50UFZkM3NCSGdWUWN4MkVxMUd2WHJKWFZtVzBESDQ4cXlzZ2dzU3lUNVRGRmhGUTRWTQ?oc=5",
-          "published": "2026-10-19T23:36:02+00:00"
+          "published": "2026-10-20T03:08:06+00:00"
         },
         {
-          "title_ko": "이란, 유가 압박으로 중간선거서 트럼프 응징 노려",
-          "title_original": "Tehran seeks to punish Trump in midterms with oil price pain, Iranian officials say",
-          "summary_ko": "이란 관리들에 따르면 이란 정부가 유가 상승 압박을 통해 미국 중간선거에서 트럼프 대통령에게 타격을 주려 하고 있다. 국제 유가와 미국 국내 정치가 맞물린 사안으로 경제적 파급력이 크다.",
-          "category": "국제",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQU9zWmplZXFuSDRfamdEOHBqZDlvY2VEYkNMTUZ6blFPN3ptd0tWZVBJU1FvSE90Z08xdjJTZEl2eXliTFJQVjExSENYMXhRMUhxVmZoSXQ5UVZIeGdPODBfa3d2eG9MZVdfeE5rQjloZ19zMkJORVFsaC1pV1RNXzRCcGhhVzdWSm1LMFFucG5GT19DcmlrcUhHbnRGWlJIYktoZHh0Q1J1SV82X2tfSkVoLVozbmVpOUUwMmVMMVI5Vk0?oc=5",
-          "published": "2026-10-19T16:00:00+00:00"
-        },
-        {
-          "title_ko": "프랑스 소요 사태 확산… 공공건물 방화에 수백 명 체포",
-          "title_original": "France reels from unrest, with public buildings burned and hundreds detained",
-          "summary_ko": "프랑스에서 소요 사태가 벌어져 공공건물이 불타고 수백 명이 구금됐다. 사회 불안이 확산되며 프랑스가 큰 혼란에 빠졌다.",
-          "category": "국제",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTkxVSTcyeG5GWU5fZU9YQ2l4em1TNDFGT1BpT19ldXhOMEx0azNBc3lUVERoT0ZZUmNnWU9BbXFtRlBjS21PcXY3VUF6STdOQi1RQ2hyanNSaUFXQlY0bnI5bTFmTS13MnpxYjMtdmVMUVZrd3NiY0hlS29TZzgzTTdyWlNRUQ?oc=5",
-          "published": "2026-10-19T03:05:22+00:00"
-        },
-        {
-          "title_ko": "플로리다주, 쿠바 라울 카스트로에 체포영장 발부",
-          "title_original": "Florida issues arrest warrant for Cuba’s Raúl Castro",
-          "summary_ko": "미국 플로리다주가 쿠바의 라울 카스트로에 대한 체포영장을 발부했다. 쿠바 전 지도자를 겨냥한 이례적 조치로 미·쿠바 관계에 미칠 영향이 주목된다.",
-          "category": "국제",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUENZNE1CbzNpRlFZVWN3V0ttVHk2emxGd2ZsV0JIaXB1X2hTTHM3RHRMMFFyR2NBTnRCbWxKOTJYRHA4VHJqMTZRS25fU2FZMFpuLXJ4WjgyMnJiNEJyV0RidU5abHRESk44R205eVpMaUFPanlhdDZLVjd5N1NjaEk3eTlCRmdiMGtRcmdnYWFmQXM5N25RY2RGZw?oc=5",
-          "published": "2026-10-19T21:14:25+00:00"
+          "title_ko": "나이지리아 수도 아부자서 에볼라 확진…우간다발 입국 여성 양성",
+          "title_original": "Nigeria confirms Ebola case in Abuja as woman who arrived from Uganda tests positive",
+          "summary_ko": "나이지리아가 수도 아부자에서 에볼라 감염 사례를 확인했다. 우간다에서 입국한 여성이 양성 판정을 받은 것으로, 국경을 넘은 감염 확산 우려를 낳고 있다.",
+          "category": "보건",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNWdMT1RRYk1rM0ttdmZQaU90VHpoNGJMLTFTa0Z2bVM3YTZuWDVWc280aU9kSGtqb3E3MG82dTVMbEVsWG1DMzlydjY0dEJKZU0xR2tlVTdLRkE4RFNxeEZfbEktYmdsR3JWMEVDZlJDc2JMdmJSaHdDX2NhdG5ndlcydUxlTGtORTFJclJLX2l5c19KYUpqSGxic1RrV2piT0dJV3lPeTRYVWhSX0tmMnUwcy1kZWtSYkxGd0NPUF9zOGRSTFE?oc=5",
+          "published": "2026-10-20T23:42:29+00:00"
         }
       ]
     },
@@ -102,44 +102,44 @@
       "name_en": "The Korea Economic Daily",
       "articles": [
         {
-          "title_ko": "프랑스 대규모 폭동으로 상점 3000곳 약탈…국채 가격 폭락",
+          "title_ko": "사우디 석유시설 피격에 브렌트유 111달러까지 급등",
           "title_original": null,
-          "summary_ko": "프랑스에서 대규모 폭동이 일어나 상점 3000곳이 약탈당했고, 프랑스 국채 가격이 폭락했습니다. 돈을 풀면 국가부도 우려가, 돈을 줄이면 폭동이 커지는 진퇴양난의 국가부채 문제가 사회 불안과 금융시장 충격으로 번지고 있다는 점에서 주목됩니다.",
+          "summary_ko": "사우디아라비아 석유시설이 공격을 받으면서 브렌트유 가격이 배럴당 111달러까지 치솟았습니다. 국제 에너지 시장의 긴장이 크게 높아지고 있습니다.",
           "category": "국제",
-          "url": "https://www.hankyung.com/article/202610202122i",
-          "published": "2026-10-19T23:11:01+00:00"
+          "url": "https://www.hankyung.com/article/202610204308i",
+          "published": "2026-10-20T11:49:36+00:00"
         },
         {
-          "title_ko": "TSMC, 3나노 공장 추가 건설…삼성은 'GAA 2나노'로 맞불",
+          "title_ko": "AI 부채 불안에 부도보험 거래 급증…빅테크 신용위험 확산",
           "title_original": null,
-          "summary_ko": "TSMC가 3나노 공장을 추가로 짓겠다고 밝혔고, 삼성전자는 GAA 기반 2나노 공정을 승부수로 내세워 맞서고 있습니다. 첨단 파운드리 공정을 둘러싼 두 회사의 경쟁이 한층 치열해지고 있습니다.",
+          "summary_ko": "인공지능(AI) 관련 부채에 대한 불안이 커지면서 부도에 대비하는 신용부도스와프(CDS) 거래가 급증했습니다. 빅테크 기업의 신용위험에 대한 우려가 시장 전반으로 번지고 있습니다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/202610214759i",
+          "published": "2026-10-20T23:13:47+00:00"
+        },
+        {
+          "title_ko": "프랑스 국채금리 연 5% 육박…재정위기 초기 그리스 수준 넘어",
+          "title_original": null,
+          "summary_ko": "프랑스 채권금리가 연 5%에 육박했습니다. 재정위기 초기의 그리스 금리 수준을 넘어서면서 유럽 주요국의 재정 건전성에 대한 경고음이 커지고 있습니다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/2026102041591",
+          "published": "2026-10-20T21:00:12+00:00"
+        },
+        {
+          "title_ko": "\"건보료 84만원 더 내라\"…400만 세대에 추가 부과 비상",
+          "title_original": null,
+          "summary_ko": "건강보험 재정이 악화되자 당국이 덜 걷힌 보험료를 찾아내 추가로 부과하는 데 나섰습니다. 약 400만 세대가 영향을 받아 84만원을 더 내야 하는 사례도 나옵니다. 지역가입자를 어떻게 설득하느냐가 관건으로 꼽힙니다.",
+          "category": "사회",
+          "url": "https://www.hankyung.com/article/2026102041601",
+          "published": "2026-10-20T08:52:41+00:00"
+        },
+        {
+          "title_ko": "HD현대, HMM 컨테이너선 8척 1.9조원 수주",
+          "title_original": null,
+          "summary_ko": "HD현대가 HMM으로부터 컨테이너선 8척을 1조9000억원 규모에 수주했습니다. 국내 조선업계의 대형 수주 실적으로 주목받고 있습니다.",
           "category": "산업",
-          "url": "https://www.hankyung.com/article/202610191471i",
-          "published": "2026-10-19T23:00:04+00:00"
-        },
-        {
-          "title_ko": "\"올해 성장률 3.4~3.6%…잠재성장률 반등 임박\"",
-          "title_original": null,
-          "summary_ko": "올해 성장률이 3.4~3.6%에 이를 것이라는 전망이 나왔습니다. 잠재성장률도 곧 반등할 것이라는 진단이 함께 제시돼 경기 흐름에 관심이 쏠립니다.",
-          "category": "경제",
-          "url": "https://www.hankyung.com/article/2026101915061",
-          "published": "2026-10-19T09:17:16+00:00"
-        },
-        {
-          "title_ko": "사우디 '사막의 다보스' 결국 연기…후티 공항 습격에 중동 정세 요동",
-          "title_original": null,
-          "summary_ko": "'사막의 다보스'로 불리는 사우디아라비아의 행사가 결국 연기됐습니다. 후티의 공항 습격으로 중동 정세가 크게 흔들리고 있어 지역 안보 불안이 커지고 있습니다.",
-          "category": "국제",
-          "url": "https://www.hankyung.com/article/202610202056i",
-          "published": "2026-10-19T23:03:01+00:00"
-        },
-        {
-          "title_ko": "中, 수출 호조에 3분기 4.5% 성장…소비·부동산 침체는 여전",
-          "title_original": null,
-          "summary_ko": "중국 경제가 수출 호조에 힘입어 3분기 4.5% 성장했습니다. 다만 소비와 부동산 부문의 침체는 계속되고 있어 내수 회복이 과제로 남았습니다.",
-          "category": "국제",
-          "url": "https://www.hankyung.com/article/2026101914591",
-          "published": "2026-10-19T09:12:46+00:00"
+          "url": "https://www.hankyung.com/article/2026102040551",
+          "published": "2026-10-20T09:25:00+00:00"
         }
       ]
     }

@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T08:54:46.649114+09:00",
+  "sources": [
+    {
+      "id": "nyt",
+      "name": "뉴욕타임즈",
+      "name_en": "The New York Times",
+      "articles": [
+        {
+          "title_ko": "트럼프 사면 노린 억만장자 가문, 앨리나 하바에 5천만 달러 계약 안겨",
+          "title_original": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
+          "summary_ko": "사면을 요청하던 베네수엘라 유력 인사 훌리오 에레라 벨루티니가 트럼프 대통령으로부터 사면을 받았다. 이는 그의 딸이 트럼프 측근 변호사 앨리나 하바에게 5천만 달러 규모의 이례적으로 수익성 높은 일자리를 준 지 얼마 지나지 않은 시점이었다. 대통령 사면권 행사를 둘러싼 이해충돌 논란으로 번질 수 있는 사안이다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html",
+          "published": "2026-10-20T23:18:31+00:00"
+        },
+        {
+          "title_ko": "캐나다 앨버타주, 분리독립 국민투표서 '잔류' 선택",
+          "title_original": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
+          "summary_ko": "앨버타주 주민들은 캐나다 잔류와 분리독립 재투표 실시 가운데 하나를 고르는 국민투표에서 분리독립을 거부했다. 이번 결과는 마크 카니 총리의 승리로 평가된다. 카니 총리는 송유관 건설을 약속하고 적극적인 캠페인을 벌여 캐나다에서 가장 보수적인 주의 민심을 얻은 것으로 분석된다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
+          "published": "2026-10-20T20:26:35+00:00"
+        },
+        {
+          "title_ko": "러시아와의 거래 원하는 트럼프, 우크라이나에 대한 불만 키워",
+          "title_original": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+          "summary_ko": "트럼프 대통령이 최근 잇따라 블라디미르 푸틴에게 유리해 보이는 조치를 취하고 있다. 이는 우크라이나에 대한 지지를 약화시키더라도 모스크바와의 관계를 정상화하려는 의지가 강해지고 있음을 보여준다. 우크라이나 당국자들은 이에 맞서 젤렌스키 대통령이 침묵보다 공개 발언을 택하고 있다고 밝혔다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
+          "published": "2026-10-20T19:00:35+00:00"
+        },
+        {
+          "title_ko": "프랑스, 수일간 폭동 뒤 평온한 밤 맞아… 통행금지 연장",
+          "title_original": "France to Extend Curfews After Calm Night Follows Days of Riots",
+          "summary_ko": "프랑스 정부가 수년 만의 최대 규모 폭동 이후 통제력을 되찾기 위해 특정 지역 통행금지를 연장하기로 했다. 혼란 속에 체포된 이들은 신속 재판을 받게 된다. 학생 시위에서 시작된 이번 사태는 전국적 폭동으로 번졌다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
+          "published": "2026-10-20T16:06:13+00:00"
+        },
+        {
+          "title_ko": "중국, 미 정부 시스템의 딥시크 AI 사용 금지에 반발",
+          "title_original": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
+          "summary_ko": "미 국토안보부가 중국 기업 딥시크가 개발한 제품을 정부 시스템에서 제거하고 배제하라고 명령하자 중국이 이를 비판했다. AI 기술을 둘러싼 미·중 갈등이 이어지고 있음을 보여주는 사례다.",
+          "category": "기술",
+          "url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+          "published": "2026-10-20T22:24:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wapo",
+      "name": "워싱턴포스트",
+      "name_en": "The Washington Post",
+      "articles": [
+        {
+          "title_ko": "트럼프의 선거 개입 우려하는 주(州)들에 미 당국자들 비공개 조언",
+          "title_original": "U.S. officials privately advise states fearing Trump election meddling",
+          "summary_ko": "미국 정부 당국자들이 트럼프 대통령의 선거 개입을 우려하는 주들에 비공개로 조언하고 있는 것으로 전해졌다. 연방 정부 내부에서도 선거 공정성에 대한 우려가 제기되고 있음을 보여주는 사안이다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalVEUUpTcXpwSWU1d1lnR2tGYjE2MmhnRHFoR0I2REltdGRqXzBzT2NDMW1Mb2Y0ZjYyRGJkREprcmFCTFFSODFFSldMRWJLbmVpQnV6YUdOaUVfbXZ0TjNLMkJ5dVUtZU1NYVZvTzVHVFVSVkx5SkpySWxmTEs1UUkzRnE2d0pudXdDa0s3ZW1mRlFlYWx6Ujhza1RkSDlWbnhfckxnMGFnZlBLRnFQUFJmNVJDUUF3cjctanhiYWFlUVdMZmc?oc=5",
+          "published": "2026-10-20T17:00:00+00:00"
+        },
+        {
+          "title_ko": "트럼프 행정부, 우크라이나행 패트리엇 미사일 지원 보류",
+          "title_original": "Trump administration holds up Patriot missiles for Ukraine",
+          "summary_ko": "트럼프 행정부가 우크라이나에 제공할 패트리엇 미사일 지원을 보류했다. 러시아는 트럼프의 이 같은 대(對)우크라이나 기조 변화를 승리의 신호로 받아들이며 환영하고 있다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnRKRWVRSmwzaFFkcFBLbG1wS1BORl9qR0xSaTkzY0VhX0dKNzc1V2JGbEFtTm1wZkx0VjY2dkRzbGYxWlljZG5zVUY2eGU1RnZiTVRBSmNDYnJNSXo3RWFpT2JhM1ZQcklHVzhXcW5zSXRHemNaMS1PMGJJOHowOVpMQWRqNE54cU11Z2ZNUUFnZFBqQkFsVUNhbl9rLU13eDhyMGQ0cDVGdk5nLWxFOEZVQ0E?oc=5",
+          "published": "2026-10-20T05:33:27+00:00"
+        },
+        {
+          "title_ko": "캐나다 앨버타주, 대미 무역전쟁 속 '캐나다 잔류' 투표로 결정",
+          "title_original": "Alberta votes to stay in Canada amid trade war with U.S.",
+          "summary_ko": "캐나다 앨버타주가 미국과의 무역전쟁이 이어지는 가운데 캐나다에 남기로 하는 투표 결과를 냈다. 미국과의 통상 갈등이 캐나다 내부 정치에까지 영향을 미친 상황에서 나온 결정이다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWVTV2hEdlBNU01HUXVSZnFnN084a1otbXdTWEhndE51V0NQTC00eS0yV01LVWNPWmkyNGtXaXUzYzE0aWtOQXBxTzNGOFpUR0dGbVR4dHcyc3ZHQnNFZl95NWJnVTdmelRfZkhZNzFkc3Y1ZjkwaDhvS2VfN3dxenhZY0lCVnUyZnRyaGEtZUZDU1VPVFlTZG1Wd1BfZkdrSjRrQmlB?oc=5",
+          "published": "2026-10-20T19:15:00+00:00"
+        },
+        {
+          "title_ko": "러시아, 다음 달 중국에서 트럼프·시진핑·푸틴 3자 회담 제안",
+          "title_original": "Russia proposes a Trump-Xi-Putin meeting in China next month",
+          "summary_ko": "러시아가 다음 달 중국에서 트럼프 미국 대통령, 시진핑 중국 국가주석, 푸틴 러시아 대통령의 3자 회담을 열자고 제안했다. 성사될 경우 세 강대국 정상이 한자리에 모이는 회동이 된다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXNBcWQzNFVXRnc1VWp4ekFJQjFLeWR5TVdjU2dRczRXc2pNMHI0Uk50a3RRQl90cXpaY1hLRnZYOVRvdzBSazQtYU1DNGJiWmdsbXVxZlRwVTREMDAxWkN3WHpjTS11U2J3MnVORjA3UjZPcE50UFZkM3NCSGdWUWN4MkVxMUd2WHJKWFZtVzBESDQ4cXlzZ2dzU3lUNVRGRmhGUTRWTQ?oc=5",
+          "published": "2026-10-20T03:08:06+00:00"
+        },
+        {
+          "title_ko": "나이지리아 수도 아부자서 에볼라 확진…우간다발 입국 여성 양성",
+          "title_original": "Nigeria confirms Ebola case in Abuja as woman who arrived from Uganda tests positive",
+          "summary_ko": "나이지리아가 수도 아부자에서 에볼라 감염 사례를 확인했다. 우간다에서 입국한 여성이 양성 판정을 받은 것으로, 국경을 넘은 감염 확산 우려를 낳고 있다.",
+          "category": "보건",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNWdMT1RRYk1rM0ttdmZQaU90VHpoNGJMLTFTa0Z2bVM3YTZuWDVWc280aU9kSGtqb3E3MG82dTVMbEVsWG1DMzlydjY0dEJKZU0xR2tlVTdLRkE4RFNxeEZfbEktYmdsR3JWMEVDZlJDc2JMdmJSaHdDX2NhdG5ndlcydUxlTGtORTFJclJLX2l5c19KYUpqSGxic1RrV2piT0dJV3lPeTRYVWhSX0tmMnUwcy1kZWtSYkxGd0NPUF9zOGRSTFE?oc=5",
+          "published": "2026-10-20T23:42:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "name_en": "The Korea Economic Daily",
+      "articles": [
+        {
+          "title_ko": "사우디 석유시설 피격에 브렌트유 111달러까지 급등",
+          "title_original": null,
+          "summary_ko": "사우디아라비아 석유시설이 공격을 받으면서 브렌트유 가격이 배럴당 111달러까지 치솟았습니다. 국제 에너지 시장의 긴장이 크게 높아지고 있습니다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/202610204308i",
+          "published": "2026-10-20T11:49:36+00:00"
+        },
+        {
+          "title_ko": "AI 부채 불안에 부도보험 거래 급증…빅테크 신용위험 확산",
+          "title_original": null,
+          "summary_ko": "인공지능(AI) 관련 부채에 대한 불안이 커지면서 부도에 대비하는 신용부도스와프(CDS) 거래가 급증했습니다. 빅테크 기업의 신용위험에 대한 우려가 시장 전반으로 번지고 있습니다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/202610214759i",
+          "published": "2026-10-20T23:13:47+00:00"
+        },
+        {
+          "title_ko": "프랑스 국채금리 연 5% 육박…재정위기 초기 그리스 수준 넘어",
+          "title_original": null,
+          "summary_ko": "프랑스 채권금리가 연 5%에 육박했습니다. 재정위기 초기의 그리스 금리 수준을 넘어서면서 유럽 주요국의 재정 건전성에 대한 경고음이 커지고 있습니다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/2026102041591",
+          "published": "2026-10-20T21:00:12+00:00"
+        },
+        {
+          "title_ko": "\"건보료 84만원 더 내라\"…400만 세대에 추가 부과 비상",
+          "title_original": null,
+          "summary_ko": "건강보험 재정이 악화되자 당국이 덜 걷힌 보험료를 찾아내 추가로 부과하는 데 나섰습니다. 약 400만 세대가 영향을 받아 84만원을 더 내야 하는 사례도 나옵니다. 지역가입자를 어떻게 설득하느냐가 관건으로 꼽힙니다.",
+          "category": "사회",
+          "url": "https://www.hankyung.com/article/2026102041601",
+          "published": "2026-10-20T08:52:41+00:00"
+        },
+        {
+          "title_ko": "HD현대, HMM 컨테이너선 8척 1.9조원 수주",
+          "title_original": null,
+          "summary_ko": "HD현대가 HMM으로부터 컨테이너선 8척을 1조9000억원 규모에 수주했습니다. 국내 조선업계의 대형 수주 실적으로 주목받고 있습니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026102040551",
+          "published": "2026-10-20T09:25:00+00:00"
+        }
+      ]
+    }
+  ]
+}
