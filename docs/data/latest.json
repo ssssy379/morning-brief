@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T08:54:46.649114+09:00",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T08:55:58.058614+09:00",
   "sources": [
     {
       "id": "nyt",
@@ -8,44 +8,44 @@
       "name_en": "The New York Times",
       "articles": [
         {
-          "title_ko": "트럼프 사면 노린 억만장자 가문, 앨리나 하바에 5천만 달러 계약 안겨",
-          "title_original": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
-          "summary_ko": "사면을 요청하던 베네수엘라 유력 인사 훌리오 에레라 벨루티니가 트럼프 대통령으로부터 사면을 받았다. 이는 그의 딸이 트럼프 측근 변호사 앨리나 하바에게 5천만 달러 규모의 이례적으로 수익성 높은 일자리를 준 지 얼마 지나지 않은 시점이었다. 대통령 사면권 행사를 둘러싼 이해충돌 논란으로 번질 수 있는 사안이다.",
-          "category": "정치",
-          "url": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html",
-          "published": "2026-10-20T23:18:31+00:00"
-        },
-        {
-          "title_ko": "캐나다 앨버타주, 분리독립 국민투표서 '잔류' 선택",
-          "title_original": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
-          "summary_ko": "앨버타주 주민들은 캐나다 잔류와 분리독립 재투표 실시 가운데 하나를 고르는 국민투표에서 분리독립을 거부했다. 이번 결과는 마크 카니 총리의 승리로 평가된다. 카니 총리는 송유관 건설을 약속하고 적극적인 캠페인을 벌여 캐나다에서 가장 보수적인 주의 민심을 얻은 것으로 분석된다.",
+          "title_ko": "미국·이스라엘, 선거 이후 이란 재공습 계획 수립",
+          "title_original": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
+          "summary_ko": "미국과 이스라엘이 선거 이후 이란에 대한 공습을 재개하는 계획을 마련하고 있다. 다만 적대 행위를 재개하더라도 전쟁 1단계보다 더 성공적일지는 불확실하며, 트럼프 대통령은 대규모 전투 복귀 계획을 여러 차례 취소한 바 있다.",
           "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
-          "published": "2026-10-20T20:26:35+00:00"
+          "url": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
+          "published": "2026-10-21T22:41:32+00:00"
         },
         {
-          "title_ko": "러시아와의 거래 원하는 트럼프, 우크라이나에 대한 불만 키워",
-          "title_original": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
-          "summary_ko": "트럼프 대통령이 최근 잇따라 블라디미르 푸틴에게 유리해 보이는 조치를 취하고 있다. 이는 우크라이나에 대한 지지를 약화시키더라도 모스크바와의 관계를 정상화하려는 의지가 강해지고 있음을 보여준다. 우크라이나 당국자들은 이에 맞서 젤렌스키 대통령이 침묵보다 공개 발언을 택하고 있다고 밝혔다.",
+          "title_ko": "러시아, 미국인 스티븐 허버드 석방…트럼프 특사는 푸틴을 '인도주의자'로 칭송",
+          "title_original": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
+          "summary_ko": "러시아 국영 매체에 따르면 러시아가 4년 넘게 수감돼 있던 74세 미국인 교사 스티븐 허버드를 석방했다. 미 국무부는 그의 혐의가 조작됐다고 밝혀왔다. 이번 조치는 전쟁범죄 혐의로 수배 중인 푸틴 대통령이 적은 비용으로 트럼프 대통령의 호감을 사는 것으로, 트럼프 행정부가 우크라이나에서 러시아 쪽으로 기우는 흐름 속에서 나왔다.",
           "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
-          "published": "2026-10-20T19:00:35+00:00"
+          "url": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
+          "published": "2026-10-21T18:58:22+00:00"
         },
         {
-          "title_ko": "프랑스, 수일간 폭동 뒤 평온한 밤 맞아… 통행금지 연장",
-          "title_original": "France to Extend Curfews After Calm Night Follows Days of Riots",
-          "summary_ko": "프랑스 정부가 수년 만의 최대 규모 폭동 이후 통제력을 되찾기 위해 특정 지역 통행금지를 연장하기로 했다. 혼란 속에 체포된 이들은 신속 재판을 받게 된다. 학생 시위에서 시작된 이번 사태는 전국적 폭동으로 번졌다.",
-          "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
-          "published": "2026-10-20T16:06:13+00:00"
-        },
-        {
-          "title_ko": "중국, 미 정부 시스템의 딥시크 AI 사용 금지에 반발",
-          "title_original": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
-          "summary_ko": "미 국토안보부가 중국 기업 딥시크가 개발한 제품을 정부 시스템에서 제거하고 배제하라고 명령하자 중국이 이를 비판했다. AI 기술을 둘러싼 미·중 갈등이 이어지고 있음을 보여주는 사례다.",
+          "title_ko": "메타, 케임브리지 애널리티카 개인정보 침해로 250억 달러 배상 판결",
+          "title_original": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations",
+          "summary_ko": "메타가 케임브리지 애널리티카 사건과 관련한 개인정보 침해로 250억 달러 지급 명령을 받았다. 이는 뉴멕시코주가 메타가 데이터 프라이버시에 관해 이용자를 오도했다며 제기한 소송에서 나온 것으로, 빅테크 기업에 부과된 벌금 가운데 최대 규모 중 하나다.",
           "category": "기술",
-          "url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
-          "published": "2026-10-20T22:24:29+00:00"
+          "url": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
+          "published": "2026-10-21T22:57:53+00:00"
+        },
+        {
+          "title_ko": "베네수엘라 지진 사망자, 공식 집계를 크게 웃돌 듯",
+          "title_original": "Death Toll From Venezuela Quakes Likely Far Exceeds Official Count",
+          "summary_ko": "뉴욕타임스 분석과 미국 지질조사국(USGS) 데이터에 따르면 베네수엘라 지진의 공식 사망자 수 6,509명은 심각하게 축소됐을 가능성이 크다. 실제 피해 규모가 공식 발표보다 훨씬 클 수 있다는 점에서 정부 집계의 신뢰성에 의문이 제기된다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html",
+          "published": "2026-10-21T09:00:24+00:00"
+        },
+        {
+          "title_ko": "프랑스 폭동, 디올·에르메스 등 명품 브랜드 향한 분노 드러내",
+          "title_original": "France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands",
+          "summary_ko": "프랑스 전역의 소요 사태 속에 디올, 셀린, 에르메스 등 명품 브랜드 매장이 약탈당하며 화려한 겉모습 뒤의 균열이 드러났다. 파리 법원에서는 체포된 이들에 대한 신속 재판이 이어지고 있으며, 마크롱 대통령은 트럼프 대통령이 프랑스를 싫어하고 사태를 왜곡한다고 비판했다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
+          "published": "2026-10-21T20:03:25+00:00"
         }
       ]
     },
@@ -55,44 +55,44 @@
       "name_en": "The Washington Post",
       "articles": [
         {
-          "title_ko": "트럼프의 선거 개입 우려하는 주(州)들에 미 당국자들 비공개 조언",
-          "title_original": "U.S. officials privately advise states fearing Trump election meddling",
-          "summary_ko": "미국 정부 당국자들이 트럼프 대통령의 선거 개입을 우려하는 주들에 비공개로 조언하고 있는 것으로 전해졌다. 연방 정부 내부에서도 선거 공정성에 대한 우려가 제기되고 있음을 보여주는 사안이다.",
+          "title_ko": "승리 감지한 러시아, 트럼프의 최근 '반우크라이나' 행보에 환호",
+          "title_original": "Russia, sensing victory, cheers Trump’s latest shift against Ukraine",
+          "summary_ko": "트럼프 대통령이 최근 우크라이나에 불리한 쪽으로 입장을 바꾸자 러시아가 이를 반기며 승리를 확신하는 분위기를 보이고 있습니다. 미국의 대우크라이나 정책 변화가 전쟁의 향방과 평화 협상 구도에 영향을 줄 수 있다는 점에서 주목됩니다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0dEUGZlV3l0Sm80RDhvcUtWRDRrRFFGZnRHdzlPZ2Z5YWVVRFFsVnlMRFNkU080ZERpaWhwT0tlZVRNMTU2Yk5YNnJpTUpjVDc4UDhpdVNUV1R3Y205cVZEeDBtYnRIa2FzYkIwVFl6TUVkUl9ZbUlZSkRoOUZWUE1hMzF0N2N1X0xwQTExa0xXaGoxWXoyZlhtMDcwLTNxeUZ5VVVDeDViT09xTEJqQjQ4bzk?oc=5",
+          "published": "2026-10-21T04:53:38+00:00"
+        },
+        {
+          "title_ko": "인터넷 상당 부분 위협할 소프트웨어 결함 발견… 웹사이트들 긴급 보수",
+          "title_original": "Websites scramble to fix software flaw that could put much of internet at risk",
+          "summary_ko": "인터넷의 상당 부분을 위험에 빠뜨릴 수 있는 소프트웨어 결함이 드러나 웹사이트들이 서둘러 수정에 나서고 있습니다. 광범위한 온라인 서비스의 보안에 영향을 줄 수 있는 사안입니다.",
+          "category": "기술",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkkydVV2LUI2LVN4WlU2aWlGcnY1cy1BWmt3c1diNC1SQ3RZYXJ3Q1k4RWlHWm9NY3lQakhWVU1xMnRDSW54dEpvbU5fcUE2SmtpdlBJVjNpYjFBdmJja1hSQnlSU3U5MFJWN3owVHNfU2EwSVVySXhUbGJvUGgzcTNHVjEyc2FUZXF0b0NyMl9MVzVIeVNJbFN1eDZwSUlFZzhYLWZoUVk1QjFpQnRSSFoyTWY2RHRaUWxOLWFSbkw?oc=5",
+          "published": "2026-10-21T23:10:40+00:00"
+        },
+        {
+          "title_ko": "민주당, 유권자 명부 삭제 시도 관련 트럼프·법무부 고소",
+          "title_original": "Democrats sue Trump, DOJ over effort to remove voters from state rolls",
+          "summary_ko": "민주당이 주(州) 유권자 명부에서 유권자를 삭제하려는 시도와 관련해 트럼프 대통령과 법무부를 상대로 소송을 제기했습니다. 선거를 앞두고 투표권과 선거 관리 공정성을 둘러싼 법적 다툼이 본격화하고 있습니다.",
           "category": "정치",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalVEUUpTcXpwSWU1d1lnR2tGYjE2MmhnRHFoR0I2REltdGRqXzBzT2NDMW1Mb2Y0ZjYyRGJkREprcmFCTFFSODFFSldMRWJLbmVpQnV6YUdOaUVfbXZ0TjNLMkJ5dVUtZU1NYVZvTzVHVFVSVkx5SkpySWxmTEs1UUkzRnE2d0pudXdDa0s3ZW1mRlFlYWx6Ujhza1RkSDlWbnhfckxnMGFnZlBLRnFQUFJmNVJDUUF3cjctanhiYWFlUVdMZmc?oc=5",
-          "published": "2026-10-20T17:00:00+00:00"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY2M1Sk82Y0hBSFBPQnRaR1gwVVlRTTNtWV81aFJHYzV3V3JieGJCS0dzbkRBZ3hUa0FTZzdaXy1fV0R5MVpVclloOUY3NXZpVWt3VUZuSW53RHRTYmtrSGFxWldkQk9KRHN5am1ReHJUTXc2cXNsNnpDbTZhenhPZDAzanlzVG1yVzFMZzMwY2xxbjZwNEhkTDBWc2trdHpMbFNXVnlwZXhvVFFsbE4zaGQ4RQ?oc=5",
+          "published": "2026-10-21T22:59:23+00:00"
         },
         {
-          "title_ko": "트럼프 행정부, 우크라이나행 패트리엇 미사일 지원 보류",
-          "title_original": "Trump administration holds up Patriot missiles for Ukraine",
-          "summary_ko": "트럼프 행정부가 우크라이나에 제공할 패트리엇 미사일 지원을 보류했다. 러시아는 트럼프의 이 같은 대(對)우크라이나 기조 변화를 승리의 신호로 받아들이며 환영하고 있다.",
+          "title_ko": "미 국방부, 중국 대응 위한 '심층 위장' 첩보 프로그램 구축 추진",
+          "title_original": "Pentagon looks to build a deep-cover spy program to confront China",
+          "summary_ko": "미 국방부가 중국에 맞서기 위해 신분을 깊이 숨긴 채 활동하는 첩보 프로그램을 만드는 방안을 모색하고 있습니다. 미중 간 정보·안보 경쟁이 한층 격화하고 있음을 보여주는 움직임입니다.",
           "category": "국제",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnRKRWVRSmwzaFFkcFBLbG1wS1BORl9qR0xSaTkzY0VhX0dKNzc1V2JGbEFtTm1wZkx0VjY2dkRzbGYxWlljZG5zVUY2eGU1RnZiTVRBSmNDYnJNSXo3RWFpT2JhM1ZQcklHVzhXcW5zSXRHemNaMS1PMGJJOHowOVpMQWRqNE54cU11Z2ZNUUFnZFBqQkFsVUNhbl9rLU13eDhyMGQ0cDVGdk5nLWxFOEZVQ0E?oc=5",
-          "published": "2026-10-20T05:33:27+00:00"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlFpYVYyMGEySW5MdjZabTVhU2FBRDdwM2M0S2VVVUpBSXJDZ2RRYnY1Zzd5NWtLZUd0ejRjbVJmTTVCSTdCX2FQWllFaHRDbGNGSXJVcEdfa3pJWS01NmppTEI3c2xiZ3lkSkxpTFplYmZCZTdJNkZqeUE3U1NNclFjU1FPSWVRTkdXY0ZKRURYSDVGUkNnQTk5M01DUXpONUtFWG5RQktSd0pHbFFmMTJrQk9peXhleHJR?oc=5",
+          "published": "2026-10-21T22:34:32+00:00"
         },
         {
-          "title_ko": "캐나다 앨버타주, 대미 무역전쟁 속 '캐나다 잔류' 투표로 결정",
-          "title_original": "Alberta votes to stay in Canada amid trade war with U.S.",
-          "summary_ko": "캐나다 앨버타주가 미국과의 무역전쟁이 이어지는 가운데 캐나다에 남기로 하는 투표 결과를 냈다. 미국과의 통상 갈등이 캐나다 내부 정치에까지 영향을 미친 상황에서 나온 결정이다.",
-          "category": "국제",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWVTV2hEdlBNU01HUXVSZnFnN084a1otbXdTWEhndE51V0NQTC00eS0yV01LVWNPWmkyNGtXaXUzYzE0aWtOQXBxTzNGOFpUR0dGbVR4dHcyc3ZHQnNFZl95NWJnVTdmelRfZkhZNzFkc3Y1ZjkwaDhvS2VfN3dxenhZY0lCVnUyZnRyaGEtZUZDU1VPVFlTZG1Wd1BfZkdrSjRrQmlB?oc=5",
-          "published": "2026-10-20T19:15:00+00:00"
-        },
-        {
-          "title_ko": "러시아, 다음 달 중국에서 트럼프·시진핑·푸틴 3자 회담 제안",
-          "title_original": "Russia proposes a Trump-Xi-Putin meeting in China next month",
-          "summary_ko": "러시아가 다음 달 중국에서 트럼프 미국 대통령, 시진핑 중국 국가주석, 푸틴 러시아 대통령의 3자 회담을 열자고 제안했다. 성사될 경우 세 강대국 정상이 한자리에 모이는 회동이 된다.",
-          "category": "국제",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXNBcWQzNFVXRnc1VWp4ekFJQjFLeWR5TVdjU2dRczRXc2pNMHI0Uk50a3RRQl90cXpaY1hLRnZYOVRvdzBSazQtYU1DNGJiWmdsbXVxZlRwVTREMDAxWkN3WHpjTS11U2J3MnVORjA3UjZPcE50UFZkM3NCSGdWUWN4MkVxMUd2WHJKWFZtVzBESDQ4cXlzZ2dzU3lUNVRGRmhGUTRWTQ?oc=5",
-          "published": "2026-10-20T03:08:06+00:00"
-        },
-        {
-          "title_ko": "나이지리아 수도 아부자서 에볼라 확진…우간다발 입국 여성 양성",
+          "title_ko": "나이지리아, 수도 아부자서 에볼라 확진… 우간다발 입국 여성",
           "title_original": "Nigeria confirms Ebola case in Abuja as woman who arrived from Uganda tests positive",
-          "summary_ko": "나이지리아가 수도 아부자에서 에볼라 감염 사례를 확인했다. 우간다에서 입국한 여성이 양성 판정을 받은 것으로, 국경을 넘은 감염 확산 우려를 낳고 있다.",
-          "category": "보건",
+          "summary_ko": "나이지리아 당국이 우간다에서 입국한 여성이 에볼라 양성 판정을 받았다며 수도 아부자에서의 확진 사례를 확인했습니다. 인구가 밀집한 수도에서 발생한 사례인 만큼 감염 확산 우려가 제기됩니다.",
+          "category": "국제",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNWdMT1RRYk1rM0ttdmZQaU90VHpoNGJMLTFTa0Z2bVM3YTZuWDVWc280aU9kSGtqb3E3MG82dTVMbEVsWG1DMzlydjY0dEJKZU0xR2tlVTdLRkE4RFNxeEZfbEktYmdsR3JWMEVDZlJDc2JMdmJSaHdDX2NhdG5ndlcydUxlTGtORTFJclJLX2l5c19KYUpqSGxic1RrV2piT0dJV3lPeTRYVWhSX0tmMnUwcy1kZWtSYkxGd0NPUF9zOGRSTFE?oc=5",
-          "published": "2026-10-20T23:42:29+00:00"
+          "published": "2026-10-21T03:24:00+00:00"
         }
       ]
     },
@@ -102,44 +102,44 @@
       "name_en": "The Korea Economic Daily",
       "articles": [
         {
-          "title_ko": "사우디 석유시설 피격에 브렌트유 111달러까지 급등",
+          "title_ko": "한은, 기준금리 동결 유력…11월 추가 인상 가능성에 관심",
           "title_original": null,
-          "summary_ko": "사우디아라비아 석유시설이 공격을 받으면서 브렌트유 가격이 배럴당 111달러까지 치솟았습니다. 국제 에너지 시장의 긴장이 크게 높아지고 있습니다.",
-          "category": "국제",
-          "url": "https://www.hankyung.com/article/202610204308i",
-          "published": "2026-10-20T11:49:36+00:00"
-        },
-        {
-          "title_ko": "AI 부채 불안에 부도보험 거래 급증…빅테크 신용위험 확산",
-          "title_original": null,
-          "summary_ko": "인공지능(AI) 관련 부채에 대한 불안이 커지면서 부도에 대비하는 신용부도스와프(CDS) 거래가 급증했습니다. 빅테크 기업의 신용위험에 대한 우려가 시장 전반으로 번지고 있습니다.",
+          "summary_ko": "한국은행이 이번 회의에서 기준금리를 동결할 것이라는 전망이 우세합니다. 시장에서는 11월 추가 인상 가능성에 주목하고 있어, 향후 대출금리와 자산시장 흐름에 영향을 줄 변수로 꼽힙니다.",
           "category": "금융",
-          "url": "https://www.hankyung.com/article/202610214759i",
-          "published": "2026-10-20T23:13:47+00:00"
+          "url": "https://www.hankyung.com/article/2026102273417",
+          "published": "2026-10-21T21:59:09+00:00"
         },
         {
-          "title_ko": "프랑스 국채금리 연 5% 육박…재정위기 초기 그리스 수준 넘어",
+          "title_ko": "프랑스 국채 10년물 금리 5% 돌파…\"그리스 사태보다 심각할 수도\" 경고",
           "title_original": null,
-          "summary_ko": "프랑스 채권금리가 연 5%에 육박했습니다. 재정위기 초기의 그리스 금리 수준을 넘어서면서 유럽 주요국의 재정 건전성에 대한 경고음이 커지고 있습니다.",
+          "summary_ko": "프랑스 국채 10년물 금리가 연 5%를 넘어서며 2002년 이후 처음으로 이 수준에 도달했습니다. 국채 가격이 급락하자 그리스 재정위기보다 더 심각한 상황이 될 수 있다는 경고가 나오면서 유럽 금융시장 불안이 커지고 있습니다.",
           "category": "국제",
-          "url": "https://www.hankyung.com/article/2026102041591",
-          "published": "2026-10-20T21:00:12+00:00"
+          "url": "https://www.hankyung.com/article/202610217106i",
+          "published": "2026-10-21T13:20:15+00:00"
         },
         {
-          "title_ko": "\"건보료 84만원 더 내라\"…400만 세대에 추가 부과 비상",
+          "title_ko": "삼성전기, 엔비디아에 AI 반도체 기판 공급…역대 최대 규모",
           "title_original": null,
-          "summary_ko": "건강보험 재정이 악화되자 당국이 덜 걷힌 보험료를 찾아내 추가로 부과하는 데 나섰습니다. 약 400만 세대가 영향을 받아 84만원을 더 내야 하는 사례도 나옵니다. 지역가입자를 어떻게 설득하느냐가 관건으로 꼽힙니다.",
-          "category": "사회",
-          "url": "https://www.hankyung.com/article/2026102041601",
-          "published": "2026-10-20T08:52:41+00:00"
-        },
-        {
-          "title_ko": "HD현대, HMM 컨테이너선 8척 1.9조원 수주",
-          "title_original": null,
-          "summary_ko": "HD현대가 HMM으로부터 컨테이너선 8척을 1조9000억원 규모에 수주했습니다. 국내 조선업계의 대형 수주 실적으로 주목받고 있습니다.",
+          "summary_ko": "삼성전기가 엔비디아에 AI 반도체용 기판을 공급하게 됐으며, 그 규모가 역대 최대입니다. 글로벌 AI 반도체 공급망에서 국내 부품업체의 입지가 강화됐다는 점에서 의미가 큽니다.",
           "category": "산업",
-          "url": "https://www.hankyung.com/article/2026102040551",
-          "published": "2026-10-20T09:25:00+00:00"
+          "url": "https://www.hankyung.com/article/202610216563i",
+          "published": "2026-10-21T11:48:02+00:00"
+        },
+        {
+          "title_ko": "정부·현대차그룹, '차량용 반도체 국산화' 공동 추진",
+          "title_original": null,
+          "summary_ko": "정부와 현대차그룹이 손잡고 차량용 반도체 국산화를 추진합니다. 자동차 산업의 핵심 부품 공급망 자립을 위한 민관 협력이라는 점에서 주목됩니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026102167601",
+          "published": "2026-10-21T09:09:38+00:00"
+        },
+        {
+          "title_ko": "매출 2000억 기업도 퇴출 위기…코스닥 덮친 '상장폐지 공포'",
+          "title_original": null,
+          "summary_ko": "매출 2000억원을 기록한 기업마저 상장폐지 위기에 놓이는 등 코스닥 시장에 상장폐지 공포가 확산하고 있습니다. 상장 유지 문제가 투자자와 기업 모두에게 부담으로 떠오르고 있습니다.",
+          "category": "증권",
+          "url": "https://www.hankyung.com/article/2026102167611",
+          "published": "2026-10-21T09:11:45+00:00"
         }
       ]
     }
