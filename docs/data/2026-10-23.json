@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T08:55:37.490962+09:00",
+  "sources": [
+    {
+      "id": "nyt",
+      "name": "뉴욕타임즈",
+      "name_en": "The New York Times",
+      "articles": [
+        {
+          "title_ko": "PHP 보안 결함에 전 세계 긴급 패치 소동… 웹사이트 잇따라 접속 중단",
+          "title_original": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
+          "summary_ko": "웹에서 널리 쓰이는 프로그래밍 언어 PHP에서 치명적인 보안 취약점이 발견됐습니다. 전 세계 정부와 기업들이 해커의 악용을 막기 위해 서둘러 패치에 나섰고, 이 과정에서 일부 웹사이트가 오프라인 상태가 됐습니다.",
+          "category": "기술",
+          "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+          "published": "2026-10-22T16:01:35+00:00"
+        },
+        {
+          "title_ko": "후티 반군, 사우디 공항 공격해 2명 사망… 미국은 일부 외교관에 철수 지시",
+          "title_original": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+          "summary_ko": "이란의 지원을 받는 예멘 후티 반군이 사우디아라비아 담맘 공항을 공격해 2명이 숨졌습니다. 담맘은 석유 대기업 사우디 아람코 본사와 가까운 곳으로, 후티는 수주째 사우디의 항공·에너지 부문을 공격해 왔습니다. 미국은 일부 외교관에게 현지를 떠나라고 지시했습니다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+          "published": "2026-10-22T18:07:36+00:00"
+        },
+        {
+          "title_ko": "AI 우려에 뉴욕증시 수개월 만에 최대 낙폭",
+          "title_original": "Stocks See Steepest Decline in Months Amid A.I. Worries",
+          "summary_ko": "인공지능(AI)에 대한 우려 속에 S&P500 지수가 1.4% 넘게 떨어지며 7월 이후 최대 일일 하락폭을 기록했습니다. 기술주 중심의 나스닥은 2.5% 가까이 급락해 6월 이후 가장 큰 하루 낙폭을 보였습니다.",
+          "category": "금융",
+          "url": "https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html",
+          "published": "2026-10-22T20:11:05+00:00"
+        },
+        {
+          "title_ko": "아프리카 에볼라 확산, 역대 최대 범위로 확대",
+          "title_original": "Ebola Outbreak in Africa Reaches Widest Expansion Ever",
+          "summary_ko": "아프리카의 에볼라 발병이 역대 가장 넓은 지역으로 퍼졌습니다. 서아프리카 나이지리아에서 처음으로 확진 사례가 확인되면서, 보건 당국은 이 감염의 경로를 긴급히 파악하고 있습니다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html",
+          "published": "2026-10-22T16:41:13+00:00"
+        },
+        {
+          "title_ko": "공화당 텃밭 아이오와, 경제난 속 중간선거 경합주로 부상",
+          "title_original": "Iowa, Usually Red, Is in Play This Midterm as Economic Woes Mount",
+          "summary_ko": "전통적으로 공화당 강세 지역인 아이오와가 비싼 디젤 가격과 무역 불확실성으로 큰 타격을 받으면서 이번 중간선거의 경합지로 떠올랐습니다. 트럼프 행정부의 정책이 이 지역에서 공화당에 표 손실을 안길 수 있다는 분석이 나오며, 트럼프 대통령도 농민 표심을 잡기 위해 아이오와를 방문했습니다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html",
+          "published": "2026-10-22T09:03:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wapo",
+      "name": "워싱턴포스트",
+      "name_en": "The Washington Post",
+      "articles": [
+        {
+          "title_ko": "네타냐후 \"미국과 이스라엘이 이란 정권을 무너뜨려야\"",
+          "title_original": "Netanyahu says U.S. and Israel must topple Iranian regime",
+          "summary_ko": "베냐민 네타냐후 이스라엘 총리가 미국과 이스라엘이 이란 정권을 무너뜨려야 한다고 말했습니다. 이스라엘 지도자가 미국과 함께 이란의 정권 교체를 공개적으로 주장했다는 점에서 중동 정세와 미국의 대외 정책에 영향을 줄 수 있는 발언입니다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblM5N2lNR1dGazZJNVFnYkhPeUU4bmlXTWJQX3JMX1ZNanBaM21EaTRzT0d0YUx4Rkg2bjQ1bXlSMjNFOWNKTGJ3WFcyQ0lTUUp1TmxSUlJQWV9qZjRONDY5SFZWQVRHd1l6c2ZsRmtONzYzTms4OGFzYlp2MUl6bTFPanBpaFNPbkI2cWxUS1pVdXpBcDl3Vk9uOExYd29JUlE?oc=5",
+          "published": "2026-10-22T23:06:19+00:00"
+        },
+        {
+          "title_ko": "미 국방부, 중국 대응 위한 '심층 위장' 첩보 프로그램 구축 추진",
+          "title_original": "Pentagon looks to build a deep-cover spy program to confront China",
+          "summary_ko": "미 국방부가 중국에 맞서기 위해 심층 위장(deep-cover) 방식의 첩보 프로그램 구축을 검토하고 있습니다. 미·중 전략 경쟁이 정보·첩보 영역으로까지 확대되고 있음을 보여 주는 움직임입니다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlFpYVYyMGEySW5MdjZabTVhU2FBRDdwM2M0S2VVVUpBSXJDZ2RRYnY1Zzd5NWtLZUd0ejRjbVJmTTVCSTdCX2FQWllFaHRDbGNGSXJVcEdfa3pJWS01NmppTEI3c2xiZ3lkSkxpTFplYmZCZTdJNkZqeUE3U1NNclFjU1FPSWVRTkdXY0ZKRURYSDVGUkNnQTk5M01DUXpONUtFWG5RQktSd0pHbFFmMTJrQk9peXhleHJR?oc=5",
+          "published": "2026-10-22T04:00:56+00:00"
+        },
+        {
+          "title_ko": "위트코프 특사, 푸틴을 '인도주의자'로 칭찬했다가 거센 반발",
+          "title_original": "Witkoff faces backlash for praising Putin as a ‘humanitarian’",
+          "summary_ko": "스티브 위트코프가 블라디미르 푸틴 러시아 대통령을 '인도주의자'로 칭찬해 반발을 사고 있습니다. 대러 외교에 관여해 온 인사의 발언이라는 점에서 미국의 러시아 정책을 둘러싼 논란이 커질 수 있습니다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMDZXNXlKWFptc0J0b2ZqNUVkazFyZ2NHMXYzaDFnN3V0c0NOeUZTNDk3eEJNOVY5LUZsamhQOWFUR2hLc3BjSk16TFZVc2lPWVpmd0NzRGdYRlRFcEhtRFJ1LUlFd2JuZ2ZlQXBaQ1VhYVJ0ejIwSVBYU0xQZkdpdGhJX1lLbDVtaDkwV0QtaWl2emlReUxvZXZLWTdsWHdVVE93NQ?oc=5",
+          "published": "2026-10-22T22:15:00+00:00"
+        },
+        {
+          "title_ko": "법원, '결함 있는 데이터' 이유로 국토안보부의 비시민권자 투표 조사 제한",
+          "title_original": "Judge restricts DHS investigations into noncitizen voting, citing flawed data",
+          "summary_ko": "한 판사가 근거 데이터에 결함이 있다며 국토안보부(DHS)의 비시민권자 투표 관련 조사를 제한했습니다. 선거 공정성 논쟁과 정부의 유권자 조사 권한을 둘러싼 법적 다툼에서 의미 있는 판단입니다.",
+          "category": "사회",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORnhQQ3g5ZDJYMTRBdm9oXzlidndrOXpkM2JPTzRRcUsxZmFPSG5jN2JZZUJaUHh2SS1hZkJ0UVNoTm1qSWZ3WDdQSUVYR21rUzFMZVkwYTdXLS02amdUUnRxWGl4N3JvNzAwaS1DYW1tdnJEaVlpUWozSGNrMEZ6V28zZTc0Ujk2Y3pLbFFyczd2bDVqdkh3YlNPR3gtMkpZa3plcFlQREdMOWY4ZEw1V3pHNWNmYU5INHYxMg?oc=5",
+          "published": "2026-10-22T23:03:08+00:00"
+        },
+        {
+          "title_ko": "백악관, 언론 공세 강화… 기자 출입 막고 매체 위협",
+          "title_original": "White House takes new swipes at press, blocking a reporter and threatening an outlet",
+          "summary_ko": "백악관이 한 기자를 차단하고 한 언론사를 위협하는 등 언론을 향한 새로운 공세에 나섰습니다. 행정부와 언론 간 갈등이 이어지면서 언론 자유를 둘러싼 우려가 커지고 있습니다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWJGcGpOc2Q3S25MdWhlZTRKZTJfNGVlVlZOc25Fa19lVzlFVU9BbnBBTFR4Wnd2NHZLcWQ4cHZHVFYtMmx0X0kwZFR3cWdjUlJlcWp4d2tKLWJwWE9jQ2JLWWQwYmo3cXR3alJBbm0yUGoyQkEyUW9nRkdsV3NxamdLZDdlRWZ4UGVrVTN2YXVBUFllVkNvNnZpc19iRTJRTjYwMEI3LWtObVV1ZHhLalNiTFJBdzJ1MDNDajFES3FCcm9U?oc=5",
+          "published": "2026-10-22T05:37:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "name_en": "The Korea Economic Daily",
+      "articles": [
+        {
+          "title_ko": "SK하이닉스, 솔리다임 미국 상장 전격 철회…주주 의견 수용",
+          "title_original": null,
+          "summary_ko": "SK하이닉스가 자회사 솔리다임의 미국 상장을 전격 철회했습니다. 주주 의견을 받아들인 결정으로, 중복상장 논란이 컸던 사안이라 시장의 관심이 집중되고 있습니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026102298171",
+          "published": "2026-10-22T21:00:06+00:00"
+        },
+        {
+          "title_ko": "HD현대, 미국에 블록공장 설립…조선소 건설도 추진",
+          "title_original": null,
+          "summary_ko": "HD현대가 미국에 조선 블록공장을 세우고 조선소 건설도 추진하는 것으로 전해졌습니다. 미국 내 조선 인프라 구축에 나서는 것으로, 한미 조선 협력의 구체적 행보로 주목됩니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026102294151",
+          "published": "2026-10-22T09:30:01+00:00"
+        },
+        {
+          "title_ko": "중국발 메모리 공포에 젠슨 황 \"2029년까지 공급과잉 없다\"",
+          "title_original": null,
+          "summary_ko": "중국발 메모리 공급 확대 우려가 커지는 가운데 엔비디아 젠슨 황 CEO가 2029년까지 공급과잉은 없을 것이라고 밝혔습니다. 국내 반도체 업계의 업황 전망과 직결되는 발언입니다.",
+          "category": "기술",
+          "url": "https://www.hankyung.com/article/202610229805i",
+          "published": "2026-10-22T13:59:35+00:00"
+        },
+        {
+          "title_ko": "국세청 특별 세무조사, 신세계百 계열사 겨냥",
+          "title_original": null,
+          "summary_ko": "국세청이 신세계백화점 계열사를 대상으로 특별 세무조사에 나섰습니다. 유통 대기업을 겨냥한 조사라는 점에서 업계의 관심이 쏠립니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026102294521",
+          "published": "2026-10-22T09:41:50+00:00"
+        },
+        {
+          "title_ko": "미국 증시 23시간 거래 개시…밤에도 주식 사는 시대",
+          "title_original": null,
+          "summary_ko": "미국 증시에서 23시간 거래가 시작됐습니다. 코인처럼 밤에도 주식을 거래할 수 있게 되면서 국내 투자자들의 미국 주식 투자 환경에도 변화가 예상됩니다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/202610230065i",
+          "published": "2026-10-22T23:07:25+00:00"
+        }
+      ]
+    }
+  ]
+}
