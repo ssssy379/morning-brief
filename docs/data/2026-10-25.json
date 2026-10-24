@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T08:51:17.843859+09:00",
+  "sources": [
+    {
+      "id": "nyt",
+      "name": "뉴욕타임즈",
+      "name_en": "The New York Times",
+      "articles": [
+        {
+          "title_ko": "알래스카 선거 개입으로 드러난 법무부의 '트럼프 굴복'",
+          "title_original": "Alaska Election Gambit Shows Justice Dept. Has Bowed to Trump’s Demands",
+          "summary_ko": "미 법무부가 알래스카와 캘리포니아에서 중간선거 개입을 강화하며 대통령의 견제받지 않는 행정권을 수행하는 도구가 됐다는 분석이 나왔다. 트럼프 대통령은 공화당이 의석을 잃을 위기에 놓인 알래스카 상원 선거에 법무부가 개입하도록 지시했다. 법무부의 정치적 중립성과 선거의 공정성이 훼손될 수 있다는 점에서 파장이 크다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html",
+          "published": "2026-10-24T19:21:11+00:00"
+        },
+        {
+          "title_ko": "미 당국 \"이란, 미국인 겨냥 공격 계획 '막바지 단계'\"",
+          "title_original": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+          "summary_ko": "미국 관리들은 이란이 미국인을 겨냥한 공격을 '진전된 단계'까지 계획하고 있다고 밝혔다. 미 정부는 사우디아라비아에 있는 외교관과 연방 직원들에게 철수를 명령했으며, 역내 다른 공관의 인력도 감축하고 있다. 중동 정세의 긴장이 급격히 고조되고 있음을 보여준다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+          "published": "2026-10-24T16:09:15+00:00"
+        },
+        {
+          "title_ko": "트럼프, 최악의 오염 기업들에 '면죄부'…NYT 탐사보도",
+          "title_original": "How Trump Gave the Worst Polluters a Free Pass",
+          "summary_ko": "트럼프 대통령이 발암성 가스를 배출하는 산업시설에 대해 대기오염 규제를 일시 면제해 준 데 이어, 그가 임명한 관료들이 해당 규제 자체를 무력화하려 한 것으로 뉴욕타임스 조사 결과 드러났다. 화학공장 등은 원래 유독성 배출을 줄여야 할 의무가 있었으나 이를 피해 간 것으로 나타났다. 공중 보건과 환경 정책에 미칠 영향이 크다.",
+          "category": "사회",
+          "url": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html",
+          "published": "2026-10-24T12:28:26+00:00"
+        },
+        {
+          "title_ko": "미·러 가스 협상 속 드러난 알래스카 사업의 숨은 러시아 자금",
+          "title_original": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+          "summary_ko": "인터뷰와 문서에 따르면 러시아 에너지 대기업이 한 미국 기업에 비밀리에 자금을 댄 것으로 드러났다. 이 거래는 우크라이나 전쟁 종식을 위한 협상에서도 논의된 것으로 알려졌다. 미국의 대러 에너지 협상과 전쟁 종식 외교의 투명성에 의문을 제기하는 사안이다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+          "published": "2026-10-24T18:24:42+00:00"
+        },
+        {
+          "title_ko": "프랑스 시위 재점화…경찰 대규모 배치로 기물 파손은 줄어",
+          "title_original": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
+          "summary_ko": "토요일 대체로 평화롭게 진행된 행진 이후 저녁에 다시 충돌이 벌어졌지만, 대규모 경찰 배치와 1,000명 체포, 시위 경로 변경으로 대대적인 기물 파손은 억제됐다. 이번 시위는 몇몇 고등학교 학생들의 소규모 항의에서 시작해 노동조합과 다른 활동가들로까지 확산됐다. 지난 주말 전국적 소요로 경찰관 부상과 상점 피해가 발생한 바 있어 정부는 추가 시위에 대비해 경찰력을 강화할 계획이다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
+          "published": "2026-10-24T21:23:15+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wapo",
+      "name": "워싱턴포스트",
+      "name_en": "The Washington Post",
+      "articles": [
+        {
+          "title_ko": "법무부, 알래스카 상원 선거서 공화당 현역 근소 패배 시 결과 확정 저지 추진",
+          "title_original": "DOJ seeks to block Alaska Senate result if Republican incumbent narrowly loses",
+          "summary_ko": "미 법무부가 알래스카 상원 선거에서 공화당 현역 의원이 근소한 차이로 패할 경우 선거 결과 확정을 막으려 하고 있다. 연방 정부가 선거 결과에 개입하려는 움직임으로 큰 논란이 예상된다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUVJjQ3FsZnpGZkZjQV9rWlNUbUFOVWlJZ0VlV0MxN1YxTG9vaVZyY0F0WktiOVFhTGlzcFJ0eXF2SHlZU091bFpFaFdFSTF0RmZBMi1lV1VKVFA2TGF5ZUNZRmd2ZkJHbEJCMk52TUI4aVIxQ2djWk9nTE5nbFB3RTdHM2dkT3dGTGljNkNhOThNWnVzcG9FME5xM0UzWFdmcDZjbW9IeXg2Vk9La0R4YnRFNDFxcU9NZ3FPSUVEOEpnMnc1SGN5el92TlVQcC1ndEE?oc=5",
+          "published": "2026-10-24T01:12:40+00:00"
+        },
+        {
+          "title_ko": "병원 행세하는 개인 의원들, 환자에게 최대 10배 비용 청구",
+          "title_original": "Doctors’ offices are charging patients 10 times more by claiming to be hospitals",
+          "summary_ko": "일부 개인 진료소가 자신을 병원으로 분류해 환자들에게 최대 10배 많은 비용을 청구하고 있는 것으로 나타났다. 미국 의료비 부담과 청구 관행의 문제점을 드러낸 사안이다.",
+          "category": "사회",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV28zQklVa1U2dlNpMFdKVml3V016M0VlRGdLbnR2cVhxWVdmZHdIUDJKOWRXN2ZsSWR6R1lpZ1BTMUYxeVdkN3ZHTl9BSk9zZEt1LThPZFM0c0p6a21zbWtZWkpOY3I1Q194MDIwMHlPWHJ5VDh1YUxqQ3R2NElzUDlSVXZCTGZ2YlNXRTh6cHg1RGFZam1QMHhkdUFzUFRNS2RpR1pzV0hhSGtITHVSRGdmUUdIQ0l4RXlHdEpMSkJEZTNaOXYw?oc=5",
+          "published": "2026-10-24T16:00:00+00:00"
+        },
+        {
+          "title_ko": "전직 FBI 간부들, 헌터 바이든 노트북 수사 관련 의회 위증 혐의로 기소",
+          "title_original": "Former FBI officials charged with lying to Congress about Hunter Biden laptop inquiry",
+          "summary_ko": "전직 FBI 간부들이 헌터 바이든 노트북 수사와 관련해 의회에서 거짓 증언을 한 혐의로 기소됐다. 정치적으로 민감한 사안을 둘러싼 수사기관 책임 문제가 다시 쟁점으로 떠올랐다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc0pJTXdtekptdERlb0dybl9DMGZDa1doWllUS0Rsa0VXeVQ5S2JmRVhiNWNnTElhR3FsbHFRUFQ0c0hjcmUzNXM5aEZmQnd5RXJYSzI5bndraW1LV0RfUFBmU0NXeGx4cUZJb3hGZzRVY0w5anh2U2c3ZWxfRmVqTE1pcUNHZS1KMG1WbWFYRjQ0X3RacFBqUHFjQXJ5YUh0MGpSZmJrWE4zZnZzZnhrLWozTGpRUnZ6WklVbzdqNUx4SlhMbkpDX3dJZThhcXg3V2xjQVBJdHBrU2s?oc=5",
+          "published": "2026-10-24T02:52:21+00:00"
+        },
+        {
+          "title_ko": "트럼프, 중간선거 앞두고 대캐나다 관세 일부 철회",
+          "title_original": "Trump rolls back some Canada tariffs as midterm election approaches",
+          "summary_ko": "도널드 트럼프 대통령이 중간선거를 앞두고 캐나다에 부과한 관세 일부를 철회했다. 선거 국면에서 무역 정책이 조정되고 있음을 보여주는 조치로 양국 교역에 영향을 미칠 전망이다.",
+          "category": "경제",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclp5T1pZS2MxZFdLYUhNbTFJemF5dGxFTERtSnowODVOQVJPOUR4YUo0NTRmRDFtOUJpb185Vll4QjdLeExiaDk2ZUY5YW1vOGtiak1kbDRJQjNlRjlsU09CUlF6Y0stWkZ4NFNMRnE0bk5jelpKUkRTTXRvV2t3V09FUktPb05oYUlvbTdmeHI2b2tOTnAzT2dTcmc5RGFrR0xaeDJ3Y0lrUlJBWVQ3NGJ6Um5yZmhfdnNJ?oc=5",
+          "published": "2026-10-24T02:35:57+00:00"
+        },
+        {
+          "title_ko": "식수 속 '영원한 화학물질', EPA 발표보다 훨씬 많을 수도",
+          "title_original": "Drinking water may have much more ‘forever chemicals’ than EPA reports",
+          "summary_ko": "식수에 포함된 이른바 '영원한 화학물질'의 양이 미 환경보호청(EPA)이 보고한 것보다 훨씬 많을 수 있다는 분석이 나왔다. 공중보건과 수질 규제의 신뢰성에 의문을 제기하는 내용이다.",
+          "category": "사회",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONk5CRHJYaDZWenBXYVhNMEplM3YyNVVVRXdDZHdEc1QtamtoODY4OXpucGk4c3hqMFQzZ18xdDFhcUt1VHY2OVFnbzJuWG4zM0Z2WTNudmlEblBZMnV3Z2hkN0dyY0FSTW5OTktTVVJieFBWRHZrNWk4SXhmUnJVVDVIRVVWOG9Sb1NWaHUwRmhqSHlhUEhVamlhS2lUYm5MZ2VKVWFsamljSkx3d0RGZ2V4d01pWWhHTGNlNkdOQm1sclJyRy1ESEdXRQ?oc=5",
+          "published": "2026-10-24T05:07:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "name_en": "The Korea Economic Daily",
+      "articles": [
+        {
+          "title_ko": "미 중간선거 후 이란 공습설에 국제유가 117달러 돌파",
+          "title_original": null,
+          "summary_ko": "미국 중간선거 이후 이란을 공습할 수 있다는 관측이 퍼지면서 국제유가가 배럴당 117달러를 넘어섰다. 미국과 이란의 긴장 고조로 인한 유가 급등은 에너지 수입 의존도가 높은 한국 경제와 금융시장에 부담 요인이 될 수 있다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/2026102421587",
+          "published": "2026-10-23T22:21:00+00:00"
+        },
+        {
+          "title_ko": "한전, 사채 발행 한도 19조원 초과 위기…전기요금 인상 압박 커져",
+          "title_original": null,
+          "summary_ko": "한국전력의 사채 발행 규모가 법정 한도를 19조원가량 넘어설 위기에 놓였다. 한전의 자금 조달 여력이 한계에 이르면서 전기요금 인상 압박도 커지고 있어, 가계와 산업계 전반에 영향을 줄 수 있는 사안이다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026102423667",
+          "published": "2026-10-24T03:09:24+00:00"
+        },
+        {
+          "title_ko": "김정은 '당일치기 방중' 마무리…중국 서열 4위 왕후닝과 회담",
+          "title_original": null,
+          "summary_ko": "김정은 북한 국무위원장이 당일치기 일정으로 중국을 방문해 중국 공산당 서열 4위인 왕후닝과 회담했다. 이번 방중은 APEC을 앞두고 북·중 간 밀착을 과시하는 행보로 풀이되며, 한반도 정세에 미칠 파장이 주목된다.",
+          "category": "정치",
+          "url": "https://www.hankyung.com/article/202610242653i",
+          "published": "2026-10-24T11:24:58+00:00"
+        },
+        {
+          "title_ko": "코스피 바닥 다지기 나설까…미 FOMC·삼성전자·SK하이닉스 실적 주목",
+          "title_original": null,
+          "summary_ko": "코스피가 바닥을 다질 수 있을지 관심이 쏠리는 가운데, 이번 주 미국 연방공개시장위원회(FOMC) 회의와 삼성전자·SK하이닉스 실적 발표가 주요 변수로 꼽힌다. 증시 향방을 가를 대형 이벤트가 몰려 있어 투자자들의 경계감이 높다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/2026102308326",
+          "published": "2026-10-24T23:00:04+00:00"
+        },
+        {
+          "title_ko": "비트코인 과세, 이번에는 정말 시행될까",
+          "title_original": null,
+          "summary_ko": "그동안 여러 차례 유예됐던 가상자산 과세가 이번에는 실제로 시행될지를 짚은 기사다. 비트코인 등 가상자산 투자자가 많은 만큼 과세 여부는 투자자들의 세금 부담과 시장에 직접적인 영향을 미치는 정책 사안이다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/202610230712i",
+          "published": "2026-10-24T07:00:03+00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T08:55:26.548605+09:00",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T08:51:17.843859+09:00",
   "sources": [
     {
       "id": "nyt",
@@ -8,44 +8,44 @@
       "name_en": "The New York Times",
       "articles": [
         {
-          "title_ko": "트럼프 행정부, 공화당 설리번 패배 시 알래스카 상원 선거 결과 확정 저지 소송",
-          "title_original": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
-          "summary_ko": "트럼프 행정부 법무부가 공화당 현직 댄 설리번 상원의원이 패배할 경우 알래스카 상원 선거 결과를 막아 달라는 매우 이례적인 소송을 냈습니다. 법무부는 이름이 비슷한 후보들로 인한 혼란이 선거 결과를 오염시킬 수 있다고 주장했습니다. 법률 전문가들은 선거 결과 인증을 사전에 저지하려는 시도를 뒷받침할 뚜렷한 법적 근거가 없다고 보고 있습니다.",
+          "title_ko": "알래스카 선거 개입으로 드러난 법무부의 '트럼프 굴복'",
+          "title_original": "Alaska Election Gambit Shows Justice Dept. Has Bowed to Trump’s Demands",
+          "summary_ko": "미 법무부가 알래스카와 캘리포니아에서 중간선거 개입을 강화하며 대통령의 견제받지 않는 행정권을 수행하는 도구가 됐다는 분석이 나왔다. 트럼프 대통령은 공화당이 의석을 잃을 위기에 놓인 알래스카 상원 선거에 법무부가 개입하도록 지시했다. 법무부의 정치적 중립성과 선거의 공정성이 훼손될 수 있다는 점에서 파장이 크다.",
           "category": "정치",
-          "url": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
-          "published": "2026-10-23T22:40:54+00:00"
+          "url": "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html",
+          "published": "2026-10-24T19:21:11+00:00"
         },
         {
-          "title_ko": "연방 항소법원, 이민자 구금 합헌성 놓고 트럼프 손 들어줘",
-          "title_original": "Appeals Court Backs Trump on Constitutionality of Detentions",
-          "summary_ko": "미국 제5순회 연방항소법원이 트럼프 행정부의 이민자 구금이 합헌이라고 판결했습니다. 이번 판결로 판사들이 불법체류 이민자를 석방할 수 있는 권한이 크게 제한됩니다.",
+          "title_ko": "미 당국 \"이란, 미국인 겨냥 공격 계획 '막바지 단계'\"",
+          "title_original": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+          "summary_ko": "미국 관리들은 이란이 미국인을 겨냥한 공격을 '진전된 단계'까지 계획하고 있다고 밝혔다. 미 정부는 사우디아라비아에 있는 외교관과 연방 직원들에게 철수를 명령했으며, 역내 다른 공관의 인력도 감축하고 있다. 중동 정세의 긴장이 급격히 고조되고 있음을 보여준다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+          "published": "2026-10-24T16:09:15+00:00"
+        },
+        {
+          "title_ko": "트럼프, 최악의 오염 기업들에 '면죄부'…NYT 탐사보도",
+          "title_original": "How Trump Gave the Worst Polluters a Free Pass",
+          "summary_ko": "트럼프 대통령이 발암성 가스를 배출하는 산업시설에 대해 대기오염 규제를 일시 면제해 준 데 이어, 그가 임명한 관료들이 해당 규제 자체를 무력화하려 한 것으로 뉴욕타임스 조사 결과 드러났다. 화학공장 등은 원래 유독성 배출을 줄여야 할 의무가 있었으나 이를 피해 간 것으로 나타났다. 공중 보건과 환경 정책에 미칠 영향이 크다.",
           "category": "사회",
-          "url": "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html",
-          "published": "2026-10-23T20:47:16+00:00"
+          "url": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html",
+          "published": "2026-10-24T12:28:26+00:00"
         },
         {
-          "title_ko": "전직 FBI 간부 2명, 헌터 바이든 관련 허위 진술 혐의로 기소",
-          "title_original": "Two Former F.B.I. Officials Charged With False Statements About Hunter Biden",
-          "summary_ko": "전직 FBI 간부 2명이 헌터 바이든과 관련한 허위 진술 혐의로 기소됐습니다. 이번 기소는 조 바이든 전 대통령이 우크라이나에서 부패 거래를 했다는 근거 없는 주장에 의문을 제기했던 법집행·정보기관 인사들을 겨냥한 행정부의 움직임을 한층 강화하는 것입니다.",
-          "category": "정치",
-          "url": "https://www.nytimes.com/2026/10/23/us/politics/hunter-biden-ex-fbi-officials-charged.html",
-          "published": "2026-10-23T20:54:25+00:00"
-        },
-        {
-          "title_ko": "러시아와의 동맹에 대담해진 북한… 한반도 군비 경쟁 격화",
-          "title_original": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
-          "summary_ko": "이달 남북 간 이례적인 긴장 고조로 양측이 세계에서 가장 요새화된 국경을 사이에 두고 점점 더 치명적인 무기고를 구축하고 있다는 사실이 드러났습니다. 북한은 러시아와의 동맹에 힘입어 더욱 대담해지고 있습니다.",
+          "title_ko": "미·러 가스 협상 속 드러난 알래스카 사업의 숨은 러시아 자금",
+          "title_original": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+          "summary_ko": "인터뷰와 문서에 따르면 러시아 에너지 대기업이 한 미국 기업에 비밀리에 자금을 댄 것으로 드러났다. 이 거래는 우크라이나 전쟁 종식을 위한 협상에서도 논의된 것으로 알려졌다. 미국의 대러 에너지 협상과 전쟁 종식 외교의 투명성에 의문을 제기하는 사안이다.",
           "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
-          "published": "2026-10-23T05:13:32+00:00"
+          "url": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+          "published": "2026-10-24T18:24:42+00:00"
         },
         {
-          "title_ko": "요르단강 서안서 팔레스타인 무장괴한 총격… 네타냐후, 대규모 공세 예고",
-          "title_original": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-          "summary_ko": "이스라엘군에 따르면 요르단강 서안에서 팔레스타인 무장괴한들이 이스라엘인들에게 총격을 가해 군인 2명과 공격자 2명이 숨지고 군인 3명이 다쳤습니다. 베냐민 네타냐후 총리는 이스라엘 점령지에서 대규모 군사 작전을 벌이겠다고 밝혀 추가 충돌이 우려됩니다.",
+          "title_ko": "프랑스 시위 재점화…경찰 대규모 배치로 기물 파손은 줄어",
+          "title_original": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
+          "summary_ko": "토요일 대체로 평화롭게 진행된 행진 이후 저녁에 다시 충돌이 벌어졌지만, 대규모 경찰 배치와 1,000명 체포, 시위 경로 변경으로 대대적인 기물 파손은 억제됐다. 이번 시위는 몇몇 고등학교 학생들의 소규모 항의에서 시작해 노동조합과 다른 활동가들로까지 확산됐다. 지난 주말 전국적 소요로 경찰관 부상과 상점 피해가 발생한 바 있어 정부는 추가 시위에 대비해 경찰력을 강화할 계획이다.",
           "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-          "published": "2026-10-23T17:11:13+00:00"
+          "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
+          "published": "2026-10-24T21:23:15+00:00"
         }
       ]
     },
@@ -55,44 +55,44 @@
       "name_en": "The Washington Post",
       "articles": [
         {
-          "title_ko": "푸틴, '유전학' 근거로 \"우크라이나 땅은 그들의 영토가 아니다\" 주장",
-          "title_original": "Putin, citing genetics, claims Ukrainian land ‘is not their territory’",
-          "summary_ko": "블라디미르 푸틴 러시아 대통령이 유전학을 근거로 들며 우크라이나 땅은 우크라이나인의 영토가 아니라고 주장했다. 우크라이나 전쟁을 둘러싼 영토 문제에서 러시아의 강경한 입장을 보여주는 발언이다.",
-          "category": "국제",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSFZTT0xfdDJyby0zYkNSQWxIWGRJd2JQbjlKMmRwY1k4VFlhRjFidDZtZ3Fsc2ZjZy1DblpYYXc3QkU2YzBJNmpGYmVyVGZsNVp5dTdVaW1ScU5HRExzS2xTbDBfUDJsWHJqdW9hNFdWdlhURk03NHNmdjhQVHVjQjMyRF9nRnpHNElrcUxISFNMbGlSR3pxME40UW5aU1UtUHhPNXRzMmN0bElNVmFDQkJ3Q1B1UQ?oc=5",
-          "published": "2026-10-23T18:15:00+00:00"
-        },
-        {
-          "title_ko": "네타냐후 \"미국과 이스라엘이 이란 정권을 무너뜨려야\"",
-          "title_original": "Netanyahu says U.S. and Israel must topple Iranian regime",
-          "summary_ko": "베냐민 네타냐후 이스라엘 총리가 미국과 이스라엘이 이란 정권을 전복해야 한다고 밝혔다. 중동 정세와 미국의 대이란 정책에 영향을 줄 수 있는 발언이다.",
-          "category": "국제",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblM5N2lNR1dGazZJNVFnYkhPeUU4bmlXTWJQX3JMX1ZNanBaM21EaTRzT0d0YUx4Rkg2bjQ1bXlSMjNFOWNKTGJ3WFcyQ0lTUUp1TmxSUlJQWV9qZjRONDY5SFZWQVRHd1l6c2ZsRmtONzYzTms4OGFzYlp2MUl6bTFPanBpaFNPbkI2cWxUS1pVdXpBcDl3Vk9uOExYd29JUlE?oc=5",
-          "published": "2026-10-23T01:22:26+00:00"
-        },
-        {
-          "title_ko": "쿡 폴리티컬 리포트 \"민주당, 하원 의석 대폭 늘릴 듯\"",
-          "title_original": "Democrats poised for significant House gains, Cook Political Report estimates",
-          "summary_ko": "선거 분석기관 쿡 폴리티컬 리포트가 민주당이 하원에서 상당한 의석을 확보할 것으로 전망했다. 중간선거를 앞두고 의회 권력 지형의 변화 가능성을 시사하는 분석이다.",
+          "title_ko": "법무부, 알래스카 상원 선거서 공화당 현역 근소 패배 시 결과 확정 저지 추진",
+          "title_original": "DOJ seeks to block Alaska Senate result if Republican incumbent narrowly loses",
+          "summary_ko": "미 법무부가 알래스카 상원 선거에서 공화당 현역 의원이 근소한 차이로 패할 경우 선거 결과 확정을 막으려 하고 있다. 연방 정부가 선거 결과에 개입하려는 움직임으로 큰 논란이 예상된다.",
           "category": "정치",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZmNjWHBjeHNuRW4tYjAwVXdrWGdxS0VhU1FfZy04dFQ4emVZUkVGRHVCbkRZakJoUjZYVXoxTE54WWdjdENmeGQ1RndsalZyeDk4OVJOejhLZXM3ZW5scWtpN1pvZ3NWeHdjUkxOY3haX2RuaUl6dHY2a3BIT1ZlTktycHR2ZElqR1huOVVqTzR0X0JhUldGVWltV19jQjFCTDFoTFV4TWItLWptY1ZWVWlpazRHS3lKUm9STXkyUQ?oc=5",
-          "published": "2026-10-23T23:24:44+00:00"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUVJjQ3FsZnpGZkZjQV9rWlNUbUFOVWlJZ0VlV0MxN1YxTG9vaVZyY0F0WktiOVFhTGlzcFJ0eXF2SHlZU091bFpFaFdFSTF0RmZBMi1lV1VKVFA2TGF5ZUNZRmd2ZkJHbEJCMk52TUI4aVIxQ2djWk9nTE5nbFB3RTdHM2dkT3dGTGljNkNhOThNWnVzcG9FME5xM0UzWFdmcDZjbW9IeXg2Vk9La0R4YnRFNDFxcU9NZ3FPSUVEOEpnMnc1SGN5el92TlVQcC1ndEE?oc=5",
+          "published": "2026-10-24T01:12:40+00:00"
         },
         {
-          "title_ko": "미국 시민권 승인 72% 급감…유권자 될 이들 '발 묶여'",
-          "title_original": "Would-be voters in limbo as approvals of U.S. citizenship plunge by 72 percent",
-          "summary_ko": "미국 시민권 승인 건수가 72% 급감하면서 시민권을 얻어 투표하려던 이들이 불확실한 상황에 놓였다. 이민 정책 변화가 선거 참여에까지 영향을 미치고 있음을 보여준다.",
+          "title_ko": "병원 행세하는 개인 의원들, 환자에게 최대 10배 비용 청구",
+          "title_original": "Doctors’ offices are charging patients 10 times more by claiming to be hospitals",
+          "summary_ko": "일부 개인 진료소가 자신을 병원으로 분류해 환자들에게 최대 10배 많은 비용을 청구하고 있는 것으로 나타났다. 미국 의료비 부담과 청구 관행의 문제점을 드러낸 사안이다.",
           "category": "사회",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNEJGZUt1LVZqWkhuTmcxdnhDellUZUxQVUNSanFIZl9lQ3cxSlpfYmRSa3lxQ0RlLU4tYkU0Y0ZMR08wTDdvV3lJak54VXZqc2xYOTdRZXgtTW5lcnZYS2hvekhWcjZrNTVGWlpQS3VYTTdMV1VHXzNsSDZoZGVaX0FHM1JtbVRxN2ZBUVFGMG1YM2ZweUNlOHFsWVhMUTNzMGl6VGN5alVLNEE4X2xYNk5TakxOM3Bsa291UQ?oc=5",
-          "published": "2026-10-23T17:00:01+00:00"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV28zQklVa1U2dlNpMFdKVml3V016M0VlRGdLbnR2cVhxWVdmZHdIUDJKOWRXN2ZsSWR6R1lpZ1BTMUYxeVdkN3ZHTl9BSk9zZEt1LThPZFM0c0p6a21zbWtZWkpOY3I1Q194MDIwMHlPWHJ5VDh1YUxqQ3R2NElzUDlSVXZCTGZ2YlNXRTh6cHg1RGFZam1QMHhkdUFzUFRNS2RpR1pzV0hhSGtITHVSRGdmUUdIQ0l4RXlHdEpMSkJEZTNaOXYw?oc=5",
+          "published": "2026-10-24T16:00:00+00:00"
         },
         {
-          "title_ko": "가장 치명적인 피부암 백신, 위험 절반 가까이 낮춰",
-          "title_original": "Breakthrough vaccine for the deadliest skin cancer cut risk by almost half",
-          "summary_ko": "가장 치명적인 피부암에 대한 획기적인 백신이 발병 위험을 거의 절반 가까이 줄인 것으로 나타났다. 암 예방과 치료에 중요한 진전이 될 수 있는 성과다.",
-          "category": "과학·보건",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcnNsU1A1OWYzanlaZGVQdThwV1FIb2NhREFoT2RvSmpsNmw1cWsxWFdTVXBzZW9Qb2o4elBxZDZkSjVCNjJBenVWM05EOElWVnlIbzRONzZHTDdDdEtFSm5kMDZOVkpoSDVRT0tQMjBTMlZRbWpycV9lcld2Z3hXOWhkN1FsME1IU3d5OWstbkx3RWY1MmJCZGV0MXVDQTRrRjB6VThFbUVoWDNkR01jd3NDWEFhN0U?oc=5",
-          "published": "2026-10-23T03:24:00+00:00"
+          "title_ko": "전직 FBI 간부들, 헌터 바이든 노트북 수사 관련 의회 위증 혐의로 기소",
+          "title_original": "Former FBI officials charged with lying to Congress about Hunter Biden laptop inquiry",
+          "summary_ko": "전직 FBI 간부들이 헌터 바이든 노트북 수사와 관련해 의회에서 거짓 증언을 한 혐의로 기소됐다. 정치적으로 민감한 사안을 둘러싼 수사기관 책임 문제가 다시 쟁점으로 떠올랐다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc0pJTXdtekptdERlb0dybl9DMGZDa1doWllUS0Rsa0VXeVQ5S2JmRVhiNWNnTElhR3FsbHFRUFQ0c0hjcmUzNXM5aEZmQnd5RXJYSzI5bndraW1LV0RfUFBmU0NXeGx4cUZJb3hGZzRVY0w5anh2U2c3ZWxfRmVqTE1pcUNHZS1KMG1WbWFYRjQ0X3RacFBqUHFjQXJ5YUh0MGpSZmJrWE4zZnZzZnhrLWozTGpRUnZ6WklVbzdqNUx4SlhMbkpDX3dJZThhcXg3V2xjQVBJdHBrU2s?oc=5",
+          "published": "2026-10-24T02:52:21+00:00"
+        },
+        {
+          "title_ko": "트럼프, 중간선거 앞두고 대캐나다 관세 일부 철회",
+          "title_original": "Trump rolls back some Canada tariffs as midterm election approaches",
+          "summary_ko": "도널드 트럼프 대통령이 중간선거를 앞두고 캐나다에 부과한 관세 일부를 철회했다. 선거 국면에서 무역 정책이 조정되고 있음을 보여주는 조치로 양국 교역에 영향을 미칠 전망이다.",
+          "category": "경제",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclp5T1pZS2MxZFdLYUhNbTFJemF5dGxFTERtSnowODVOQVJPOUR4YUo0NTRmRDFtOUJpb185Vll4QjdLeExiaDk2ZUY5YW1vOGtiak1kbDRJQjNlRjlsU09CUlF6Y0stWkZ4NFNMRnE0bk5jelpKUkRTTXRvV2t3V09FUktPb05oYUlvbTdmeHI2b2tOTnAzT2dTcmc5RGFrR0xaeDJ3Y0lrUlJBWVQ3NGJ6Um5yZmhfdnNJ?oc=5",
+          "published": "2026-10-24T02:35:57+00:00"
+        },
+        {
+          "title_ko": "식수 속 '영원한 화학물질', EPA 발표보다 훨씬 많을 수도",
+          "title_original": "Drinking water may have much more ‘forever chemicals’ than EPA reports",
+          "summary_ko": "식수에 포함된 이른바 '영원한 화학물질'의 양이 미 환경보호청(EPA)이 보고한 것보다 훨씬 많을 수 있다는 분석이 나왔다. 공중보건과 수질 규제의 신뢰성에 의문을 제기하는 내용이다.",
+          "category": "사회",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONk5CRHJYaDZWenBXYVhNMEplM3YyNVVVRXdDZHdEc1QtamtoODY4OXpucGk4c3hqMFQzZ18xdDFhcUt1VHY2OVFnbzJuWG4zM0Z2WTNudmlEblBZMnV3Z2hkN0dyY0FSTW5OTktTVVJieFBWRHZrNWk4SXhmUnJVVDVIRVVWOG9Sb1NWaHUwRmhqSHlhUEhVamlhS2lUYm5MZ2VKVWFsamljSkx3d0RGZ2V4d01pWWhHTGNlNkdOQm1sclJyRy1ESEdXRQ?oc=5",
+          "published": "2026-10-24T05:07:03+00:00"
         }
       ]
     },
@@ -102,44 +102,44 @@
       "name_en": "The Korea Economic Daily",
       "articles": [
         {
-          "title_ko": "미국 중간선거 후 이란 공습설에 유가 117달러 돌파",
+          "title_ko": "미 중간선거 후 이란 공습설에 국제유가 117달러 돌파",
           "title_original": null,
-          "summary_ko": "미국 중간선거 이후 이란 공습이 이뤄질 수 있다는 관측이 나오면서 국제 유가가 배럴당 117달러를 넘어섰다. 중동 지정학적 리스크가 에너지 가격을 끌어올리고 있다는 점에서 주목된다.",
+          "summary_ko": "미국 중간선거 이후 이란을 공습할 수 있다는 관측이 퍼지면서 국제유가가 배럴당 117달러를 넘어섰다. 미국과 이란의 긴장 고조로 인한 유가 급등은 에너지 수입 의존도가 높은 한국 경제와 금융시장에 부담 요인이 될 수 있다.",
           "category": "국제",
           "url": "https://www.hankyung.com/article/2026102421587",
           "published": "2026-10-23T22:21:00+00:00"
         },
         {
-          "title_ko": "정용진, 13년 만에 이마트 대표 복귀…경영 전면에",
+          "title_ko": "한전, 사채 발행 한도 19조원 초과 위기…전기요금 인상 압박 커져",
           "title_original": null,
-          "summary_ko": "정용진 회장이 13년 만에 이마트 대표로 복귀하며 경영 전면에 나선다. 핵심 사업을 직접 챙길 계획이다.",
-          "category": "산업",
-          "url": "https://www.hankyung.com/article/2026102318281",
-          "published": "2026-10-23T08:54:13+00:00"
+          "summary_ko": "한국전력의 사채 발행 규모가 법정 한도를 19조원가량 넘어설 위기에 놓였다. 한전의 자금 조달 여력이 한계에 이르면서 전기요금 인상 압박도 커지고 있어, 가계와 산업계 전반에 영향을 줄 수 있는 사안이다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026102423667",
+          "published": "2026-10-24T03:09:24+00:00"
         },
         {
-          "title_ko": "SK하이닉스, 미국 낸드 공장 자금 조달 방안 새로 모색",
+          "title_ko": "김정은 '당일치기 방중' 마무리…중국 서열 4위 왕후닝과 회담",
           "title_original": null,
-          "summary_ko": "SK하이닉스가 미국 낸드 공장 건설 자금을 마련하기 위해 사모대출, 증자 등 새로운 자금 조달 방안을 찾고 있다. 솔리다임 상장 철회 이후 대규모 투자 재원을 어떻게 확보할지가 관심사다.",
-          "category": "산업",
-          "url": "https://www.hankyung.com/article/2026102318411",
-          "published": "2026-10-23T09:02:44+00:00"
+          "summary_ko": "김정은 북한 국무위원장이 당일치기 일정으로 중국을 방문해 중국 공산당 서열 4위인 왕후닝과 회담했다. 이번 방중은 APEC을 앞두고 북·중 간 밀착을 과시하는 행보로 풀이되며, 한반도 정세에 미칠 파장이 주목된다.",
+          "category": "정치",
+          "url": "https://www.hankyung.com/article/202610242653i",
+          "published": "2026-10-24T11:24:58+00:00"
         },
         {
-          "title_ko": "'HD키윗조선' 합작법인 출범…2029년 미국 신규 조선소 가동",
+          "title_ko": "코스피 바닥 다지기 나설까…미 FOMC·삼성전자·SK하이닉스 실적 주목",
           "title_original": null,
-          "summary_ko": "'HD키윗조선' 합작법인이 출범했으며, 2029년 미국에서 신규 조선소를 가동한다는 계획이다. 한국 조선업의 미국 진출과 관련된 행보로 주목된다.",
-          "category": "산업",
-          "url": "https://www.hankyung.com/article/2026102318171",
-          "published": "2026-10-23T09:12:07+00:00"
+          "summary_ko": "코스피가 바닥을 다질 수 있을지 관심이 쏠리는 가운데, 이번 주 미국 연방공개시장위원회(FOMC) 회의와 삼성전자·SK하이닉스 실적 발표가 주요 변수로 꼽힌다. 증시 향방을 가를 대형 이벤트가 몰려 있어 투자자들의 경계감이 높다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/2026102308326",
+          "published": "2026-10-24T23:00:04+00:00"
         },
         {
-          "title_ko": "'시간 규제' 걷어내 반도체 공장 건설·수출까지 5년 단축",
+          "title_ko": "비트코인 과세, 이번에는 정말 시행될까",
           "title_original": null,
-          "summary_ko": "반도체 공장 건설부터 수출까지 걸리는 시간을 늘리던 각종 '시간 규제'를 없애 기간을 5년 단축한다. 기업의 투자 속도와 경쟁력에 영향을 줄 정책 변화다.",
-          "category": "정책",
-          "url": "https://www.hankyung.com/article/202610231359i",
-          "published": "2026-10-23T06:14:57+00:00"
+          "summary_ko": "그동안 여러 차례 유예됐던 가상자산 과세가 이번에는 실제로 시행될지를 짚은 기사다. 비트코인 등 가상자산 투자자가 많은 만큼 과세 여부는 투자자들의 세금 부담과 시장에 직접적인 영향을 미치는 정책 사안이다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/202610230712i",
+          "published": "2026-10-24T07:00:03+00:00"
         }
       ]
     }
