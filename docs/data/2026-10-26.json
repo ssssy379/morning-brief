@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T08:52:31.709585+09:00",
+  "sources": [
+    {
+      "id": "nyt",
+      "name": "뉴욕타임즈",
+      "name_en": "The New York Times",
+      "articles": [
+        {
+          "title_ko": "브라질 대선 투표 마감… 혼란 속 막판 접전",
+          "title_original": "Live Updates: Polls Close in Brazil as Presidential Race Comes to Chaotic Close",
+          "summary_ko": "브라질 대선 투표가 마감됐으며, 좌파 현직 대통령 룰라 다 시우바는 일부 지역 당국이 교통을 지연시켰다고 비난했고, 트럼프의 우군인 플라비우 보우소나루 후보는 홍수로 지지자들의 투표가 방해받고 있다고 주장했다. 투표소 운영 시간은 2시간 연장됐다. 이번 선거는 박빙 승부로 중남미의 미래를 재편할 수 있는 선거로 평가된다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+          "published": "2026-10-25T23:41:52+00:00"
+        },
+        {
+          "title_ko": "트럼프의 선거 공격, '선제 대응' 새 국면 진입",
+          "title_original": "Trump’s Election Attacks Enter New Pre-emptive Phase",
+          "summary_ko": "미 법무부가 알래스카 공화당 현직 상원의원이 근소한 차이로 패배할 가능성에 대비해 이의를 제기하는 소송을 냈다. 이는 트럼프 대통령이 선거 결과를 미리 좌우하려는 새로운 전술을 보여주는 것으로, 선거 공정성 논란을 키울 전망이다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
+          "published": "2026-10-25T18:42:12+00:00"
+        },
+        {
+          "title_ko": "세르비아 부치치 대통령, 총선 패배 인정",
+          "title_original": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+          "summary_ko": "10년 넘게 세르비아 정치를 지배해 온 알렉산다르 부치치가 '우리가 이번 선거에서 패배한 것이 분명하다'며 예상보다 이른 연설에서 상대 측에 축하를 전했다. 이번 총선에서는 학생 주도 운동이 부치치의 집권당에 도전장을 내밀었다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+          "published": "2026-10-25T23:10:41+00:00"
+        },
+        {
+          "title_ko": "노벨상 수상자 마차도, 베네수엘라 귀국",
+          "title_original": "María Corina Machado Returns to Venezuela",
+          "summary_ko": "노벨상 수상자인 베네수엘라 야권 지도자 마리아 코리나 마차도가 약 10개월간의 망명 생활을 끝내고 귀국했다. 그는 자신을 배제해 온 지도부에 맞서 새 선거를 요구할 계획이다. 그가 돌아온 베네수엘라는 미국의 확고한 통제 아래 있어 워싱턴과의 관계에도 관심이 쏠린다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+          "published": "2026-10-25T20:35:51+00:00"
+        },
+        {
+          "title_ko": "김정은, 1년여 만에 중국 방문",
+          "title_original": "Kim Jong-un Makes First Visit to China in Over a Year",
+          "summary_ko": "북한 김정은 국무위원장이 새로 개통된 다리를 통해 국경을 넘어 1년여 만에 처음으로 중국을 방문했다. 양국이 관계 심화에 나서는 가운데 이뤄진 방문으로, 한반도 정세에 미칠 영향이 주목된다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
+          "published": "2026-10-25T01:14:39+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wapo",
+      "name": "워싱턴포스트",
+      "name_en": "The Washington Post",
+      "articles": [
+        {
+          "title_ko": "\"이란, 해외 미국 관리 암살 음모 '진전된 단계'\"… 내부 메모 경고",
+          "title_original": "Iran in ‘advanced stages’ of plots to kill U.S. officials abroad, memo warns",
+          "summary_ko": "이란이 해외에 있는 미국 관리들을 살해하려는 음모를 '진전된 단계'까지 추진하고 있다고 한 메모가 경고했다. 미국 관리들의 안전과 미·이란 관계에 직결되는 중대한 안보 사안이다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTBsQXJ4YU5ycmhZRVMxSGhhLVBUMFo5NXBLM3FJMVM2cU53ZExHcmlZRDM5RXU2ZWtnUXNaOFprWXF1eWNEREhEUWtlejI3bWN0bEQyaWRVUGpIMkRNMF91NVRKVXIwdnNlSDhLWmdUeU4yVHB6Sm93TnNFTnYzQk9HMHpIZDBJZ0ZRcU1QTUZSX2ctZzRzRUF3RTRZTUlvV3ZLWnI5MmhCckROTHdZbQ?oc=5",
+          "published": "2026-10-25T00:10:56+00:00"
+        },
+        {
+          "title_ko": "세르비아 '스트롱맨' 부치치, 학생 주도 운동에 패배 인정… 정치 지형 대격변",
+          "title_original": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+          "summary_ko": "세르비아의 강권 지도자 알렉산다르 부치치가 학생들이 주도한 운동에 패배를 인정했다. 워싱턴포스트는 이를 세르비아 정치의 지각변동으로 평가했다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUk14MXFXd0pYQ0pCYng2MmNObzRVRTZtRGJDNC1kcEhoMkJRMF8zbkVlT19QdkVrNTJfejh1Rzg5VDZHLUI5V0h2dHR4d1l1UDRwT21YM2VYdUNtZ21vWFZoLUh1ekdFR2J4QVd6aGdNUHVvbExJT2xNaE1vRW1uaWc2S3g2bkZoX0F2VTRGWkZGOFZBSUpiVzBuVkQzY1pEVWxOTEx4Ulg4V2FHODNaN3hYRHkzOVFKaGV2T3VSaDN2MEVl?oc=5",
+          "published": "2026-10-25T23:22:57+00:00"
+        },
+        {
+          "title_ko": "머스크 \"우크라이나 스타링크 접속 제한, 스페이스X가 했다\"",
+          "title_original": "Elon Musk says SpaceX was behind restrictions to Ukraine’s Starlink access",
+          "summary_ko": "일론 머스크가 우크라이나의 스타링크 접속 제한 조치를 스페이스X가 주도했다고 밝혔다. 민간 기업이 전쟁 중인 국가의 핵심 통신망 접근을 좌우했다는 점에서 파장이 예상된다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWl82WHg4VTJVUThiR0d5ejZaZ0lRaXhBTWZma3dMUXVkQkY5SGstT3BWNnBGY0RCdjVMX2Q4OVFlWFZoLWJZQW9pa3JXdnFZREEzTjdKeTEzLWJtU3U5Z1NuT1llelFqLTFLMkZxYmF2V2VYbFUtLVB2RktGX25nU2lpaHhLNjRTeUZ1Q0lDeDZGUUtBQV9CTndkU1VrS3JSb0xJbTdRZUJ0Smx5R0o1YjF4cDh2NkI2UlJv?oc=5",
+          "published": "2026-10-25T23:02:39+00:00"
+        },
+        {
+          "title_ko": "트럼프 법무부, 판사에게 판결 방향 지시한 뒤 법정에서 배제",
+          "title_original": "Trump’s DOJ told a judge how to rule. Then it pulled her from court.",
+          "summary_ko": "트럼프 행정부의 법무부가 한 판사에게 어떻게 판결해야 하는지 주문한 뒤 그 판사를 법정에서 물러나게 했다. 사법부 독립성 침해 논란으로 이어질 수 있는 사안이다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0htNUJMWXBSUndWaDdLRDBXYjRub2l5UVpFSEJOc1hRaFB4RjRMRmVOQ2dsekdnOUdfdWxVVVlEdURtRnBsOEF0U05Hb3RKbjl6eDFwQ0htUHBJNXJRZklxeVA4UTBPWkJQX3hQNW9uRjdzQXdZQ1lQcm44aF94ck5USFQ2c241SndLMWxPek5Pck5JYzVmLXVWWDhkeEdyUHJ0N3kyVGRDY09sMFE?oc=5",
+          "published": "2026-10-25T17:00:00+00:00"
+        },
+        {
+          "title_ko": "플로리다 대학 경기장 인근 총격… 미성년자 6명 포함 12명 부상",
+          "title_original": "12 people, including 6 minors, injured in shooting near Florida university stadium",
+          "summary_ko": "플로리다의 한 대학 경기장 근처에서 총격 사건이 발생해 미성년자 6명을 포함한 12명이 다쳤다. 미국 내 총기 폭력 문제가 다시 부각되고 있다.",
+          "category": "사회",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTFpQUWZZRzVLUUFETzktRTZnQ0hJTExueGZsX05ya2JyWkxEQVpVR0tXRUk4VWNKRXpiejg2a0pDVXl5TDliT2lPcTBPWE9yZkFGdElSOHdMa2hGbG1mZGZrbzdPV3QwcmNfeDFrQ0VkX1E3b0VnbDlHbW1pWnAtS1Y2bXJnLXVNT3J2NE00VWhCQW9vbnAxZThoUDFHNkIxdnFJZ2Rxd1RGVUVDSnFyNktYblZwZw?oc=5",
+          "published": "2026-10-25T19:09:50+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "name_en": "The Korea Economic Daily",
+      "articles": [
+        {
+          "title_ko": "국제유가 배럴당 117달러 돌파…에너지값 급등에 연말 물가 비상",
+          "title_original": null,
+          "summary_ko": "국제유가가 배럴당 117달러를 넘어섰습니다. 에너지 가격이 급등하면서 연말 물가에 경고등이 켜졌습니다. 같은 지면의 다른 기사는 트럼프발 중동전쟁 재점화 우려를 유가 상승 배경으로 짚었습니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026102638807",
+          "published": "2026-10-25T21:45:56+00:00"
+        },
+        {
+          "title_ko": "반도체 호황에 한국 경상수지 세계 2위…일본·독일도 제쳐",
+          "title_original": null,
+          "summary_ko": "반도체 호황에 힘입어 한국의 경상수지가 세계 2위에 올랐습니다. 일본과 독일도 한국보다 아래에 자리했습니다. 반도체 경기가 국가 대외 건전성을 끌어올리고 있음을 보여 줍니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/202610253648i",
+          "published": "2026-10-25T09:43:53+00:00"
+        },
+        {
+          "title_ko": "[단독] 7840만 건 뚫렸다…대규모 정보 유출 '초비상'",
+          "title_original": null,
+          "summary_ko": "7840만 건 규모의 보안 침해가 발생해 비상이 걸렸다고 한국경제가 단독 보도했습니다. 침해 규모가 매우 커 사회적 파장이 클 것으로 보입니다.",
+          "category": "사회",
+          "url": "https://www.hankyung.com/article/202610253289H",
+          "published": "2026-10-25T11:07:49+00:00"
+        },
+        {
+          "title_ko": "프랑스 국채금리 5% 돌파…우량 회사채 금리보다 높아져",
+          "title_original": null,
+          "summary_ko": "프랑스 국채금리가 5%를 넘어섰습니다. 국채 금리가 우량 회사채 금리보다 높아지는 이례적인 상황이 벌어졌습니다. 유럽 주요국의 재정 신뢰에 대한 시장의 경계를 보여 주는 신호입니다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/202610264055i",
+          "published": "2026-10-25T23:11:00+00:00"
+        },
+        {
+          "title_ko": "[단독] 전력 부족한데…열병합발전소, 낙찰 받고도 2년째 착공 못해",
+          "title_original": null,
+          "summary_ko": "전력 수요가 늘어나는 가운데 낙찰된 LNG 열병합발전소가 2년째 착공조차 못 하고 있다고 한국경제가 단독 보도했습니다. 전력 공급 확충이 시급한 상황에서 발전 인프라 구축이 지연되고 있다는 점에서 주목됩니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026102535691",
+          "published": "2026-10-25T09:45:37+00:00"
+        }
+      ]
+    }
+  ]
+}
