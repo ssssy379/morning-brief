@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T08:58:55.127728+09:00",
+  "sources": [
+    {
+      "id": "nyt",
+      "name": "뉴욕타임즈",
+      "name_en": "The New York Times",
+      "articles": [
+        {
+          "title_ko": "\"네타냐후, 이스라엘 총선 앞두고 이란 공격 밀어붙여\"… 관계자 증언",
+          "title_original": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+          "summary_ko": "관계자들에 따르면 네타냐후 이스라엘 총리가 총선을 앞두고 이란 공격을 추진했으나 군 참모총장이 이에 반대했다. 이후 네타냐후 총리는 최근 며칠간 공개적인 타격에는 못 미치는 별도의 작전을 압박한 것으로 전해졌다. 선거를 앞둔 시점에 중동 정세가 다시 긴장 국면으로 접어들 수 있다는 점에서 주목된다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+          "published": "2026-10-26T22:44:39+00:00"
+        },
+        {
+          "title_ko": "룰라, 브라질 대선서 보우소나루 꺾고 승리… 중남미 우파에 타격",
+          "title_original": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
+          "summary_ko": "루이스 이나시우 룰라 다 시우바 브라질 대통령이 4년 전 자신이 꺾었던 우파 지도자의 장남 플라비우 보우소나루를 누르고 네 번째 임기를 확정했다. 이번 승리로 중남미에서 이어지던 보수 진영의 연승 흐름에 제동이 걸렸다. 다만 상대 후보는 선거 결과에 이의를 제기했다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
+          "published": "2026-10-26T20:32:15+00:00"
+        },
+        {
+          "title_ko": "앤트로픽, 상장 신청서 공개… 가파른 매출 성장 속 지출은 더 빠르게 늘어",
+          "title_original": "Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril",
+          "summary_ko": "AI 기업 앤트로픽이 기업공개(IPO)를 위한 S-1 서류를 제출하며 빠른 매출 성장세를 공개했지만, 지출은 그보다 더 빠르게 늘고 있는 것으로 나타났다. 회사는 챗봇 클로드와 자사 기술이 가져올 수 있는 다양한 이점을 강조하면서도 상당히 비관적인 위험 요인도 함께 제시했다. 상장이 성사되면 창업자 7명이 억만장자가 될 수 있다.",
+          "category": "기술",
+          "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html",
+          "published": "2026-10-26T19:36:41+00:00"
+        },
+        {
+          "title_ko": "유엔 인권위원회 \"이스라엘, 휴전 이후에도 가자지구서 집단학살 행위\"",
+          "title_original": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
+          "summary_ko": "유엔 인권 조사위원회가 이스라엘이 휴전 이후에도 가자지구에서 집단학살(제노사이드) 행위를 저질렀다고 밝혔다. 위원회는 또 이스라엘이 요르단강 서안지구에서 반인도적 범죄를 저질렀다고 비판했으며, 이스라엘은 보고서를 규탄했다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
+          "published": "2026-10-26T20:30:07+00:00"
+        },
+        {
+          "title_ko": "미 법무부, 코미 전 FBI 국장 추가 기소… 기밀 유출 혐의",
+          "title_original": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
+          "summary_ko": "미국 법무부가 제임스 코미 전 연방수사국(FBI) 국장을 정보 유출 혐의로 추가 기소했다. 코미 측 변호인단은 이번 사건이 2016년 10월 뉴욕타임스에 국가안보 정보를 유출했다는 의혹에 관한 것으로, 이미 수사가 이뤄졌으나 기소로 이어지지 않았던 사안이라고 반박했다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
+          "published": "2026-10-26T23:02:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wapo",
+      "name": "워싱턴포스트",
+      "name_en": "The Washington Post",
+      "articles": [
+        {
+          "title_ko": "브라질 룰라 대통령 재선 성공… 중남미 우경화 흐름 거슬러",
+          "title_original": "Lula wins reelection in Brazil, defying Latin America’s rightward shift",
+          "summary_ko": "룰라 대통령이 브라질 대선에서 재선에 성공했다. 중남미 전반의 우경화 흐름을 거스른 결과로, 지역 정치 지형에 의미 있는 변화를 보여준다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0hXVXFhMk5KSXE4M004aEJYc3BsanpNOVZDdmtOS3F1aDMyTmdVQXFoUWt2OWt2eU9SY1RmdFhlWm4xVV9reldHQmh2NUZmX3FTeXhTcklNZ0M3YzJnYWptQmJYaEZ0UmJ1RmtzdGFXZDFCdGRRaGE2RzBBbkszN3RVS1NxTEJ0NTdEUU9BaUNVSHZQV3o5OEZpLVMxd1pzZTUtYmtNS3I2LTA4Vko5T3FGc3M1WFI3dWNN?oc=5",
+          "published": "2026-10-26T15:25:16+00:00"
+        },
+        {
+          "title_ko": "앤트로픽, 상장 준비 속 800억 달러 손실과 매출 급증 공개",
+          "title_original": "Anthropic reveals $80 billion loss, surging revenue as it prepares to go public",
+          "summary_ko": "AI 기업 앤트로픽이 기업공개(IPO)를 준비하면서 800억 달러 규모의 손실과 함께 급증한 매출을 공개했다. 대표적 AI 기업의 재무 실상이 처음 드러났다는 점에서 업계와 시장의 관심이 쏠린다.",
+          "category": "기술",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmtiU2pPX05WX0lNRndwX1E5VkZ5ejV6azhBVUpfWWJMM1RMeHcycHo5OGcyemtKZUVWOFdwQ3FYUW1zR2N0eEFqUEJPZ09JSkU0NzNZQzExX1FuMjRXaUtyODNSeDlRdWpsLVItdE01YXhwc0JreW5veWdHSUJXRjI5c0hTa0pmQ0ZKYzlVZGhKbmNmdlN6QTJjX3dRZU93LWZpVFc1UWppSEl5UlVrWnQ4SWsybkE?oc=5",
+          "published": "2026-10-26T22:16:39+00:00"
+        },
+        {
+          "title_ko": "미 법무부, 제임스 코미 전 FBI 국장 세 번째 기소",
+          "title_original": "Justice Dept. charges James Comey, ex-FBI director, for a third time",
+          "summary_ko": "미국 법무부가 제임스 코미 전 연방수사국(FBI) 국장을 다시 기소했다. 이번이 세 번째 기소로, 법무부와 코미 전 국장 사이의 법적 공방이 이어지고 있다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzdJRjlYeWlIdUotMk1xdXA1Mk9IZnI3UkRXVlZ3MzFsUW1ua0NJNWpWSTRXYk5sY0JZWkx1WkswLWx5ekpGZFBVa1RoVm9pa3RlN2hXYkZQRm1RbU0tN092NlA2U0lXSlpKZ3ZfS3BpZWYtVERVMzZDUUF5OWYzaGQ2UjhudVRsblcyRWRZMHI4Tm00TVdjUlAxbmNGRmtmTkUwcGJ5NFNQM1ZfbnhlNE9IQmxrcjVNZ0FLZw?oc=5",
+          "published": "2026-10-26T23:27:54+00:00"
+        },
+        {
+          "title_ko": "사우디·튀르키예·파키스탄, 전쟁 종식 위해 이란에 특사 파견",
+          "title_original": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war",
+          "summary_ko": "사우디아라비아, 튀르키예, 파키스탄이 전쟁을 끝내기 위한 노력의 일환으로 이란에 특사를 보냈다. 지역 주요국들이 함께 외교적 해법 모색에 나선 것이다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ?oc=5",
+          "published": "2026-10-26T21:49:33+00:00"
+        },
+        {
+          "title_ko": "트럼프 지지 업은 네타냐후, 선거 져도 분열된 이스라엘 계속 이끌 수도",
+          "title_original": "Netanyahu, with Trump’s backing, could lose election and still lead a divided Israel",
+          "summary_ko": "트럼프 대통령의 지지를 받는 네타냐후 이스라엘 총리가 선거에서 패하더라도 권력을 유지할 가능성이 제기됐다. 이스라엘의 깊은 정치적 분열 상황을 보여준다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1FDT1FZRy03RnEycVM0SEpzdmtDQjRrX1p5amV4eF9xV1YwcmFHVEV4VWZ0eGF3NkI5bHBrSmJyT2VDclpxcDhtdGNlT29aUDlMQVZuUVJDUV91SWdoYk5Oc1pmWTFvUDZpbERnNHJ0a1lMaDUtaU80OGpxWHpuSjV4SzgwaFkwaTNKVDBnbTdaUTVvQ044WTJobnA0ZERhY3dWT1hfaFZJWVlCZWVTYjI4Z2RNY0ttQmdR?oc=5",
+          "published": "2026-10-26T20:21:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "name_en": "The Korea Economic Daily",
+      "articles": [
+        {
+          "title_ko": "KB국민은행 해킹 피해 119명에서 2210명으로 늘어… 은행 \"고객께 송구\"",
+          "title_original": null,
+          "summary_ko": "KB국민은행 해킹 사고의 피해자 수가 당초 알려진 119명에서 2210명으로 크게 늘었습니다. 은행은 고객에게 사과했습니다. 대형 시중은행의 보안 사고 피해가 확대되면서 금융권 보안에 대한 우려가 커질 수 있는 사안입니다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/2026102661187",
+          "published": "2026-10-26T08:58:22+00:00"
+        },
+        {
+          "title_ko": "앤트로픽, 나스닥 상장 추진… 8000억달러 지출 약정 공개",
+          "title_original": null,
+          "summary_ko": "'AI 최대어'로 꼽히는 앤트로픽이 나스닥 상장을 위해 IPO를 신청했습니다. 이 과정에서 8000억달러 규모의 지출 약정도 공개됐습니다. 주요 AI 기업의 상장은 AI 산업 투자 흐름과 증시에 큰 영향을 줄 수 있습니다.",
+          "category": "기술",
+          "url": "https://www.hankyung.com/article/202610276665i",
+          "published": "2026-10-26T23:23:14+00:00"
+        },
+        {
+          "title_ko": "삼성전자·SK하이닉스가 버는 2600조원이 '저주'?… 한국 경제에 나온 경고",
+          "title_original": null,
+          "summary_ko": "삼성전자와 SK하이닉스가 벌어들일 것으로 언급된 2600조원 규모의 반도체 수익이 오히려 한국 경제에 '저주'가 될 수 있다는 경고가 나왔습니다. 반도체 호황에 대한 의존도가 커질수록 경제 구조의 위험도 커질 수 있다는 문제 제기입니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026102660711",
+          "published": "2026-10-26T08:53:11+00:00"
+        },
+        {
+          "title_ko": "비트코인 8만달러 아래로… AI 불안·연준·미국 중간선거 '3중고'",
+          "title_original": null,
+          "summary_ko": "비트코인 가격이 8만달러 아래로 떨어졌습니다. AI 관련 불안, 미 연방준비제도 변수, 미국 중간선거가 동시에 부담 요인으로 작용하고 있습니다. 대표 위험자산의 하락은 시장 전반의 투자심리 위축을 보여주는 신호로 볼 수 있습니다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/202610266262i",
+          "published": "2026-10-26T11:50:05+00:00"
+        },
+        {
+          "title_ko": "트럼프 관세 압박에 결국 백기… 아우디, 6조원 들여 미국에 공장 건설",
+          "title_original": null,
+          "summary_ko": "독일 아우디가 트럼프 행정부의 고율 관세 압박 속에 약 6조원을 투입해 미국에 공장을 짓기로 했습니다. 미국의 관세 정책이 글로벌 자동차 기업의 생산 거점 결정에 직접적인 영향을 미치고 있음을 보여주는 사례입니다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/202610276615i",
+          "published": "2026-10-26T23:08:42+00:00"
+        }
+      ]
+    }
+  ]
+}
