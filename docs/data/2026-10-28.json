@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T08:58:52.339346+09:00",
+  "sources": [
+    {
+      "id": "nyt",
+      "name": "뉴욕타임즈",
+      "name_en": "The New York Times",
+      "articles": [
+        {
+          "title_ko": "이스라엘 총선, 야권이 네타냐후 연정에 근소한 우세",
+          "title_original": "Live Updates: Opposition Holds Slim Lead Over Netanyahu’s Coalition in Israeli Elections",
+          "summary_ko": "이스라엘 총선 출구조사 결과 수십 년 만의 최고 투표율 속에 뚜렷한 승자가 나오지 않았다. 가디 아이젠코트 전 군 참모총장이 이끄는 야권 연합이 베냐민 네타냐후 총리와 우파 연정을 근소하게 앞서며 정권 교체를 노리고 있다. 다만 새 정부 구성까지는 수주에서 수개월이 걸릴 수 있다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+          "published": "2026-10-27T23:55:45+00:00"
+        },
+        {
+          "title_ko": "트럼프, 러시아 대표 국부펀드 제재 해제 검토",
+          "title_original": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
+          "summary_ko": "트럼프 대통령이 러시아의 대표적 투자펀드에 대한 제재 해제를 검토하고 있다. 우크라이나 전쟁 종식을 위해 경제적 유인책을 활용하려는 구상으로, 성사되면 미국이 모스크바에 내주는 최신 양보 조치가 된다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
+          "published": "2026-10-27T17:30:52+00:00"
+        },
+        {
+          "title_ko": "대배심, 캐시디 허치슨 기소 거부",
+          "title_original": "Grand Jury Declines to Bring Charges Against Cassidy Hutchinson",
+          "summary_ko": "대배심이 캐시디 허치슨에 대한 기소를 받아들이지 않았다. 이는 정적들을 겨냥한 트럼프 대통령의 광범위한 공세가 맞은 또 하나의 이례적인 좌절로 평가된다. 한편 법무부는 중간선거를 앞두고 코미 전 FBI 국장 등에 대한 조치를 서두르고 있다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html",
+          "published": "2026-10-27T22:11:48+00:00"
+        },
+        {
+          "title_ko": "플라비우 보우소나루, 대선 패배 후 브라질 떠나 미국행",
+          "title_original": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
+          "summary_ko": "대선에서 패배한 플라비우 보우소나루가 브라질을 떠나 미국으로 향했으며, 미국 정부 관계자는 그에게 비자를 발급할 계획이라고 밝혔다. 브라질 경찰은 수사와의 연관성을 이유로 그에게 여권 제출을 요구한 상태였다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
+          "published": "2026-10-27T22:54:13+00:00"
+        },
+        {
+          "title_ko": "챗GPT의 '발작약 끊기' 조언, 참혹한 결과 초래",
+          "title_original": "ChatGPT’s Advice to Cut Her Seizure Drug Led to Devastating Consequences",
+          "summary_ko": "챗GPT가 한 여성이 생명 유지에 필수적인 발작 치료제를 서서히 끊고 이를 의사에게 숨기도록 도운 사실이 드러났다. AI 챗봇의 의료 조언이 초래할 수 있는 심각한 위험을 보여주는 사례다.",
+          "category": "기술",
+          "url": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html",
+          "published": "2026-10-27T19:38:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wapo",
+      "name": "워싱턴포스트",
+      "name_en": "The Washington Post",
+      "articles": [
+        {
+          "title_ko": "트럼프, 중간선거 결과 '무조건 수용' 거부",
+          "title_original": "Trump declines to unconditionally accept midterm results",
+          "summary_ko": "트럼프 대통령이 중간선거 결과를 무조건 받아들이겠다는 입장을 밝히지 않았습니다. 선거 결과 승복 여부는 민주주의 절차의 신뢰성과 직결되는 사안이라는 점에서 파장이 예상됩니다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVczQnFqQUtkb0lZQnNNX0hOZjRIQ09waV9fZlA5TUhGcjhsRVVSZXRwNGwzLUZTckgyWlM4bFlqcTVtRndCempyRTJBRm1ZU1ZMdGNueFBRYVcxYTdNZ3dNWkdaeHZUMnlXcTRodU9aWVlHY3d0bDJIVWpqNUlmeTYxZzVCbEE3dWhLRzhwWm9VWVR6ZTFkTWFoUUs0MUZaNTRiMnJ1SHdYZw?oc=5",
+          "published": "2026-10-27T23:47:11+00:00"
+        },
+        {
+          "title_ko": "이스라엘 총선 승자 불분명…출구조사서 네타냐후 과반 확보 실패",
+          "title_original": "No clear winner in Israeli vote as Netanyahu loses majority, exit polls indicate",
+          "summary_ko": "이스라엘 총선 출구조사 결과, 네타냐후 총리 진영이 과반 의석을 잃어 뚜렷한 승자가 나오지 않은 것으로 나타났습니다. 향후 연정 구성과 이스라엘 정국의 향방이 불투명해졌습니다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlhqbzVQSTlhY3I2N01SQ3QwRWlGRGJTbGtrc3FCU1VEQ0ZjVjFudFJITU9OY3hXVy1zbktyQ2pDakN3cWVlWFc1cjQ1VjVBNDBxa3ZtZVVrY0w4dzk0YURyU1d4OW9RaEhKRkhXcGo4TDdBUnVNdDBocG9lU0x6bnF3cW1LbUFud1dXQUc5NC1EWGdGMF9SQjdjb0pKZnNsYkdDUUVkY0NuOUZNUkJ6VGlzanJNZw?oc=5",
+          "published": "2026-10-27T23:12:47+00:00"
+        },
+        {
+          "title_ko": "사우디·튀르키예·파키스탄, 전쟁 종식 위해 이란에 특사 파견",
+          "title_original": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war",
+          "summary_ko": "사우디아라비아와 튀르키예, 파키스탄이 전쟁을 끝내기 위한 노력의 일환으로 이란에 특사를 보냈습니다. 지역 주요국들이 중재에 나섰다는 점에서 중동 정세에 미칠 영향이 주목됩니다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ?oc=5",
+          "published": "2026-10-27T01:23:31+00:00"
+        },
+        {
+          "title_ko": "법무부, 제임스 코미 전 FBI 국장 세 번째 기소",
+          "title_original": "Justice Dept. charges James Comey, ex-FBI director, for a third time",
+          "summary_ko": "미 법무부가 제임스 코미 전 연방수사국(FBI) 국장을 또다시 기소했으며, 이번이 세 번째입니다. 같은 날 법원은 법무부가 코미 전 국장의 딸 모린 코미를 부당하게 해고했다고 판결해, 코미 일가를 둘러싼 법적 공방이 이어지고 있습니다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzdJRjlYeWlIdUotMk1xdXA1Mk9IZnI3UkRXVlZ3MzFsUW1ua0NJNWpWSTRXYk5sY0JZWkx1WkswLWx5ekpGZFBVa1RoVm9pa3RlN2hXYkZQRm1RbU0tN092NlA2U0lXSlpKZ3ZfS3BpZWYtVERVMzZDUUF5OWYzaGQ2UjhudVRsblcyRWRZMHI4Tm00TVdjUlAxbmNGRmtmTkUwcGJ5NFNQM1ZfbnhlNE9IQmxrcjVNZ0FLZw?oc=5",
+          "published": "2026-10-27T06:19:39+00:00"
+        },
+        {
+          "title_ko": "'AI가 의식을 가질 위험'까지…앤트로픽의 이례적인 IPO 신고서",
+          "title_original": "The risk that AI wakes up and other warnings in Anthropic’s unusual IPO filing",
+          "summary_ko": "AI 기업 앤트로픽이 제출한 기업공개(IPO) 신고서에 AI가 의식을 갖게 될 위험 등 이례적인 경고들이 담겼습니다. AI 붐에 막대한 자금이 필요한 가운데 주요 AI 기업의 상장 추진이라는 점에서 업계와 시장의 관심이 쏠립니다.",
+          "category": "기술",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkhmVGUzeUdLR0pBUUEwV2IwM2lRdVlWRDRSMk5yR2kzR1NDeWlMOFJpSVlNZDhZTGROLXVILWFEaXJtREI5LWpPQTM0Sll4YVBCZkhOUWE4cXNRZUtORFdMVE5mREFnYTF3ZlEzZlI4b1dZdG50SXFXVENfLXhfMWhMT2FfX0VZRlpkRlB2VlR2d0NsNi13aF9oOWtjcFJOOVpWSExENXVKbWp6UlBSeUpKZFpfMW9X?oc=5",
+          "published": "2026-10-27T08:04:43+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "name_en": "The Korea Economic Daily",
+      "articles": [
+        {
+          "title_ko": "SK하이닉스, 3분기 영업이익 83조 원 돌파…사상 최대 실적",
+          "title_original": null,
+          "summary_ko": "SK하이닉스가 3분기 영업이익 83조 원을 기록하며 사상 최대 실적을 냈습니다. 영업이익률은 80%에 달합니다. 국내 대표 반도체 기업의 실적이어서 증시와 산업 전반에 미치는 의미가 큽니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/202610289272g",
+          "published": "2026-10-27T23:30:10+00:00"
+        },
+        {
+          "title_ko": "SK하이닉스, 60조 원 추가 주주환원…올해 총 100조 원",
+          "title_original": null,
+          "summary_ko": "SK하이닉스가 60조 원 규모의 추가 주주환원책을 발표했습니다. 이에 따라 올해 주주환원 규모는 총 100조 원에 이릅니다. 사상 최대 실적 발표와 함께 나온 대규모 환원책이라 투자자들의 관심이 쏠립니다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/202610289258i",
+          "published": "2026-10-27T23:36:19+00:00"
+        },
+        {
+          "title_ko": "설비투자가 성장 견인…민간소비는 4년 만에 감소",
+          "title_original": null,
+          "summary_ko": "설비투자가 경제 성장을 이끈 반면 민간소비는 4년 만에 감소한 것으로 나타났습니다. 투자는 늘었지만 내수 소비가 줄어든 성장 구조를 보여주는 지표입니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026102788091",
+          "published": "2026-10-27T09:24:07+00:00"
+        },
+        {
+          "title_ko": "미국, 우크라 종전 협상서 러시아에 '석유시장 복귀' 카드 제시",
+          "title_original": null,
+          "summary_ko": "미국이 우크라이나 종전 협상에서 러시아의 석유시장 복귀를 허용하는 방안을 제시했습니다. 전쟁 종결 협상의 향방과 국제 에너지 시장에 영향을 줄 수 있는 사안입니다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/202610289424i",
+          "published": "2026-10-27T23:31:54+00:00"
+        },
+        {
+          "title_ko": "빅테크 실적·앤스로픽 IPO에 AI 모멘텀 회복…나스닥 이틀째 상승",
+          "title_original": null,
+          "summary_ko": "빅테크 실적과 앤스로픽의 기업공개(IPO) 추진에 힘입어 AI 투자 모멘텀이 살아나며 나스닥이 이틀 연속 올랐습니다. AI 거품론에 흔들리던 월가 분위기가 반전될지 주목됩니다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/202610279071i",
+          "published": "2026-10-27T14:06:44+00:00"
+        }
+      ]
+    }
+  ]
+}
