@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T09:03:45.182163+09:00",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T09:03:44.249704+09:00",
   "sources": [
     {
       "id": "nyt",
@@ -8,44 +8,44 @@
       "name_en": "The New York Times",
       "articles": [
         {
-          "title_ko": "룰라 브라질 대통령 재선 성공…패배한 플라비우 보우소나루는 미국으로 도피",
-          "title_original": "What to Know About Brazil’s Election and Flávio Bolsonaro’s Departure",
-          "summary_ko": "루이스 이나시우 룰라 다시우바 브라질 대통령이 재선에 성공하면서 중남미에서 이어지던 우파 후보들의 연승 흐름이 끊겼다. 패배한 플라비우 보우소나루는 수사와 관련해 경찰이 여권을 취소하자 아르헨티나를 거쳐 미국 마이애미로 떠났다. 중남미 정치 지형의 변화와 함께 패배 후보의 해외 도피라는 이례적 상황이 겹친 사건이다.",
+          "title_ko": "이스라엘 총선 최종 결과, 과반 정당 없어",
+          "title_original": "No Clear Winner in Israel Election, Final Results Show",
+          "summary_ko": "이스라엘 총선 최종 결과 베냐민 네타냐후 총리의 정당과 연대 세력이 크네세트(의회)에서 53석을 얻어, 정부 구성에 필요한 단독 과반에 미치지 못했습니다. 가디 아이젠코트가 이끄는 주요 야권 연합은 48석을 확보했습니다. 어느 쪽도 과반을 확보하지 못해 차기 정부 구성의 향방이 불투명해졌습니다.",
           "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
-          "published": "2026-10-28T17:31:12+00:00"
+          "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+          "published": "2026-10-29T23:07:49+00:00"
         },
         {
-          "title_ko": "이스라엘 총선, 어느 진영도 과반 확보 못 해…정부 구성 난항 예고",
-          "title_original": "Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path",
-          "summary_ko": "개표가 진행 중인 가운데 네타냐후 총리의 우파 연정과 가디 아이젠코트가 이끄는 야권 연합 모두 과반 확보에 실패할 것으로 보인다. 양측 모두 승리를 자신하고 있지만 개표에는 며칠이 걸릴 수 있으며, 아랍계 정당의 예상 밖 선전으로 이들이 캐스팅보트를 쥘 가능성이 제기된다. 향후 연정 구성을 둘러싼 치열한 협상과 정치적 교착이 우려된다.",
+          "title_ko": "트럼프 행정부, 캘리포니아 부정선거 수사 확대하며 압박",
+          "title_original": "Trump Administration Pressures California With Expanded Voter Fraud Investigation",
+          "summary_ko": "법무부가 캘리포니아주에 대량의 불법 유권자가 있다는 근거 없는 주장을 입증하려는 노력을 넓히면서, 지역 선거 관리 당국자들에게 대배심 소환장을 발부했습니다. 연방 정부가 주 선거 관리에 대한 압박 수위를 높이고 있다는 점에서 주목됩니다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html",
+          "published": "2026-10-29T23:49:56+00:00"
+        },
+        {
+          "title_ko": "엔비디아 젠슨 황 CEO, 중국 스파이 공작의 표적이었던 것으로 드러나",
+          "title_original": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
+          "summary_ko": "젠슨 황 엔비디아 최고경영자와 가까운 관계였던 한 중국인 여성 사업가가 중국 정부에 정보를 넘겨온 것으로 확인됐습니다. 트럼프 대통령은 이 사안을 보고받았지만 아무 조치도 취하지 않았습니다.",
+          "category": "기술",
+          "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
+          "published": "2026-10-29T19:27:01+00:00"
+        },
+        {
+          "title_ko": "빅테크의 데이터센터 투자 공세, 현금 소진에 월가 우려",
+          "title_original": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall Street",
+          "summary_ko": "아마존이 목요일 AI 분야 투자 확대를 발표하며 대규모 투자 대열에 합류했지만, 빅테크 기업들의 주가는 흔들리고 있습니다. 같은 날 인텔은 AI 붐의 여파로 PC 제조사 대상 매출이 타격을 입었다고 밝혔고, 주가가 20% 급락했습니다.",
+          "category": "경제",
+          "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+          "published": "2026-10-29T22:11:24+00:00"
+        },
+        {
+          "title_ko": "트럼프와 측근들, 플라비우 보우소나루의 브라질 탈출과 미국 입국 도와",
+          "title_original": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
+          "summary_ko": "미국 당국자들에 따르면, 트럼프 대통령은 브라질 대선에서 패배하고 현지에서 여러 건의 형사 수사를 받고 있는 플라비우 보우소나루가 미국에 입국할 수 있도록 조치했습니다. 미국 정부가 외국 정치인의 사법 절차 회피를 도운 셈이어서 미·브라질 관계에 파장이 예상됩니다.",
           "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
-          "published": "2026-10-28T20:13:57+00:00"
-        },
-        {
-          "title_ko": "스페인 톨레도 인근 고속열차 추돌 사고로 최소 68명 사망",
-          "title_original": "At Least 68 Killed in Train Crash in Spain, Officials Say",
-          "summary_ko": "스페인 톨레도 인근에서 고속 여객열차가 앞서 가던 다른 열차를 추돌해 최소 68명이 숨졌다. 같은 혼잡 노선에서 1년도 안 돼 발생한 두 번째 사고로, 스페인 역사상 가장 치명적인 사고 중 하나로 꼽힌다. 수개월 전 같은 운행사들이 연루된 사고로 수십 명이 숨진 바 있어 안전 문제에 대한 우려가 커지고 있다.",
-          "category": "사회",
-          "url": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
-          "published": "2026-10-28T19:12:18+00:00"
-        },
-        {
-          "title_ko": "케네디 보건장관, 미승인 펩타이드 주사제 광범위한 사용 허용",
-          "title_original": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
-          "summary_ko": "로버트 F. 케네디 주니어 보건복지부 장관이 일방적 선언을 통해 온라인 인플루언서들이 홍보해 온 여러 미승인 펩타이드 주사제를 널리 사용할 수 있도록 했다. 식품의약국(FDA)은 이 조치에 반대 의견을 냈던 것으로 알려져, 보건 규제 체계와 공중보건에 미칠 파장이 주목된다.",
-          "category": "정책",
-          "url": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
-          "published": "2026-10-28T17:05:05+00:00"
-        },
-        {
-          "title_ko": "러시아 \"트럼프 행정부, 러 국부펀드 제재 완화 논의 중\"",
-          "title_original": "Trump Officials Discussing Sanctions Relief for Russian Fund, Russia Acknowledges",
-          "summary_ko": "러시아 당국자는 우크라이나 전쟁 종식 협상의 일환으로 트럼프 행정부 관계자들과 러시아 국영 투자펀드에 대한 제재 완화를 논의하고 있다고 밝혔다. 러시아는 종전 협상에서 경제적 이익을 얻어내려 해왔으며, 이번 논의는 대러 제재 체제와 협상 향방에 중요한 변수가 될 수 있다.",
-          "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/28/us/politics/russia-sanctions-relief-fund-trump.html",
-          "published": "2026-10-28T23:37:41+00:00"
+          "url": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
+          "published": "2026-10-29T18:53:47+00:00"
         }
       ]
     },
@@ -55,44 +55,44 @@
       "name_en": "The Washington Post",
       "articles": [
         {
-          "title_ko": "트럼프, 중간선거 결과 무조건 수용 거부",
-          "title_original": "Trump declines to unconditionally accept midterm results",
-          "summary_ko": "도널드 트럼프 대통령이 중간선거 결과를 조건 없이 받아들이겠다는 입장을 밝히지 않았다. 선거를 앞두고 결과 불복 가능성을 남겼다는 점에서 민주적 정권 이양과 선거 신뢰성을 둘러싼 논란이 커질 수 있다.",
-          "category": "정치",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVczQnFqQUtkb0lZQnNNX0hOZjRIQ09waV9fZlA5TUhGcjhsRVVSZXRwNGwzLUZTckgyWlM4bFlqcTVtRndCempyRTJBRm1ZU1ZMdGNueFBRYVcxYTdNZ3dNWkdaeHZUMnlXcTRodU9aWVlHY3d0bDJIVWpqNUlmeTYxZzVCbEE3dWhLRzhwWm9VWVR6ZTFkTWFoUUs0MUZaNTRiMnJ1SHdYZw?oc=5",
-          "published": "2026-10-28T03:24:32+00:00"
-        },
-        {
-          "title_ko": "이란 전쟁 재개 우려 속 밴스, 테헤란에 접촉 시도",
+          "title_ko": "중동, 이란 전쟁 재개 대비 속 밴스 부통령 이란에 접촉 시도",
           "title_original": "Vance makes Tehran outreach as Middle East braces for resumption of Iran war",
-          "summary_ko": "중동이 이란과의 전쟁 재개에 대비하는 가운데 JD 밴스 부통령이 이란 측에 접촉을 시도했다. 무력 충돌 재발 여부가 걸린 외교적 움직임이라는 점에서 주목된다.",
+          "summary_ko": "중동 지역이 이란 전쟁 재개 가능성에 대비하는 가운데 J.D. 밴스 부통령이 테헤란 측에 접촉을 시도했다. 전쟁 재개 여부가 지역 안보와 국제 정세에 큰 영향을 미칠 수 있어 주목된다.",
           "category": "국제",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUg3U20teGRmUGJTMVJrb29JZl9xOTU0N2tzZEVHY2xxMzVtTDZ6UmFDc01JbGhTVUlwOVZUOC1PVEQwLWpkMld4Qk1hbUZvelI2UUVSOEg5YUZYWGNfdnE2Z2xFNWYwMHN0UDRfVHE0T0ZMckp6bzRXdnIza2U1a1BPM3BjTDdKYnZ2eVhPaHR1c3NRTzlwWldmUXJjSkg2NFdUdGQwWQ?oc=5",
-          "published": "2026-10-28T23:46:54+00:00"
+          "published": "2026-10-29T06:30:24+00:00"
         },
         {
-          "title_ko": "이스라엘 총선, 출구조사서 뚜렷한 승자 없어",
-          "title_original": "No clear winner in Israeli vote, exit polls indicate",
-          "summary_ko": "이스라엘 총선 출구조사 결과 어느 진영도 확실한 승리를 거두지 못한 것으로 나타났다. 해외 거주 이스라엘인 수만 명이 투표를 위해 귀국할 만큼 관심이 높았던 선거로, 향후 정부 구성 향방이 불투명해졌다.",
-          "category": "국제",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlhqbzVQSTlhY3I2N01SQ3QwRWlGRGJTbGtrc3FCU1VEQ0ZjVjFudFJITU9OY3hXVy1zbktyQ2pDakN3cWVlWFc1cjQ1VjVBNDBxa3ZtZVVrY0w4dzk0YURyU1d4OW9RaEhKRkhXcGo4TDdBUnVNdDBocG9lU0x6bnF3cW1LbUFud1dXQUc5NC1EWGdGMF9SQjdjb0pKZnNsYkdDUUVkY0NuOUZNUkJ6VGlzanJNZw?oc=5",
-          "published": "2026-10-28T11:54:33+00:00"
-        },
-        {
-          "title_ko": "\"법무부가 판결 번복 지시\" 판사 폭로에 민주당, 개혁 요구",
-          "title_original": "Democrats demand reform after judge says DOJ ordered her to reverse rulings",
-          "summary_ko": "한 판사가 법무부로부터 자신의 판결을 뒤집으라는 지시를 받았다고 밝히자 민주당이 개혁을 촉구하고 나섰다. 행정부의 사법 개입 논란으로 번질 수 있는 사안이다.",
+          "title_ko": "미국인 3,900만 명 이상 사전투표… 히스패닉 유권자 다수 참여",
+          "title_original": "More than 39 million Americans have voted early, including many Hispanic voters",
+          "summary_ko": "중간선거를 앞두고 3,900만 명이 넘는 미국인이 이미 사전투표를 마쳤으며, 여기에는 많은 히스패닉 유권자가 포함됐다. 선거 결과를 가늠할 수 있는 주요 지표로 관심을 모은다.",
           "category": "정치",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3BOVDFnbklWc3VoQ1dJa1RUYjdTRzFDSkpuT3JFSzhoaHFzQ3ZUNkRqQWw2dVJwaUd1TFZibUFRZEtnbWo5bEZxcDRmNTZCMnVlbk1tb3VXSjRfdzZhWWs2WGRNRGptQzVZaFdxQ3FxMkZ0TFQtQ3J3NVpPbEVPNUFnaWxnazBxME5idUxmSHNMNGx5Uy1aRDg3dktuWkJySHB0S25Hd2dseENKelJPTVI4X2VsNi1ic181Mm4tWQ?oc=5",
-          "published": "2026-10-28T06:39:37+00:00"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTl9RRFdnTS1vTDRmOVpJa1hkQVpibGJaSnlZbnAyMUFCNE1COWxFN1NtWGt1V3FOSkNNVnVpMWhWTWhxX3NqTm1HTUJiQmtLWVBTT3FuU0o0a2NLSzYyc2MzY1lvRVpNdUN0ZWh1ZVk0LThxVXF0QmdIT2dKUm1TWjZLTE16Mmkta241UUlyOC1PcjRfMGwzR21Hc1Y0YWtjTHhvcENyLWJEc2lxTldEUlExRFNxbHZzUGVhdzh4djFVZ29PUzJpN3E0SQ?oc=5",
+          "published": "2026-10-29T03:03:44+00:00"
         },
         {
-          "title_ko": "대선 패배 후 브라질 떠난 보우소나루, 미국 비자 발급받아",
-          "title_original": "Bolsonaro is granted a U.S. visa after fleeing Brazil following election loss",
-          "summary_ko": "선거 패배 이후 브라질을 떠난 보우소나루가 미국 비자를 발급받았다. 브라질 법원이 JD 밴스 관련 후원 네트워크에 대한 수사를 명령하는 등 미국과 브라질 정치 간 얽힘이 부각되는 가운데 나온 소식이다.",
-          "category": "국제",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdTN4OHhtN2JLNm4wR29xdDZXS0xyQllDLXFoZ1lQWUZhMUlfVGFSa3FQcWxacTdlaWREMno1R1pWbUJkWlJRd3ZLdjU3YzY5WXJuajI3V3N0amR3bEg2SkhDMW1UMDZ4UEowaVRCU3B0eF9xQmtmSnNMQ2lwdFdWcElmNHMyRF9ydzFWU1NQckJiSC1ET0hOVVIzNXhvTTEteWtXbEFoaTdldXR3MVR5YlZDQnJ2ejdhRk5LTHN3?oc=5",
-          "published": "2026-10-28T18:49:51+00:00"
+          "title_ko": "해커들, 대규모 데이터 유출로 국토안보부 직원 수천 명 신원 공개",
+          "title_original": "Hackers identify thousands of DHS employees in massive data breach",
+          "summary_ko": "대규모 데이터 유출 사건으로 해커들이 국토안보부(DHS) 직원 수천 명의 신원을 확인했다. 백악관 관계자는 이번 유출을 규탄하며 ICE 요원들도 '가족이 있다'고 밝혔다.",
+          "category": "사회",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa2w4aFlMOC1LNGVBMERpanZQTDgycmNUOVQ4RkZvUUd4Nk92Yy05ZF9zWFJKYnViMll2MkxzNW8zbG1hb2ktT1VlbjVueVByazloOVFDMm5wN0JKVTU1aGxmWVVSVGoxTUFRdGlINlBPTURaR0ozT1drREJLYW1icnlXQ2FFUE9iNWo0M0NGWVIta240RmVaNnd4LWRGel9RcDFBOWpUOVdXNTJIbnRYZVNYaGlobS1i?oc=5",
+          "published": "2026-10-29T04:18:00+00:00"
+        },
+        {
+          "title_ko": "헤그세스가 해임한 장성, 형사 기소 검토 대상으로 회부",
+          "title_original": "General ousted by Hegseth referred for possible criminal prosecution, officials say",
+          "summary_ko": "관계자들에 따르면 피트 헤그세스 국방장관이 해임한 장성이 형사 기소 가능성 검토를 위해 회부됐다. 군 지휘부를 둘러싼 이례적인 사법 조치라는 점에서 파장이 예상된다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRE9KdHd0andocmFMZ1RncFZfNWFtRTZLRUpmdHRJMGN0bzV4MDJqMEFjRlBHU1ExRjBhbVFSamtubllhb0JLekViSG0zMHlaVnBUZ2NiUnY5bFBfdUpLdy1Rb1k5NFF4cVdDUlZOeENYb29VZExqTlFvM29HbEFhZ1EzWFFWaVhLVTVoVEwyN0xUblJyYVo2eGZwWVBTeWRSamlWc3ROakpDYW5vZENIblg2alZFZzBCY1VjZFRPbkdCSjdmX2R3d2J3?oc=5",
+          "published": "2026-10-29T23:24:06+00:00"
+        },
+        {
+          "title_ko": "트럼프 행정부서 연방 공무원 5명 중 1명 퇴직… 흑인 직원 타격 가장 커",
+          "title_original": "Nearly 1 in 5 federal workers left under Trump. Black workers took the biggest hit.",
+          "summary_ko": "트럼프 행정부 기간 연방 공무원 약 5명 중 1명이 공직을 떠난 것으로 나타났다. 특히 흑인 직원들이 가장 큰 타격을 입어 연방 인력 감축의 불균등한 영향이 드러났다.",
+          "category": "사회",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHQ5NTl5ZDJ1VnVVTHNFLVpDRjVIaXBINmdMRTh5b0NudG5RMDR3emNzVzZQS2E0WHN1bkZqekFVeVpyVXVkUWhwRGdaMlcxdndUcURyMXpCemk3VmplZVI3WHVpclVNdFNYOUpzRlVVcWRzUkFyWk1JZFJPUnlRTGkwSHBtcGpMa0pzRF9Fc19RbkhKVUpmMTFpekt1M0lJeGRRd2pYVWV6TG1ISHd3MjhxVWU?oc=5",
+          "published": "2026-10-29T17:00:00+00:00"
         }
       ]
     },
@@ -102,44 +102,44 @@
       "name_en": "The Korea Economic Daily",
       "articles": [
         {
-          "title_ko": "SK하이닉스, 배당 30조·자사주 30조… 추가 주주환원만 60조 원",
+          "title_ko": "삼성전자, 반도체로만 106조원 벌어…\"내년 HBM 1위\" 전망",
           "title_original": null,
-          "summary_ko": "SK하이닉스가 배당 30조 원과 자사주 30조 원 등 총 60조 원 규모의 추가 주주환원 계획을 내놨다. 회사는 3년 치 D램·HBM 물량이 완판됐으며 HBM 수요가 생산능력의 두 배에 이른다고 밝혀 AI 고점론을 정면 반박했다.",
+          "summary_ko": "삼성전자가 반도체 사업에서만 106조원을 벌어들이며 내년 고대역폭메모리(HBM) 시장 1위 탈환 전망까지 나왔습니다. 회사는 HBM4 매출이 3배로 급증했고 장기계약 고객사가 20곳으로 늘었다고 밝혔습니다. AI 반도체 수요가 한국 대표 기업의 실적을 끌어올리고 있음을 보여줍니다.",
           "category": "산업",
-          "url": "https://www.hankyung.com/article/2026102815021",
-          "published": "2026-10-28T08:59:01+00:00"
+          "url": "https://www.hankyung.com/article/2026102944201",
+          "published": "2026-10-29T08:49:51+00:00"
         },
         {
-          "title_ko": "中 CSI300 고점 대비 20% 급락… 정부 자금 투입해 증시 방어",
+          "title_ko": "9월 산업생산, 15년 6개월 만에 최대폭 증가",
           "title_original": null,
-          "summary_ko": "중국 대표 주가지수인 CSI300이 고점 대비 20% 급락했다. 중국 정부는 공적 자금을 동원해 증시 방어에 나섰다.",
-          "category": "국제",
-          "url": "https://www.hankyung.com/article/202610292213i",
-          "published": "2026-10-28T23:33:15+00:00"
+          "summary_ko": "9월 산업생산이 15년 6개월 만에 가장 큰 폭으로 늘었다는 속보가 나왔습니다. 생산 지표가 이례적으로 크게 개선되면서 국내 경기 흐름에 관심이 쏠립니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026103050077",
+          "published": "2026-10-29T23:07:50+00:00"
         },
         {
-          "title_ko": "유럽 가스값 4년 만에 100유로 돌파… 전기료·생산비도 급등",
+          "title_ko": "신세계, 롯데 센텀시티점 인수…백화점 맞수 간 '초유의 거래'",
           "title_original": null,
-          "summary_ko": "유럽 천연가스 가격이 4년 만에 100유로 선에 올라섰다. 이에 따라 전기요금과 산업 생산비도 함께 급등하고 있다.",
-          "category": "국제",
-          "url": "https://www.hankyung.com/article/202610292121i",
-          "published": "2026-10-28T23:07:28+00:00"
-        },
-        {
-          "title_ko": "\"광산 많아도 소용없다\"… 중국 통제에 배터리 비용 폭등 우려",
-          "title_original": null,
-          "summary_ko": "중국의 공급 통제로 배터리 원가가 크게 오를 수 있다는 우려가 커지고 있다. 다른 지역에 광산이 많더라도 중국의 영향력을 피하기 어렵다는 지적이 나온다.",
+          "summary_ko": "신세계가 경쟁사 롯데의 센텀시티 점포를 인수합니다. 백화점업계 라이벌 간 이례적인 거래로, 유통업계 판도 변화에 영향을 줄 것으로 보입니다.",
           "category": "산업",
-          "url": "https://www.hankyung.com/article/202610280692i",
-          "published": "2026-10-28T23:00:11+00:00"
+          "url": "https://www.hankyung.com/article/2026102944181",
+          "published": "2026-10-29T08:52:19+00:00"
         },
         {
-          "title_ko": "엔비디아·애플보다 현금 많은 6년 차 기업… 앤스로픽 176조 원에 시장 '깜짝'",
+          "title_ko": "'돈 문제'로 깨진 체코 원전 팀코리아",
           "title_original": null,
-          "summary_ko": "창업 6년 차인 AI 기업 앤스로픽이 176조 원 규모로 평가되며 시장을 놀라게 했다. 엔비디아·애플보다 많은 현금을 보유한 것으로 알려져 AI 산업의 자금 쏠림을 보여준다.",
-          "category": "기술",
-          "url": "https://www.hankyung.com/article/202610281854i",
-          "published": "2026-10-28T14:59:57+00:00"
+          "summary_ko": "체코 원전 사업을 함께 추진하던 '팀코리아'가 비용 문제로 균열을 빚었습니다. 한국 원전 수출의 상징적 사업에서 협력 체계가 흔들렸다는 점에서 파장이 예상됩니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026102943891",
+          "published": "2026-10-29T09:12:14+00:00"
+        },
+        {
+          "title_ko": "\"경제활동인구 내년 정점…2045년엔 3명 중 1명이 노인\"",
+          "title_original": null,
+          "summary_ko": "국내 경제활동인구가 내년에 정점을 찍은 뒤 감소할 것이라는 전망이 나왔습니다. 2045년에는 인구 3명 중 1명이 노인이 될 것으로 예상돼, 인구 구조 변화가 성장 잠재력과 사회 전반에 큰 부담이 될 것으로 보입니다.",
+          "category": "사회",
+          "url": "https://www.hankyung.com/article/2026102944021",
+          "published": "2026-10-29T09:10:23+00:00"
         }
       ]
     }

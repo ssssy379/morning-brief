@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T09:03:44.249704+09:00",
+  "sources": [
+    {
+      "id": "nyt",
+      "name": "뉴욕타임즈",
+      "name_en": "The New York Times",
+      "articles": [
+        {
+          "title_ko": "이스라엘 총선 최종 결과, 과반 정당 없어",
+          "title_original": "No Clear Winner in Israel Election, Final Results Show",
+          "summary_ko": "이스라엘 총선 최종 결과 베냐민 네타냐후 총리의 정당과 연대 세력이 크네세트(의회)에서 53석을 얻어, 정부 구성에 필요한 단독 과반에 미치지 못했습니다. 가디 아이젠코트가 이끄는 주요 야권 연합은 48석을 확보했습니다. 어느 쪽도 과반을 확보하지 못해 차기 정부 구성의 향방이 불투명해졌습니다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+          "published": "2026-10-29T23:07:49+00:00"
+        },
+        {
+          "title_ko": "트럼프 행정부, 캘리포니아 부정선거 수사 확대하며 압박",
+          "title_original": "Trump Administration Pressures California With Expanded Voter Fraud Investigation",
+          "summary_ko": "법무부가 캘리포니아주에 대량의 불법 유권자가 있다는 근거 없는 주장을 입증하려는 노력을 넓히면서, 지역 선거 관리 당국자들에게 대배심 소환장을 발부했습니다. 연방 정부가 주 선거 관리에 대한 압박 수위를 높이고 있다는 점에서 주목됩니다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html",
+          "published": "2026-10-29T23:49:56+00:00"
+        },
+        {
+          "title_ko": "엔비디아 젠슨 황 CEO, 중국 스파이 공작의 표적이었던 것으로 드러나",
+          "title_original": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
+          "summary_ko": "젠슨 황 엔비디아 최고경영자와 가까운 관계였던 한 중국인 여성 사업가가 중국 정부에 정보를 넘겨온 것으로 확인됐습니다. 트럼프 대통령은 이 사안을 보고받았지만 아무 조치도 취하지 않았습니다.",
+          "category": "기술",
+          "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
+          "published": "2026-10-29T19:27:01+00:00"
+        },
+        {
+          "title_ko": "빅테크의 데이터센터 투자 공세, 현금 소진에 월가 우려",
+          "title_original": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall Street",
+          "summary_ko": "아마존이 목요일 AI 분야 투자 확대를 발표하며 대규모 투자 대열에 합류했지만, 빅테크 기업들의 주가는 흔들리고 있습니다. 같은 날 인텔은 AI 붐의 여파로 PC 제조사 대상 매출이 타격을 입었다고 밝혔고, 주가가 20% 급락했습니다.",
+          "category": "경제",
+          "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+          "published": "2026-10-29T22:11:24+00:00"
+        },
+        {
+          "title_ko": "트럼프와 측근들, 플라비우 보우소나루의 브라질 탈출과 미국 입국 도와",
+          "title_original": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
+          "summary_ko": "미국 당국자들에 따르면, 트럼프 대통령은 브라질 대선에서 패배하고 현지에서 여러 건의 형사 수사를 받고 있는 플라비우 보우소나루가 미국에 입국할 수 있도록 조치했습니다. 미국 정부가 외국 정치인의 사법 절차 회피를 도운 셈이어서 미·브라질 관계에 파장이 예상됩니다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
+          "published": "2026-10-29T18:53:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wapo",
+      "name": "워싱턴포스트",
+      "name_en": "The Washington Post",
+      "articles": [
+        {
+          "title_ko": "중동, 이란 전쟁 재개 대비 속 밴스 부통령 이란에 접촉 시도",
+          "title_original": "Vance makes Tehran outreach as Middle East braces for resumption of Iran war",
+          "summary_ko": "중동 지역이 이란 전쟁 재개 가능성에 대비하는 가운데 J.D. 밴스 부통령이 테헤란 측에 접촉을 시도했다. 전쟁 재개 여부가 지역 안보와 국제 정세에 큰 영향을 미칠 수 있어 주목된다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUg3U20teGRmUGJTMVJrb29JZl9xOTU0N2tzZEVHY2xxMzVtTDZ6UmFDc01JbGhTVUlwOVZUOC1PVEQwLWpkMld4Qk1hbUZvelI2UUVSOEg5YUZYWGNfdnE2Z2xFNWYwMHN0UDRfVHE0T0ZMckp6bzRXdnIza2U1a1BPM3BjTDdKYnZ2eVhPaHR1c3NRTzlwWldmUXJjSkg2NFdUdGQwWQ?oc=5",
+          "published": "2026-10-29T06:30:24+00:00"
+        },
+        {
+          "title_ko": "미국인 3,900만 명 이상 사전투표… 히스패닉 유권자 다수 참여",
+          "title_original": "More than 39 million Americans have voted early, including many Hispanic voters",
+          "summary_ko": "중간선거를 앞두고 3,900만 명이 넘는 미국인이 이미 사전투표를 마쳤으며, 여기에는 많은 히스패닉 유권자가 포함됐다. 선거 결과를 가늠할 수 있는 주요 지표로 관심을 모은다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTl9RRFdnTS1vTDRmOVpJa1hkQVpibGJaSnlZbnAyMUFCNE1COWxFN1NtWGt1V3FOSkNNVnVpMWhWTWhxX3NqTm1HTUJiQmtLWVBTT3FuU0o0a2NLSzYyc2MzY1lvRVpNdUN0ZWh1ZVk0LThxVXF0QmdIT2dKUm1TWjZLTE16Mmkta241UUlyOC1PcjRfMGwzR21Hc1Y0YWtjTHhvcENyLWJEc2lxTldEUlExRFNxbHZzUGVhdzh4djFVZ29PUzJpN3E0SQ?oc=5",
+          "published": "2026-10-29T03:03:44+00:00"
+        },
+        {
+          "title_ko": "해커들, 대규모 데이터 유출로 국토안보부 직원 수천 명 신원 공개",
+          "title_original": "Hackers identify thousands of DHS employees in massive data breach",
+          "summary_ko": "대규모 데이터 유출 사건으로 해커들이 국토안보부(DHS) 직원 수천 명의 신원을 확인했다. 백악관 관계자는 이번 유출을 규탄하며 ICE 요원들도 '가족이 있다'고 밝혔다.",
+          "category": "사회",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa2w4aFlMOC1LNGVBMERpanZQTDgycmNUOVQ4RkZvUUd4Nk92Yy05ZF9zWFJKYnViMll2MkxzNW8zbG1hb2ktT1VlbjVueVByazloOVFDMm5wN0JKVTU1aGxmWVVSVGoxTUFRdGlINlBPTURaR0ozT1drREJLYW1icnlXQ2FFUE9iNWo0M0NGWVIta240RmVaNnd4LWRGel9RcDFBOWpUOVdXNTJIbnRYZVNYaGlobS1i?oc=5",
+          "published": "2026-10-29T04:18:00+00:00"
+        },
+        {
+          "title_ko": "헤그세스가 해임한 장성, 형사 기소 검토 대상으로 회부",
+          "title_original": "General ousted by Hegseth referred for possible criminal prosecution, officials say",
+          "summary_ko": "관계자들에 따르면 피트 헤그세스 국방장관이 해임한 장성이 형사 기소 가능성 검토를 위해 회부됐다. 군 지휘부를 둘러싼 이례적인 사법 조치라는 점에서 파장이 예상된다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRE9KdHd0andocmFMZ1RncFZfNWFtRTZLRUpmdHRJMGN0bzV4MDJqMEFjRlBHU1ExRjBhbVFSamtubllhb0JLekViSG0zMHlaVnBUZ2NiUnY5bFBfdUpLdy1Rb1k5NFF4cVdDUlZOeENYb29VZExqTlFvM29HbEFhZ1EzWFFWaVhLVTVoVEwyN0xUblJyYVo2eGZwWVBTeWRSamlWc3ROakpDYW5vZENIblg2alZFZzBCY1VjZFRPbkdCSjdmX2R3d2J3?oc=5",
+          "published": "2026-10-29T23:24:06+00:00"
+        },
+        {
+          "title_ko": "트럼프 행정부서 연방 공무원 5명 중 1명 퇴직… 흑인 직원 타격 가장 커",
+          "title_original": "Nearly 1 in 5 federal workers left under Trump. Black workers took the biggest hit.",
+          "summary_ko": "트럼프 행정부 기간 연방 공무원 약 5명 중 1명이 공직을 떠난 것으로 나타났다. 특히 흑인 직원들이 가장 큰 타격을 입어 연방 인력 감축의 불균등한 영향이 드러났다.",
+          "category": "사회",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHQ5NTl5ZDJ1VnVVTHNFLVpDRjVIaXBINmdMRTh5b0NudG5RMDR3emNzVzZQS2E0WHN1bkZqekFVeVpyVXVkUWhwRGdaMlcxdndUcURyMXpCemk3VmplZVI3WHVpclVNdFNYOUpzRlVVcWRzUkFyWk1JZFJPUnlRTGkwSHBtcGpMa0pzRF9Fc19RbkhKVUpmMTFpekt1M0lJeGRRd2pYVWV6TG1ISHd3MjhxVWU?oc=5",
+          "published": "2026-10-29T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "name_en": "The Korea Economic Daily",
+      "articles": [
+        {
+          "title_ko": "삼성전자, 반도체로만 106조원 벌어…\"내년 HBM 1위\" 전망",
+          "title_original": null,
+          "summary_ko": "삼성전자가 반도체 사업에서만 106조원을 벌어들이며 내년 고대역폭메모리(HBM) 시장 1위 탈환 전망까지 나왔습니다. 회사는 HBM4 매출이 3배로 급증했고 장기계약 고객사가 20곳으로 늘었다고 밝혔습니다. AI 반도체 수요가 한국 대표 기업의 실적을 끌어올리고 있음을 보여줍니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026102944201",
+          "published": "2026-10-29T08:49:51+00:00"
+        },
+        {
+          "title_ko": "9월 산업생산, 15년 6개월 만에 최대폭 증가",
+          "title_original": null,
+          "summary_ko": "9월 산업생산이 15년 6개월 만에 가장 큰 폭으로 늘었다는 속보가 나왔습니다. 생산 지표가 이례적으로 크게 개선되면서 국내 경기 흐름에 관심이 쏠립니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026103050077",
+          "published": "2026-10-29T23:07:50+00:00"
+        },
+        {
+          "title_ko": "신세계, 롯데 센텀시티점 인수…백화점 맞수 간 '초유의 거래'",
+          "title_original": null,
+          "summary_ko": "신세계가 경쟁사 롯데의 센텀시티 점포를 인수합니다. 백화점업계 라이벌 간 이례적인 거래로, 유통업계 판도 변화에 영향을 줄 것으로 보입니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026102944181",
+          "published": "2026-10-29T08:52:19+00:00"
+        },
+        {
+          "title_ko": "'돈 문제'로 깨진 체코 원전 팀코리아",
+          "title_original": null,
+          "summary_ko": "체코 원전 사업을 함께 추진하던 '팀코리아'가 비용 문제로 균열을 빚었습니다. 한국 원전 수출의 상징적 사업에서 협력 체계가 흔들렸다는 점에서 파장이 예상됩니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026102943891",
+          "published": "2026-10-29T09:12:14+00:00"
+        },
+        {
+          "title_ko": "\"경제활동인구 내년 정점…2045년엔 3명 중 1명이 노인\"",
+          "title_original": null,
+          "summary_ko": "국내 경제활동인구가 내년에 정점을 찍은 뒤 감소할 것이라는 전망이 나왔습니다. 2045년에는 인구 3명 중 1명이 노인이 될 것으로 예상돼, 인구 구조 변화가 성장 잠재력과 사회 전반에 큰 부담이 될 것으로 보입니다.",
+          "category": "사회",
+          "url": "https://www.hankyung.com/article/2026102944021",
+          "published": "2026-10-29T09:10:23+00:00"
+        }
+      ]
+    }
+  ]
+}
