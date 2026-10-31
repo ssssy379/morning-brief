@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T09:03:41.293477+09:00",
+  "sources": [
+    {
+      "id": "nyt",
+      "name": "뉴욕타임즈",
+      "name_en": "The New York Times",
+      "articles": [
+        {
+          "title_ko": "바이낸스, 60억 달러 넘는 암호화폐 해킹 피해… 알아야 할 것들",
+          "title_original": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
+          "summary_ko": "해커들이 암호화폐 거래소 바이낸스에서 약 60억 달러 규모의 디지털 화폐를 탈취했으며, 이는 사상 최대 규모의 암호화폐 도난 사건이 될 수 있다. 바이낸스는 고객 손실을 보전하겠다고 밝혔다. 공격자들이 AI 등 첨단 기법을 활용해 암호화폐를 훔치고 빠르게 자금을 세탁하는 추세 속에서 벌어진 사건이라 업계 보안 위험에 대한 우려가 커지고 있다.",
+          "category": "금융",
+          "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
+          "published": "2026-10-30T21:48:01+00:00"
+        },
+        {
+          "title_ko": "오바마케어 보험료, 2027년 또 대폭 인상",
+          "title_original": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
+          "summary_ko": "수백만 명의 미국인이 가입한 오바마케어(건강보험개혁법) 보험료가 내년에 평균 13% 오른다. 앞서 이미 큰 폭의 인상이 있었던 데 더해진 것으로, 트럼프 행정부가 약화시켜 온 이 제도가 직면한 문제를 더욱 키우고 있다.",
+          "category": "정책",
+          "url": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
+          "published": "2026-10-30T23:42:10+00:00"
+        },
+        {
+          "title_ko": "기술주 6월 이후 최악의 하루… 시장 전반 압박",
+          "title_original": "Tech Stocks See Worst Day Since June, Pressuring Broader Market",
+          "summary_ko": "나스닥과 S&P 500 지수가 6월 이후 가장 큰 하루 낙폭을 기록했다. AI 인프라에 대한 막대한 지출을 둘러싼 투자자들의 우려가 기술주 매도를 불러 시장 전반에 부담을 줬다.",
+          "category": "경제",
+          "url": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
+          "published": "2026-10-30T20:40:47+00:00"
+        },
+        {
+          "title_ko": "카니 총리, 캐나다의 EU 첫 '준회원국' 가입 추진 공식화",
+          "title_original": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
+          "summary_ko": "마크 카니 캐나다 총리가 캐나다를 유럽연합(EU)의 첫 '준회원국'으로 만들겠다고 약속했다. 이는 캐나다에 대한 미국의 영향력을 줄이고 세계 다른 지역으로 교역을 확대하려는 카니 총리 구상의 일환이다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
+          "published": "2026-10-30T21:08:01+00:00"
+        },
+        {
+          "title_ko": "중간선거 앞둔 미 법무부의 이례적 행보",
+          "title_original": "The Justice Department’s Unusual Election-Year Activity",
+          "summary_ko": "연방 검찰이 중간선거 직전 트럼프 대통령의 정적들을 겨냥하고 선거 관리 문제로 주들을 상대로 소송을 제기했다. 뉴욕타임스 기자 데블린 배럿이 이러한 움직임이 법무부의 통상적인 선거철 행보와 어떻게 다른지 분석했다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/video/us/elections/100000011240630/the-justice-departments-unusual-election-year-activity.html",
+          "published": "2026-10-30T14:03:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wapo",
+      "name": "워싱턴포스트",
+      "name_en": "The Washington Post",
+      "articles": [
+        {
+          "title_ko": "미 연방부채, 2차 대전 이후 처음으로 경제 규모 넘어서",
+          "title_original": "Federal debt surpasses size of economy for first time since World War II",
+          "summary_ko": "미국 연방정부 부채가 2차 세계대전 이후 처음으로 경제 규모를 넘어섰다. 국가 재정 건전성을 보여주는 상징적 기준선을 넘었다는 점에서 향후 재정 정책과 경제 전반에 중대한 의미를 갖는다.",
+          "category": "경제",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG1kckJhMUVERWlLUEF6Y3dWSHRUSDlvbHFMNklfM3dBMGhSMzdBdWd2b24xT2VjbXBnR005WE9QVUtJbDFpTWhJMjdmUWtUVlBCRTlBTnRySjFpcHd2eUJOYjYwRHJQWFRySzNINGRXTG1Qdk50V0xORktRSDR2V1FXOWZ6Z2c5cERRblVEc201ZUJlTVgwSVlDaEdoOXBqZ3YtLS1mUVFoczJlVW1LWm5CTnM?oc=5",
+          "published": "2026-10-30T03:00:01+00:00"
+        },
+        {
+          "title_ko": "쿡 폴리티컬 리포트 \"민주당, 화요일 중간선거서 하원 최대 240석 가능\"",
+          "title_original": "Democrats could win up to 240 House seats on Tuesday, Cook Political Report says",
+          "summary_ko": "선거 분석기관 쿡 폴리티컬 리포트는 민주당이 화요일 치러지는 중간선거에서 하원 의석을 최대 240석까지 차지할 수 있다고 전망했다. 이번 선거 결과에 따라 의회 권력 구도가 크게 바뀔 수 있다는 점에서 주목된다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3oxbEVEMHRHTWVYUFJRQnlydWNFNTNDd0QwcEFXZjY1QnN0ZEQxOGpZYldWZWRfY1RSR2pnb1N5dmNZYjVKQjNPQS1BR2FtMVRJWm1tTkNwY0lxdFo1dzdERmFOSk1KWXkya2FhNmFwVVc4aDdwd05XMm1ZNklIYXZlRXptSkpaX2JGdzJkVUtmUXYxWVVseXVOMEZWVERHdlU2OW1CeHJUTWkzYllvaGhEV1diQkduRm5Hek1HY0FpcXM?oc=5",
+          "published": "2026-10-30T20:21:00+00:00"
+        },
+        {
+          "title_ko": "중간선거 후 이란 전쟁 재개되면 호르무즈의 취약한 안정 시험대에",
+          "title_original": "A resumed Iran war after midterms would put fragile gains in Hormuz to the test",
+          "summary_ko": "중간선거 이후 이란과의 전쟁이 재개될 경우, 호르무즈 해협에서 거둔 불안정한 성과가 시험대에 오를 수 있다는 분석이 나왔다. 호르무즈 해협 정세는 국제 안보와 에너지 시장에 직접적인 영향을 미친다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlhHVWx5Um1HLXNrSExCVlpjcXFEdGlYSmZsRmVydTRKd3VNcGdVVzA0dGJxMkduZVFNM1IzeTloX0QtRWdLQS1wSzl1QVpXX1ZNQ3dXbFBlUlBVQjRid2M1bmhfZ0VmOER2NEFBODhxVG1qRHJGS29fRFpXa21yVXpVMDh2NEdkZ2RpX183R054UmdUUmlROVJPWWg0c0NBOHZiWGVJT1dRd0M2ejZYbjQ5Q2M2THc?oc=5",
+          "published": "2026-10-30T19:06:06+00:00"
+        },
+        {
+          "title_ko": "고유가 속 석유 대기업들 막대한 이익 발표…선거에 그림자",
+          "title_original": "Oil giants report windfall profits as high gas prices loom over the election",
+          "summary_ko": "석유 대기업들이 막대한 이익을 발표했다. 높은 휘발유 가격이 선거를 앞둔 정국에 부담으로 드리워지면서 정치적 쟁점으로 떠오르고 있다.",
+          "category": "산업",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOU5SZVJUMWtmRThGVWdONEhkWVNJNnV1NU5ta3UxaXlfR3ZvUzhtUWZUbGw2a0wwdHp5bDZaV3ZpVHZiZ0ZBaVVPOFhKNk5tMk4yNzNfQlo4TVBtbmE1U0JJSFBieDlsNmdZRVJEWFk3ZkhGNVh6NkNjWUxxUW1kN2Y1ZDZSZEVLRXNXSFpoZVJZNGhOSU5tOXEtM3FiZ3lGWkpBOVN1MmhPLVBibU5IWDVBWnUxRFk?oc=5",
+          "published": "2026-10-30T17:58:22+00:00"
+        },
+        {
+          "title_ko": "네타냐후, 불확실성 속 정치적 생존 모색하며 '부정선거' 주장",
+          "title_original": "Netanyahu alleges stolen election as he seeks political survival amid uncertainty",
+          "summary_ko": "베냐민 네타냐후 이스라엘 총리가 선거를 도둑맞았다고 주장하고 나섰다. 정치적 불확실성 속에서 자신의 정치적 생존을 도모하려는 행보로 풀이된다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnRJTGF6azN5ZXhTaUZKazRnSUVBb2FoVzJldXJTdEQ2MzVxNjZsYndaNWYzb3hROFI4QUUxZlk3SkEybnVjTUpZOS1hbzVUd1dlNkNyQXMtNTkxeVBVLXMzVGk5RVh5TEJMT1MxVVh0S2xwTzduc1YxZjkwemtnWVIyTjFQc05HaTFKbHVLQXo2NnZTTWVnc05QcFFCLWJzUVYwVWNfU0pqY3F6d1Z1ellVVjNnOEZNdU9mdkcyRE5Ic25aTGc?oc=5",
+          "published": "2026-10-30T05:35:54+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "name_en": "The Korea Economic Daily",
+      "articles": [
+        {
+          "title_ko": "한화, 필리조선소 인수 2년 만에 미 해군 함정 건조 첫 수주",
+          "title_original": null,
+          "summary_ko": "한화가 미국 필리조선소를 인수한 지 2년 만에 처음으로 미 해군 함정 건조 사업을 수주했습니다. 한국 기업이 미 해군 함정 건조 시장에 진입했다는 점에서 의미가 큽니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/202610317206i",
+          "published": "2026-10-30T21:01:05+00:00"
+        },
+        {
+          "title_ko": "[단독] 정부, 알래스카 LNG 프로젝트 상업적 합리성 검토 착수",
+          "title_original": null,
+          "summary_ko": "정부가 알래스카 LNG 프로젝트의 상업적 합리성 검토에 착수하고 사업성 검증을 서두르고 있습니다. 대규모 에너지 사업 참여 여부를 판단하는 첫 단계라는 점에서 주목됩니다.",
+          "category": "정책",
+          "url": "https://www.hankyung.com/article/202610293562i",
+          "published": "2026-10-30T06:28:30+00:00"
+        },
+        {
+          "title_ko": "반도체가 떠받친 경기…양극화는 더 짙어져",
+          "title_original": null,
+          "summary_ko": "반도체 업황이 국내 경기를 떠받치고 있지만 경제 전반의 양극화는 오히려 심화된 것으로 나타났습니다. 특정 업종 의존도가 커진 경기 구조의 한계를 보여줍니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026103069201",
+          "published": "2026-10-30T09:02:18+00:00"
+        },
+        {
+          "title_ko": "9월까지 국세 385조원 걷혀…반도체 덕에 96조원 증가",
+          "title_original": null,
+          "summary_ko": "올해 9월까지 걷힌 국세가 385조원으로, 반도체 호황에 힘입어 96조원 더 걷힌 것으로 집계됐습니다. 반도체 실적이 재정 여건에도 큰 영향을 미치고 있음을 보여줍니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026103069211",
+          "published": "2026-10-30T08:46:23+00:00"
+        },
+        {
+          "title_ko": "송전망 막힌 지방 발전소, 전기 직접판매 길 열린다…첨단산업 유치 물꼬",
+          "title_original": null,
+          "summary_ko": "송전망 부족으로 전력 공급에 어려움을 겪던 지방 발전소들이 전기를 직접 판매할 수 있는 길이 열립니다. 이를 통해 지방의 첨단산업 유치에 물꼬가 트일 것으로 기대됩니다.",
+          "category": "에너지",
+          "url": "https://www.hankyung.com/article/202610280304i",
+          "published": "2026-10-30T23:30:02+00:00"
+        }
+      ]
+    }
+  ]
+}
