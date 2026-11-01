@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T09:00:05.329472+09:00",
+  "sources": [
+    {
+      "id": "nyt",
+      "name": "뉴욕타임즈",
+      "name_en": "The New York Times",
+      "articles": [
+        {
+          "title_ko": "사상 최대 암호화폐 탈취, 바이낸스 63억 달러 해킹의 전말",
+          "title_original": "How Binance’s $6.3 Billion Hack Went Down",
+          "summary_ko": "세계 최대 암호화폐 거래소 바이낸스에서 63억 달러 규모의 해킹이 발생해 암호화폐 역사상 최대 탈취 사건으로 기록됐다. 상황실 가동, 전 세계 긴급 화상회의, 창업자의 실시간 게시물 등 긴박했던 24시간이 공개됐다. FBI는 북한 해커들이 이번 공격의 배후라고 밝혔으며, 이는 북한이 수년간 벌여온 사이버 범죄 가운데 최대 규모가 될 전망이다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+          "published": "2026-10-31T22:19:48+00:00"
+        },
+        {
+          "title_ko": "트럼프, 미국 과학 연구 체계를 무너뜨리고 있다",
+          "title_original": "How Trump Is Dismantling America’s Scientific Research Machine",
+          "summary_ko": "삶을 바꾼 발견들을 이끌며 미국을 초강대국으로 만드는 데 기여해 온 과학 연구 시스템이 트럼프 행정부 아래에서 심각한 압박을 받고 있다. 미국의 장기적 혁신 역량과 경쟁력에 영향을 줄 수 있다는 점에서 주목된다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
+          "published": "2026-10-31T17:32:04+00:00"
+        },
+        {
+          "title_ko": "늘 외면받던 '부패' 이슈, 이번엔 유권자 관심 끈다",
+          "title_original": "Voters Usually Ignore Corruption as an Issue. It Now Has Their Attention.",
+          "summary_ko": "유권자들은 '정치인은 다 부패했다'는 인식 속에 수년간 부패 의혹을 대수롭지 않게 여겨왔다. 그러나 트럼프 대통령의 낮은 인기와 늘어나는 재산 탓에 부패 문제가 중간선거를 앞두고 주요 쟁점으로 떠오르고 있다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html",
+          "published": "2026-10-31T09:00:44+00:00"
+        },
+        {
+          "title_ko": "스페인 열차 참사, 선거 열세 산체스 총리에 타격",
+          "title_original": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog",
+          "summary_ko": "올해 두 번째 대형 철도 사고가 발생하면서 불평등과 주거 문제로 선거운동을 펼치려던 페드로 산체스 총리 정부의 국정 능력이 도마에 올랐다. 교통부 장관은 관제 오류가 사고 원인이라며, 다른 열차가 앞에 멈춰 있는데도 고속 운행을 허가한 관제사들의 행위를 판사가 조사할 것이라고 밝혔다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
+          "published": "2026-10-31T14:14:19+00:00"
+        },
+        {
+          "title_ko": "카니 총리, 캐나다의 EU 첫 '준회원국' 가입 추진 공식화",
+          "title_original": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
+          "summary_ko": "마크 카니 캐나다 총리가 캐나다를 유럽연합(EU)의 첫 '준회원국'으로 만들겠다고 약속했다. 이는 캐나다에 대한 미국의 영향력을 줄이고 세계 다른 지역으로 교역을 확대하려는 노력의 일환이다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
+          "published": "2026-10-30T21:08:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wapo",
+      "name": "워싱턴포스트",
+      "name_en": "The Washington Post",
+      "articles": [
+        {
+          "title_ko": "법원, 트럼프 행정부 관리들에게 선거 사무원 위협·협박 금지 명령",
+          "title_original": "Judge orders Trump officials not to threaten or intimidate election workers",
+          "summary_ko": "연방 판사가 트럼프 행정부 관리들에게 선거 사무원을 위협하거나 협박하지 말라고 명령했습니다. 선거를 앞두고 선거 관리 인력 보호와 행정부 권한의 한계를 둘러싼 사법적 판단이라는 점에서 주목됩니다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQalJHZ25CY2RQLWhyNDhnbmVSRkxEMVpMcklRUlVSWnJiSTAwMEJkRjJzNE9ZZ0R1R2Y3Q3BWamUteHhrdXgxam5WbWx6LXNVc3VVcXd5alVSdElMVHNCM0Z4Ym5zVHlHU2JRTThmOTJnTi1uZlZQMmN3RXBqTTV6ZjZ1MzBRVVVMN3lScWYtVDlseEotMm80SmdnYXpoZXc2WnpGVzZPWjJ5ckhpclNDbEVadmV5UWhpV29mZ1Q2LXFSZw?oc=5",
+          "published": "2026-10-31T19:32:59+00:00"
+        },
+        {
+          "title_ko": "트럼프 행정부, 선거 이후에도 다툼 이어가도록 선거 관련 전략 재정비",
+          "title_original": "Trump administration retools its battle over elections to keep fights alive after Election Day",
+          "summary_ko": "트럼프 행정부가 선거를 둘러싼 대응 방식을 바꿔, 선거일 이후에도 관련 분쟁을 계속 이어갈 수 있도록 하고 있습니다. 선거 결과를 둘러싼 갈등이 투표 이후까지 장기화할 가능성을 보여 주는 대목입니다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRGpZalZEVFBBcWgyOG9KakozUkpWVEktNXN2eVQycUM3RXY5TDZacXB2UjBwd1FIeTRNY2xDc3V6Z0VSeVdFc3BGaXNHeFBlcllvV05mZ3hEQ0ZtMzFCSUFLbzFrZzZJVmM0NFBBcTdDZ0NHa3RBNDRvOG1LUGl5R1doejJfQlY4eFJBT1EzajBRa05acDMyTTB0UjRVYzJqTXQxWnF0VDBPcUF3Yk1mZjBPclltQTZSNzI4cVVqWFZrV0tMalRxcWVaVFpVemJZbUhXOS1uT054LTA?oc=5",
+          "published": "2026-10-31T17:00:00+00:00"
+        },
+        {
+          "title_ko": "CDC 과학자들, 임신부 홍역 긴급 경보 요청했지만 승인 안 돼",
+          "title_original": "CDC scientists sought urgent alert on measles in pregnancy. It wasn’t approved.",
+          "summary_ko": "미국 질병통제예방센터(CDC) 과학자들이 임신 중 홍역 감염에 관한 긴급 경보 발령을 추진했으나 승인을 받지 못했습니다. 공중보건 정보 전달 과정과 보건 당국의 의사결정을 둘러싼 우려를 낳는 사안입니다.",
+          "category": "사회",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0drMGMyU0FWcmIyeHlZbUFBcnlLY1JXWVltYXVEQlA0OVJhYmpXRFVoRzd5OEo0NnkzRUdzTlFpQ3QzWDE0dEJicS01R1R1X285U2VTWGVBbVhfNV9SMFFEbUNGaFgyMW1tNjhhbmhqZU1nalBmUFpvUWdxeGx2N21CQzdud3dZcXdmS0ZJS0VOWExveUNSekJnWGZBT3BDXzN6dktCSnphdkRqUDc4OFp6RjN2Zw?oc=5",
+          "published": "2026-10-31T00:43:17+00:00"
+        },
+        {
+          "title_ko": "북한 추정 해커들, 단 몇 분 만에 수십억 달러 암호화폐 탈취한 수법",
+          "title_original": "How suspected North Korean hackers swiped billions in crypto in only minutes",
+          "summary_ko": "북한 소행으로 추정되는 해커들이 불과 몇 분 만에 수십억 달러 규모의 암호화폐를 빼돌린 과정을 분석한 기사입니다. 암호화폐 시장의 보안 취약성과 북한발 사이버 위협의 심각성을 보여 줍니다.",
+          "category": "기술",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHE4QnBQRF9vakp0a0VReVZFSjNOa2hmODFJOHdLTGlzSnBkRW4yei1rbkY5cFNyT0tYbmlfQ2dIZG9GN2wyaGtIZnpMNUQ2Smx1ODVKMHJZdEhnUk9WbkZhYnJ2NmkxaUNJTXZvcmpRQ2tZa1RjdEFNSjNjWUk0QXVKSlotVEtNVmI5ME5fLXIwV0k1WTdGR0VFNmVQb2VIQ0pULXZlR0JILXdqTDZSa2hwSlJTVnRBWDlzbURhV185Zw?oc=5",
+          "published": "2026-10-31T16:00:00+00:00"
+        },
+        {
+          "title_ko": "연방 판사, 트럼프 개선문 건설 중단 가능성 시사",
+          "title_original": "Federal judge signals she may halt construction on Trump’s arch",
+          "summary_ko": "연방 판사가 트럼프 대통령이 추진하는 개선문 건설을 중단시킬 수 있다는 입장을 내비쳤습니다. 워싱턴DC와 버지니아주가 건설 저지 소송을 제기하는 등 이 사업을 둘러싼 반발이 커지는 가운데 나온 신호입니다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNl9vSDRkZEJBSWVWSzJac1NQMTA0MkZqMFJweC1JdFNUU3FHLUVIMXMzczRBV0d0LWMyVjZPWjVQcXpwUXF4Q2Z3Tm5nR0hFVFk2bl96VkZpUUVLcUctM1pLQ000QVBOeWdJZ090TEx3UmNhRndOSFBrWHhtSlZzUWRCRzVJR3NzM0c1b1MtRkdINDFLclJMZlp2cjZCRkVWblIyci1BaXVyU01yOXBpd0x2MA?oc=5",
+          "published": "2026-10-31T03:58:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "name_en": "The Korea Economic Daily",
+      "articles": [
+        {
+          "title_ko": "한화, 미 해군 함정 첫 수주… 3,600억 원 규모 상륙함 건조",
+          "title_original": null,
+          "summary_ko": "한화가 3,600억 원 규모의 미국 해군 상륙함 건조 사업을 따내며 미 해군 함정을 처음으로 수주했다. 필리조선소를 인수한 지 2년 만의 성과로, 한국 조선업의 미국 방산 시장 진출에서 의미 있는 이정표가 됐다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026103176317",
+          "published": "2026-10-31T08:38:17+00:00"
+        },
+        {
+          "title_ko": "AI 투자 공포에 미국 반도체주 7곳서 하루 새 860조 원 증발",
+          "title_original": null,
+          "summary_ko": "AI 투자에 대한 공포가 확산되면서 미국 반도체 7개 종목의 시가총액이 하루 만에 860조 원가량 사라졌다. 'AI 쇼크'로 미국 기술주가 급락하면서 글로벌 증시와 국내 투자자에게도 영향이 우려된다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/2026103172407",
+          "published": "2026-10-30T22:09:18+00:00"
+        },
+        {
+          "title_ko": "36시간 예행연습 뒤 20분 만에 8.4조 원 탈취… 북한 해커 배후 지목",
+          "title_original": null,
+          "summary_ko": "해커들이 36시간 동안 예행연습을 한 뒤 단 20분 만에 8.4조 원을 빼돌린 사건이 발생했으며, 북한 해커가 배후로 지목됐다. 막대한 피해 규모와 치밀한 수법 때문에 사이버 보안 위협에 대한 경각심이 커지고 있다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/2026103172607",
+          "published": "2026-10-30T22:15:48+00:00"
+        },
+        {
+          "title_ko": "\"집 내놔도 안 팔려요\"… 서울 아파트 매물 8만 건 쌓여",
+          "title_original": null,
+          "summary_ko": "서울 아파트 매물이 8만 건까지 쌓이면서 집을 내놔도 팔리지 않는 상황이 이어지고 있다. 거래 부진이 매물 적체로 나타나고 있어 주택시장 흐름의 변화를 보여주는 지표로 주목된다.",
+          "category": "부동산",
+          "url": "https://www.hankyung.com/article/2026103174997",
+          "published": "2026-10-31T04:21:10+00:00"
+        },
+        {
+          "title_ko": "최태원, SK하이닉스·텔레콤 수뇌부와 샘 올트먼 오찬 회동",
+          "title_original": null,
+          "summary_ko": "최태원 SK그룹 회장이 SK하이닉스와 SK텔레콤 경영진을 이끌고 오픈AI의 샘 올트먼 CEO와 오찬 회동을 가졌다. 올트먼 CEO는 삼성 사장단과도 만난 것으로 전해져, 국내 주요 기업들의 AI 협력 행보가 주목된다.",
+          "category": "기술",
+          "url": "https://www.hankyung.com/article/2026103175837",
+          "published": "2026-10-31T06:54:12+00:00"
+        }
+      ]
+    }
+  ]
+}
