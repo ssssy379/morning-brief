@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T09:00:05.329472+09:00",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T09:01:37.197911+09:00",
   "sources": [
     {
       "id": "nyt",
@@ -8,44 +8,44 @@
       "name_en": "The New York Times",
       "articles": [
         {
-          "title_ko": "사상 최대 암호화폐 탈취, 바이낸스 63억 달러 해킹의 전말",
-          "title_original": "How Binance’s $6.3 Billion Hack Went Down",
-          "summary_ko": "세계 최대 암호화폐 거래소 바이낸스에서 63억 달러 규모의 해킹이 발생해 암호화폐 역사상 최대 탈취 사건으로 기록됐다. 상황실 가동, 전 세계 긴급 화상회의, 창업자의 실시간 게시물 등 긴박했던 24시간이 공개됐다. FBI는 북한 해커들이 이번 공격의 배후라고 밝혔으며, 이는 북한이 수년간 벌여온 사이버 범죄 가운데 최대 규모가 될 전망이다.",
+          "title_ko": "FBI \"북한 해커, 바이낸스서 63억 달러 탈취\"… 사상 최대 암호화폐 해킹",
+          "title_original": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+          "summary_ko": "FBI는 이번 주 발생한 63억 달러 규모의 바이낸스 해킹이 북한 해커들의 소행이라고 밝혔습니다. 이는 암호화폐 사상 최대 규모의 해킹이며, 수년간 대담한 사이버 범죄를 이어온 북한이 탈취한 금액 중에서도 가장 큰 규모가 될 전망입니다. 바이낸스는 손실을 보전하겠다고 밝혔지만, 거래 재개 직후 36억 4천만 달러가 빠져나갔습니다.",
           "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-          "published": "2026-10-31T22:19:48+00:00"
+          "url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+          "published": "2026-10-31T23:05:42+00:00"
         },
         {
-          "title_ko": "트럼프, 미국 과학 연구 체계를 무너뜨리고 있다",
-          "title_original": "How Trump Is Dismantling America’s Scientific Research Machine",
-          "summary_ko": "삶을 바꾼 발견들을 이끌며 미국을 초강대국으로 만드는 데 기여해 온 과학 연구 시스템이 트럼프 행정부 아래에서 심각한 압박을 받고 있다. 미국의 장기적 혁신 역량과 경쟁력에 영향을 줄 수 있다는 점에서 주목된다.",
+          "title_ko": "총선서 입지 약화된 네타냐후, 정권 유지 위한 정치력 시험대",
+          "title_original": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
+          "summary_ko": "이스라엘 총선에서 의석을 잃은 베냐민 네타냐후 총리는 집권 연정을 구성하기 위해 수십 년간 쌓아온 정치적 자산을 활용하고 과거의 정적들과도 손잡아야 하는 처지에 놓였습니다. 아랍계 정당들이 사상 최다인 19석을 확보하고 야권과 협력해 네타냐후 정부를 무너뜨리겠다고 밝히면서 연정 구성은 더욱 험난해질 전망입니다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
+          "published": "2026-11-01T10:20:20+00:00"
+        },
+        {
+          "title_ko": "트럼프의 '지원 사격' 속 푸틴, 국제적 고립 탈피",
+          "title_original": "Putin Breaks Down His Isolation, With a Big Assist From Trump",
+          "summary_ko": "블라디미르 푸틴 러시아 대통령이 미국 정부로부터 잇따라 성과를 얻어내며 외국 정상들과의 대화를 재개하고 있습니다. 정상회담 가능성도 거론되면서 푸틴이 외교 무대의 중심으로 복귀할 수 있다는 분석이 나옵니다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html",
+          "published": "2026-11-01T10:04:00+00:00"
+        },
+        {
+          "title_ko": "법원, 알래스카 상원 선거 결과에 대한 트럼프 행정부의 사전 소송 기각",
+          "title_original": "Judge Rejects Trump Officials’ Move to Challenge Alaska Senate Election",
+          "summary_ko": "법원이 알래스카 상원 선거 결과에 미리 이의를 제기한 트럼프 행정부 측의 소송을 기각했습니다. 이 선거에는 '대니얼 설리번'이라는 같은 이름의 후보 두 명이 출마해 있습니다. 이번 판결은 트럼프 행정부가 최근 법정에서 겪은 또 하나의 패배로 기록됐습니다.",
           "category": "정치",
-          "url": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
-          "published": "2026-10-31T17:32:04+00:00"
+          "url": "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html",
+          "published": "2026-11-01T19:44:12+00:00"
         },
         {
-          "title_ko": "늘 외면받던 '부패' 이슈, 이번엔 유권자 관심 끈다",
-          "title_original": "Voters Usually Ignore Corruption as an Issue. It Now Has Their Attention.",
-          "summary_ko": "유권자들은 '정치인은 다 부패했다'는 인식 속에 수년간 부패 의혹을 대수롭지 않게 여겨왔다. 그러나 트럼프 대통령의 낮은 인기와 늘어나는 재산 탓에 부패 문제가 중간선거를 앞두고 주요 쟁점으로 떠오르고 있다.",
-          "category": "정치",
-          "url": "https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html",
-          "published": "2026-10-31T09:00:44+00:00"
-        },
-        {
-          "title_ko": "스페인 열차 참사, 선거 열세 산체스 총리에 타격",
-          "title_original": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog",
-          "summary_ko": "올해 두 번째 대형 철도 사고가 발생하면서 불평등과 주거 문제로 선거운동을 펼치려던 페드로 산체스 총리 정부의 국정 능력이 도마에 올랐다. 교통부 장관은 관제 오류가 사고 원인이라며, 다른 열차가 앞에 멈춰 있는데도 고속 운행을 허가한 관제사들의 행위를 판사가 조사할 것이라고 밝혔다.",
-          "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
-          "published": "2026-10-31T14:14:19+00:00"
-        },
-        {
-          "title_ko": "카니 총리, 캐나다의 EU 첫 '준회원국' 가입 추진 공식화",
-          "title_original": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
-          "summary_ko": "마크 카니 캐나다 총리가 캐나다를 유럽연합(EU)의 첫 '준회원국'으로 만들겠다고 약속했다. 이는 캐나다에 대한 미국의 영향력을 줄이고 세계 다른 지역으로 교역을 확대하려는 노력의 일환이다.",
-          "category": "국제",
-          "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-          "published": "2026-10-30T21:08:01+00:00"
+          "title_ko": "무명의 한국 해운사 시노코, 페르시아만 원유 수송 장악",
+          "title_original": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
+          "summary_ko": "한국 해운사 시노코가 호르무즈 해협을 통과하는 유조선 운항의 약 절반을 장악한 것으로 나타났습니다. 이란 전쟁 발발 직전에 감행한 대규모 베팅이 적중해 큰 이익을 보고 있다는 분석입니다. 전쟁으로 긴장이 고조된 세계 원유 물류의 핵심 길목에서 한국 기업의 존재감이 부각되고 있습니다.",
+          "category": "산업",
+          "url": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
+          "published": "2026-11-01T10:02:30+00:00"
         }
       ]
     },
@@ -55,44 +55,44 @@
       "name_en": "The Washington Post",
       "articles": [
         {
-          "title_ko": "법원, 트럼프 행정부 관리들에게 선거 사무원 위협·협박 금지 명령",
-          "title_original": "Judge orders Trump officials not to threaten or intimidate election workers",
-          "summary_ko": "연방 판사가 트럼프 행정부 관리들에게 선거 사무원을 위협하거나 협박하지 말라고 명령했습니다. 선거를 앞두고 선거 관리 인력 보호와 행정부 권한의 한계를 둘러싼 사법적 판단이라는 점에서 주목됩니다.",
+          "title_ko": "민주당 헤일리 스티븐스, 미시간 상원 선거서 공화당 마이크 로저스 후보 지지 선언",
+          "title_original": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
+          "summary_ko": "민주당 소속 헤일리 스티븐스가 미시간주 상원 선거에 나선 공화당 마이크 로저스 후보를 공개 지지했습니다. 워싱턴포스트는 지지 선언 직전의 혼란상과 함께, 엘사예드 후보가 스티븐스에게 거리를 둬 달라고 요청하면서 민주당의 단합 시도가 무너졌다고 보도했습니다. 중간선거를 앞두고 경합지 미시간의 판세에 영향을 줄 수 있는 이례적인 사건입니다.",
           "category": "정치",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQalJHZ25CY2RQLWhyNDhnbmVSRkxEMVpMcklRUlVSWnJiSTAwMEJkRjJzNE9ZZ0R1R2Y3Q3BWamUteHhrdXgxam5WbWx6LXNVc3VVcXd5alVSdElMVHNCM0Z4Ym5zVHlHU2JRTThmOTJnTi1uZlZQMmN3RXBqTTV6ZjZ1MzBRVVVMN3lScWYtVDlseEotMm80SmdnYXpoZXc2WnpGVzZPWjJ5ckhpclNDbEVadmV5UWhpV29mZ1Q2LXFSZw?oc=5",
-          "published": "2026-10-31T19:32:59+00:00"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2VIWjBwNWdIYU1xNlFMQU5TazlOcnNhLS0tcG5aRjVrTVE4azlZUm1YRVJKTzRTSEE1UUZhX2NhLUtnTlVGbjJLREFPS1BYVlJnQWszZklmNndnV2R5MU1LRmg2RVV4dWVsSUFpZGRHT3FSYjVWeS1fS3ZWMVdvaXdMOHdNV0FJeElqMnJfNHlyQ1FXMlRoQ2REQmpzY3BERmRVTjIwLTJhSFp1dVY1SWM1Mk9xTGVvdUNrak9BQWVWZw?oc=5",
+          "published": "2026-11-01T23:12:29+00:00"
         },
         {
-          "title_ko": "트럼프 행정부, 선거 이후에도 다툼 이어가도록 선거 관련 전략 재정비",
-          "title_original": "Trump administration retools its battle over elections to keep fights alive after Election Day",
-          "summary_ko": "트럼프 행정부가 선거를 둘러싼 대응 방식을 바꿔, 선거일 이후에도 관련 분쟁을 계속 이어갈 수 있도록 하고 있습니다. 선거 결과를 둘러싼 갈등이 투표 이후까지 장기화할 가능성을 보여 주는 대목입니다.",
+          "title_ko": "페르시아만 국가들, 이란 전쟁 불똥 재확산 막기 위해 분주",
+          "title_original": "Persian Gulf scrambling to prevent Iran war from again hitting its doorstep",
+          "summary_ko": "페르시아만 국가들이 이란 전쟁이 다시 자국 문턱까지 번지는 것을 막기 위해 다급하게 움직이고 있습니다. 역내 안보 불안이 커지고 있음을 보여주는 사안입니다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZk9yVldQN0UtWWZ0bUNEV000V2x1VldwVFhSNlRqX0pQNWVVYzUzTGpuQzZILWpFMDhYang0SXR5Rmlic1l2cUNBNWJPcVRxeWxadF9Kaktjc0FGSE9tX2JOM1FyZnBoZWFtdDdPUDhndzFyTUtLYTlPMEZ2QTVqU1RTSTN0a2pjTTR0Sk5ob1lueTFtYlhFQ2FjR0hlMk5DbFN0VE9LV2dodzItWjhoMHQyb3NFNGM?oc=5",
+          "published": "2026-11-01T00:06:27+00:00"
+        },
+        {
+          "title_ko": "법원, 공화당 패배 시 알래스카 상원 선거 결과 확정 늦추려던 법무부 시도 기각",
+          "title_original": "Judge tosses DOJ’s attempt to delay Alaska’s Senate results if Republican loses",
+          "summary_ko": "판사가 공화당 후보가 패배할 경우 알래스카 상원 선거 결과 확정을 늦추려던 법무부의 시도를 기각했습니다. 앞서 공화당 댄 설리번 상원의원은 자신이 지더라도 선거 결과를 받아들이겠다고 밝혔습니다. 중간선거를 앞두고 선거 결과 확정 절차를 둘러싼 논란과 관련된 판결입니다.",
           "category": "정치",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRGpZalZEVFBBcWgyOG9KakozUkpWVEktNXN2eVQycUM3RXY5TDZacXB2UjBwd1FIeTRNY2xDc3V6Z0VSeVdFc3BGaXNHeFBlcllvV05mZ3hEQ0ZtMzFCSUFLbzFrZzZJVmM0NFBBcTdDZ0NHa3RBNDRvOG1LUGl5R1doejJfQlY4eFJBT1EzajBRa05acDMyTTB0UjRVYzJqTXQxWnF0VDBPcUF3Yk1mZjBPclltQTZSNzI4cVVqWFZrV0tMalRxcWVaVFpVemJZbUhXOS1uT054LTA?oc=5",
-          "published": "2026-10-31T17:00:00+00:00"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb01VY1hzaERwaUN0dGt1enZaNTROVmE5N3ZYMmNjeTgycGhTOFN2NFZHR2NHMkdwTGswMEtGNWxjMlFrNEVMajNWVDBuV1pYWW5mV09DVW5FeHJ5akZXdXFFRlVRWG5kTVNYMGtLZDhwWDNkQkRBdk9zaDR1QW1Relh3ejMzRWtjQncyczAwbVFlN0kyNlpPejAwS1RfczVoclg3X3ZJcmF1T0NVUFNja0otcC1KOEh4NDg5Ul96TXRMMHM?oc=5",
+          "published": "2026-11-01T23:01:45+00:00"
         },
         {
-          "title_ko": "CDC 과학자들, 임신부 홍역 긴급 경보 요청했지만 승인 안 돼",
-          "title_original": "CDC scientists sought urgent alert on measles in pregnancy. It wasn’t approved.",
-          "summary_ko": "미국 질병통제예방센터(CDC) 과학자들이 임신 중 홍역 감염에 관한 긴급 경보 발령을 추진했으나 승인을 받지 못했습니다. 공중보건 정보 전달 과정과 보건 당국의 의사결정을 둘러싼 우려를 낳는 사안입니다.",
-          "category": "사회",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0drMGMyU0FWcmIyeHlZbUFBcnlLY1JXWVltYXVEQlA0OVJhYmpXRFVoRzd5OEo0NnkzRUdzTlFpQ3QzWDE0dEJicS01R1R1X285U2VTWGVBbVhfNV9SMFFEbUNGaFgyMW1tNjhhbmhqZU1nalBmUFpvUWdxeGx2N21CQzdud3dZcXdmS0ZJS0VOWExveUNSekJnWGZBT3BDXzN6dktCSnphdkRqUDc4OFp6RjN2Zw?oc=5",
-          "published": "2026-10-31T00:43:17+00:00"
-        },
-        {
-          "title_ko": "북한 추정 해커들, 단 몇 분 만에 수십억 달러 암호화폐 탈취한 수법",
-          "title_original": "How suspected North Korean hackers swiped billions in crypto in only minutes",
-          "summary_ko": "북한 소행으로 추정되는 해커들이 불과 몇 분 만에 수십억 달러 규모의 암호화폐를 빼돌린 과정을 분석한 기사입니다. 암호화폐 시장의 보안 취약성과 북한발 사이버 위협의 심각성을 보여 줍니다.",
-          "category": "기술",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHE4QnBQRF9vakp0a0VReVZFSjNOa2hmODFJOHdLTGlzSnBkRW4yei1rbkY5cFNyT0tYbmlfQ2dIZG9GN2wyaGtIZnpMNUQ2Smx1ODVKMHJZdEhnUk9WbkZhYnJ2NmkxaUNJTXZvcmpRQ2tZa1RjdEFNSjNjWUk0QXVKSlotVEtNVmI5ME5fLXIwV0k1WTdGR0VFNmVQb2VIQ0pULXZlR0JILXdqTDZSa2hwSlJTVnRBWDlzbURhV185Zw?oc=5",
-          "published": "2026-10-31T16:00:00+00:00"
-        },
-        {
-          "title_ko": "연방 판사, 트럼프 개선문 건설 중단 가능성 시사",
-          "title_original": "Federal judge signals she may halt construction on Trump’s arch",
-          "summary_ko": "연방 판사가 트럼프 대통령이 추진하는 개선문 건설을 중단시킬 수 있다는 입장을 내비쳤습니다. 워싱턴DC와 버지니아주가 건설 저지 소송을 제기하는 등 이 사업을 둘러싼 반발이 커지는 가운데 나온 신호입니다.",
+          "title_ko": "사회보장청, 선거 며칠 앞두고 트럼프 홍보하는 이례적 이메일 발송",
+          "title_original": "In unusual email, Social Security Administration touts Trump days before elections",
+          "summary_ko": "미국 사회보장청(SSA)이 선거를 며칠 앞두고 트럼프 대통령을 홍보하는 내용의 이례적인 이메일을 보냈습니다. 정부 기관이 선거 직전 대통령을 부각한 것이어서 주목받고 있습니다.",
           "category": "정치",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNl9vSDRkZEJBSWVWSzJac1NQMTA0MkZqMFJweC1JdFNUU3FHLUVIMXMzczRBV0d0LWMyVjZPWjVQcXpwUXF4Q2Z3Tm5nR0hFVFk2bl96VkZpUUVLcUctM1pLQ000QVBOeWdJZ090TEx3UmNhRndOSFBrWHhtSlZzUWRCRzVJR3NzM0c1b1MtRkdINDFLclJMZlp2cjZCRkVWblIyci1BaXVyU01yOXBpd0x2MA?oc=5",
-          "published": "2026-10-31T03:58:37+00:00"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0YwNmhxRUFTTUpndkFoTUd6VEFsSDlBYjdackdBOWVPQ1JLWFZ2ams4YTUtT3UyZDE2TG1UZVM3MU4yNFYya1pNdllDTmFJVkEzalpvOGMzZ1ctUXFBbDVVd3dqLW5aTUlrT3A2M0VJMmNKSjN3c2NzRjVHdjRRam5mVDhsanF4ckktM08wbzhKWXo5WThCWHNCX0JQanV2bUFVMnF3X3gxc2VGSHFhWW9QRDBndWNLSUdkY0dhbXRLcVNWdGNfZXF3?oc=5",
+          "published": "2026-11-01T02:10:00+00:00"
+        },
+        {
+          "title_ko": "젤렌스키, 미국에 패트리엇 미사일 긴급 공급 촉구",
+          "title_original": "Zelensky presses U.S. for more urgent shipments of Patriot missiles for Ukraine",
+          "summary_ko": "볼로디미르 젤렌스키 우크라이나 대통령이 미국에 패트리엇 미사일을 더 시급히 보내 달라고 압박했습니다. 우크라이나의 방공 수요와 미국의 지원 문제가 다시 부각되고 있습니다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTNiNFpPck5pMTFGZ3JrOFVlN0tjSVAxa2JoTkYyNjlRd200UUdNdTNKTXBXUzVQQXY5VXExZlc0eTZIZmRrQ3Z1RXVDemxZRGVmM00wXy1GQlBYUHpiaGpKMVlsUm43ZE5mVkpCY0lNSk9wa3A5YWNyZlVTZFpOVnVwbm1SS3JIQWFCQThrRmlmM3BZUGJSV3FuWE9fbjlWMkZvWGNIR2MzWjRmMjR6LThLd3Y?oc=5",
+          "published": "2026-11-01T01:29:59+00:00"
         }
       ]
     },
@@ -102,44 +102,44 @@
       "name_en": "The Korea Economic Daily",
       "articles": [
         {
-          "title_ko": "한화, 미 해군 함정 첫 수주… 3,600억 원 규모 상륙함 건조",
+          "title_ko": "월간 수출 두 달 연속 1100억달러 돌파…반도체가 절반, 자동차도 반등",
           "title_original": null,
-          "summary_ko": "한화가 3,600억 원 규모의 미국 해군 상륙함 건조 사업을 따내며 미 해군 함정을 처음으로 수주했다. 필리조선소를 인수한 지 2년 만의 성과로, 한국 조선업의 미국 방산 시장 진출에서 의미 있는 이정표가 됐다.",
-          "category": "산업",
-          "url": "https://www.hankyung.com/article/2026103176317",
-          "published": "2026-10-31T08:38:17+00:00"
+          "summary_ko": "월간 수출액이 두 달 연속 1100억달러를 넘어섰습니다. 반도체가 수출의 절반가량을 차지했고 자동차 수출도 반등했습니다. 같은 지면에서는 한국이 '수출 1조달러' 기록을 눈앞에 두고 있다는 분석도 다뤄, 수출 호조가 이어지고 있음을 보여줍니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026110185721",
+          "published": "2026-11-01T08:40:28+00:00"
         },
         {
-          "title_ko": "AI 투자 공포에 미국 반도체주 7곳서 하루 새 860조 원 증발",
+          "title_ko": "5대 은행 대출 연체율, 9년 반 만에 최고",
           "title_original": null,
-          "summary_ko": "AI 투자에 대한 공포가 확산되면서 미국 반도체 7개 종목의 시가총액이 하루 만에 860조 원가량 사라졌다. 'AI 쇼크'로 미국 기술주가 급락하면서 글로벌 증시와 국내 투자자에게도 영향이 우려된다.",
+          "summary_ko": "국내 5대 은행의 대출 연체율이 9년 반 만에 가장 높은 수준으로 올라섰습니다. 차주들의 상환 부담이 커지고 있다는 신호로, 금융권 건전성에 대한 경계가 필요한 상황입니다.",
           "category": "금융",
-          "url": "https://www.hankyung.com/article/2026103172407",
-          "published": "2026-10-30T22:09:18+00:00"
+          "url": "https://www.hankyung.com/article/2026110186121",
+          "published": "2026-11-01T09:18:20+00:00"
         },
         {
-          "title_ko": "36시간 예행연습 뒤 20분 만에 8.4조 원 탈취… 북한 해커 배후 지목",
+          "title_ko": "한·일 경제협력 격상…에너지 안보 이어 'AI 경쟁' 공동 대응",
           "title_original": null,
-          "summary_ko": "해커들이 36시간 동안 예행연습을 한 뒤 단 20분 만에 8.4조 원을 빼돌린 사건이 발생했으며, 북한 해커가 배후로 지목됐다. 막대한 피해 규모와 치밀한 수법 때문에 사이버 보안 위협에 대한 경각심이 커지고 있다.",
+          "summary_ko": "한국과 일본이 에너지 안보 협력에 이어 AI 분야에서도 공동 대응에 나서며 경제협력을 한 단계 끌어올리고 있습니다. 같은 지면에서는 한국투자의 10조원 펀드를 통한 일본과의 AI 데이터센터 건설 계획도 소개됐습니다.",
           "category": "국제",
-          "url": "https://www.hankyung.com/article/2026103172607",
-          "published": "2026-10-30T22:15:48+00:00"
+          "url": "https://www.hankyung.com/article/2026110185771",
+          "published": "2026-11-01T08:45:30+00:00"
         },
         {
-          "title_ko": "\"집 내놔도 안 팔려요\"… 서울 아파트 매물 8만 건 쌓여",
+          "title_ko": "\"2029년부터 추가 세수 없다\"…미래기금 지속가능성에 경고음",
           "title_original": null,
-          "summary_ko": "서울 아파트 매물이 8만 건까지 쌓이면서 집을 내놔도 팔리지 않는 상황이 이어지고 있다. 거래 부진이 매물 적체로 나타나고 있어 주택시장 흐름의 변화를 보여주는 지표로 주목된다.",
-          "category": "부동산",
-          "url": "https://www.hankyung.com/article/2026103174997",
-          "published": "2026-10-31T04:21:10+00:00"
+          "summary_ko": "2029년부터 추가 세수가 없다는 전망이 나오면서 미래기금의 지속가능성에 경고음이 울렸습니다. 장기 재정 운용과 관련된 정책적 과제로 주목됩니다.",
+          "category": "정책",
+          "url": "https://www.hankyung.com/article/2026110185701",
+          "published": "2026-11-01T09:17:49+00:00"
         },
         {
-          "title_ko": "최태원, SK하이닉스·텔레콤 수뇌부와 샘 올트먼 오찬 회동",
+          "title_ko": "한화, 3500억원 규모 미 해군 함정 첫 수주",
           "title_original": null,
-          "summary_ko": "최태원 SK그룹 회장이 SK하이닉스와 SK텔레콤 경영진을 이끌고 오픈AI의 샘 올트먼 CEO와 오찬 회동을 가졌다. 올트먼 CEO는 삼성 사장단과도 만난 것으로 전해져, 국내 주요 기업들의 AI 협력 행보가 주목된다.",
-          "category": "기술",
-          "url": "https://www.hankyung.com/article/2026103175837",
-          "published": "2026-10-31T06:54:12+00:00"
+          "summary_ko": "한화가 3500억원 규모의 미 해군 함정 사업을 처음으로 수주했습니다. 한국 조선·방산업체의 미국 함정 시장 진출이라는 점에서 의미가 큽니다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026110185861",
+          "published": "2026-11-01T09:07:51+00:00"
         }
       ]
     }
