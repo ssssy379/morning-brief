@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T09:07:24.026685+09:00",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T09:11:05.164987+09:00",
   "sources": [
     {
       "id": "nyt",
@@ -8,44 +8,44 @@
       "name_en": "The New York Times",
       "articles": [
         {
-          "title_ko": "미국 중간선거 개표 임박… 의회 다수당 향방에 주목",
-          "title_original": "Midterm Suspense",
-          "summary_ko": "미국 유권자들이 의회 다수당을 결정하는 중간선거 투표에 나섰습니다. 이번 선거는 트럼프 대통령의 국정 운영에 대한 국민투표 성격도 띠는 것으로 평가됩니다.",
+          "title_ko": "민주당 상·하원 석권… 의회, 트럼프 견제 권한 되찾는다",
+          "title_original": "With Democrats’ Sweep, Congress Is Set to Reassert Power to Check Trump",
+          "summary_ko": "트럼프 대통령은 지난 2년간 공화당의 도움을 받아 입법부의 권한을 잠식해 왔습니다. 중간선거에서 압승한 민주당이 이제 의회의 고유 권한 일부를 되찾으려 시도할 수 있는 위치에 섰습니다. 새 의회는 청문회 개최와 소환장 발부 권한도 갖게 돼, 대통령에 대한 견제가 본격화할 전망입니다.",
           "category": "정치",
-          "url": "https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html",
-          "published": "2026-11-03T20:51:05+00:00"
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html",
+          "published": "2026-11-04T19:51:04+00:00"
         },
         {
-          "title_ko": "트럼프 \"연말 이스라엘에 대한 40억 달러 원조 종료\"",
-          "title_original": "Trump Says U.S. to End $4 Billion in Aid to Israel at End of Year",
-          "summary_ko": "트럼프 대통령이 선거 당일 미국의 대이스라엘 연간 40억 달러 원조를 연말에 끝내겠다고 발표했습니다. 그는 이것이 수개월 전에 합의된 사항이라고 밝혔으며, 이번 발표는 이스라엘을 둘러싼 미국 정치 지형이 얼마나 빠르게 변하고 있는지 보여주는 신호로 받아들여집니다.",
-          "category": "국제",
-          "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html",
-          "published": "2026-11-03T21:52:37+00:00"
+          "title_ko": "민주당 의회 장악에 뉴욕 증시 상승",
+          "title_original": "Stocks Rise as Democrats Flip Control of Congress",
+          "summary_ko": "민주당이 의회 다수당을 탈환하자 주식시장이 상승세를 보였습니다. 투자자들은 워싱턴 정가의 교착 상태를 예상했는데, 이는 통상 증시에 호재로 여겨지는 신호입니다.",
+          "category": "경제",
+          "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+          "published": "2026-11-04T21:40:19+00:00"
         },
         {
-          "title_ko": "이란 \"미국과 합의 시 이틀 내 호르무즈 해협 재개방\"",
-          "title_original": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
-          "summary_ko": "이란 당국자들이 미국과의 합의의 일환으로 이틀 안에 호르무즈 해협을 다시 열 수 있다고 밝히며 협상에 일부 진전이 있다고 전했습니다. 다만 이란은 전면전에도 대비하고 있으며, 카타르 대표단이 월요일 테헤란에 도착해 이란 외무장관과 협상을 이어갔습니다.",
-          "category": "국제",
-          "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-          "published": "2026-11-03T16:32:56+00:00"
+          "title_ko": "얼리토 대법관, 선거 결과에도 당장 은퇴하지 않기로",
+          "title_original": "Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome",
+          "summary_ko": "보수 성향의 새뮤얼 얼리토 연방대법관이 이번 회기가 끝나기 전에는 물러날 계획이 없다고 지인들에게 밝혔습니다. 민주당이 1월 상원을 장악할 예정인 가운데 나온 결정으로, 향후 대법관 인준 구도에 영향을 미칠 수 있다는 점에서 주목됩니다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html",
+          "published": "2026-11-04T23:44:50+00:00"
         },
         {
-          "title_ko": "러시아, 우크라이나 인도주의 거점 공습… 개전 이래 최악 참사 중 하나 우려",
-          "title_original": "Strike on Ukraine Humanitarian Hub Is Feared to Be Among War’s Deadliest",
-          "summary_ko": "러시아가 우크라이나 자포리자 지역의 인도주의 지원 거점을 공격해 최소 31명이 숨지고 수십 명이 실종됐습니다. 공격 몇 시간 뒤 미국은 9개월 만에 양국과의 평화 협상을 재개한다고 발표했습니다.",
+          "title_ko": "이스라엘 대통령, 네타냐후·아이젠코트 중 연정 구성권 부여 협의 착수",
+          "title_original": "Israel’s President Starts Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+          "summary_ko": "아이작 헤르초그 이스라엘 대통령이 이틀간 각 정당 지도자들과 만나 베냐민 네타냐후 총리와 경쟁자들 중 누구에게 연립정부 구성 우선권을 줄지 결정하는 협의를 시작했습니다. 승부가 명확히 갈리지 않은 총선 이후의 정국 교착을 푸는 데 헤르초그 대통령의 중재 역할이 핵심이 될 수 있다는 평가가 나옵니다.",
           "category": "국제",
-          "url": "https://www.nytimes.com/2026/11/03/world/europe/komyshuvakha-zaporizhzhia-attack-ukraine.html",
-          "published": "2026-11-03T15:58:26+00:00"
+          "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
+          "published": "2026-11-04T20:17:02+00:00"
         },
         {
-          "title_ko": "트럼프 행정부, 베네수엘라에 미군 주둔 허용 협정 압박",
-          "title_original": "Trump Pushes Venezuela for Agreement Allowing U.S. Troops to Stay",
-          "summary_ko": "오랜 적대 관계이며 올해 미국의 공격까지 받았던 베네수엘라를 상대로, 마코 루비오 국무장관이 미군 주둔을 허용하는 법적 협정 협상에 착수했습니다. 미국이 중남미에서 '마약 테러'와의 싸움을 군사화하는 흐름 속에서 나온 움직임입니다.",
+          "title_ko": "스페인 교통장관, 고속철 참사 책임지고 사임",
+          "title_original": "Spain’s Transport Minister Resigns After Deadly High-Speed Rail Crash",
+          "summary_ko": "약 70명이 숨진 고속철도 사고 이후 스페인 교통장관이 사임했습니다. 이번 사고는 1년도 채 안 돼 발생한 두 번째 고속철 사고로, 철도 안전에 대한 우려가 커지고 있습니다.",
           "category": "국제",
-          "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-venezuela-troop-agreement.html",
-          "published": "2026-11-03T19:47:00+00:00"
+          "url": "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html",
+          "published": "2026-11-03T22:36:35+00:00"
         }
       ]
     },
@@ -55,44 +55,44 @@
       "name_en": "The Washington Post",
       "articles": [
         {
-          "title_ko": "미군, 선거 전날 이란에 새로운 '방어적' 공습 단행",
-          "title_original": "U.S. forces launch new ‘defensive’ strikes in Iran on eve of election",
-          "summary_ko": "미군이 미국 선거를 하루 앞두고 이란에 새로운 공습을 단행했으며, 이를 '방어적' 조치라고 밝혔다. 선거 직전에 이뤄진 군사 행동이라는 점에서 국내 정치와 중동 정세 모두에 미칠 파장이 주목된다. 같은 지면에서는 미국과 이란 간 전쟁 재개 우려 속에 중국이 활발한 외교전에 나섰다는 소식도 전했다.",
-          "category": "국제",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakQ2dHpWeVF0SFVPOHZaLUtaYWV5YzNycVlYNU1JQlRxRFF3X0xjM2k0dndPNlg5VWcxOHJ2S1h6VldqejlGZjAwSEhfbDVxN2xRbUVGNW4xdU51bTNnZkJZN0JNLVo3MkVFdy0tUFVQSGFrZ0t6aG5VQ1F0WTEyUDlMczZTN3d5Z1Z0dk5XWkFSMFJDcFA4MHNHbnUyQU9FQ0RXRFU0WnRIeEtjQmtkMTNCVUlJU0FR?oc=5",
-          "published": "2026-11-03T07:34:00+00:00"
-        },
-        {
-          "title_ko": "연방대법원, 캘리포니아 투표용지 2만 장 보류 요청한 트럼프 행정부 신청 기각",
-          "title_original": "Supreme Court denies Trump administration request to set aside Calif. ballots",
-          "summary_ko": "트럼프 행정부는 캘리포니아주 투표용지 약 2만 장을 일단 보류해 달라고 연방대법원에 요청했으나, 대법원은 이를 받아들이지 않았다. 중간선거를 앞두고 투표 집계를 둘러싼 법적 다툼에서 행정부의 시도가 제동이 걸렸다는 점에서 의미가 크다.",
+          "title_ko": "공화당 참패, 상·하원 모두 잃어… 중간선거 핵심 정리",
+          "title_original": "Takeaways from a Republican wipeout that cost the GOP both chambers of Congress",
+          "summary_ko": "화요일 치러진 미국 중간선거에서 공화당이 참패하며 상원과 하원을 모두 민주당에 내줬습니다. 유권자들이 역사적인 수준으로 민주당 쪽으로 이동하며 트럼프 대통령을 심판한 결과로 평가됩니다. 의회 권력 구도가 바뀌면서 향후 트럼프 행정부의 국정 운영에 큰 변화가 예상됩니다.",
           "category": "정치",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHp4ck1fWEFSbGhiaEdhNFA5bjdJaExZUFJxVWM0MTdIM1dCdEZRSTE5LVU0RzBtWlZDM0xMNXZObnZJdk90Y2FnbjNUcEJkNDB2bDNCeU5nU2V5Nnd1WGQwSGRQTkZLempyZE80OEFBSG1HWjVjU2UxT1Q5eWVFa2xSOU1wVllyY0l5c3NqS3hhVUh5S0NPWTdDN1Q5SDhqSFVwNlYxNTBodGthWVhVeHhZV0tVTkxVQzRCWE0za0ZwMms?oc=5",
-          "published": "2026-11-03T04:26:00+00:00"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUE4WXFQVkpyZC1WeWU4bm9aU0Rxa1JkeXhaQmRCSUdCY25VUVh5ZDJ6X0pKZmF5SjhOcU5yVGFEVXFKQ3dIbVhkTzA2cGlmcUgxWEw4M1BoUzduNGNha3JSb1ZGZ2VpV0VNZnYyLXJEQzdoQ3lMOF9WSEJKMmtwMHRPN0QzNFE?oc=5",
+          "published": "2026-11-04T19:00:00+00:00"
         },
         {
-          "title_ko": "휘발유 가격, 미국 역사상 선거일 기준 최고치 기록할 듯",
-          "title_original": "Gas prices are set to be highest for any Election Day in U.S. history",
-          "summary_ko": "이번 선거일의 휘발유 가격이 미국 역사상 어느 선거일보다도 높은 수준을 기록할 전망이다. 유권자들이 체감하는 생활 물가 부담이 선거 결과에 영향을 줄 수 있다는 점에서 주목된다.",
-          "category": "경제",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY2p6SUZBT3lJVG9SRFp3MFJuN1pVdTBlTkRXV1JLbWVnd05iaUFrR1YxMk1aMEdpZjMwSEwwbEVzWVhDMV9hSmhoTmR5R3o2cE5KcUpCTU5Kb3BwSGFXR0RlR3JCbkJZVllfenJ6dG9zWnRJdUhFeGFWejZBcjdnZl9pV1VPdTZiSFA2VjZ3T2RNZXVwM2VDUE9pZUxMSVk0cndocEltcTFQU1NNT3c?oc=5",
-          "published": "2026-11-03T03:50:00+00:00"
+          "title_ko": "트럼프 \"이란 전쟁이 유권자 분노 불러 민주당 압승으로 이어져\" 인정",
+          "title_original": "Trump concedes Iran war angered voters, triggered Democratic landslide",
+          "summary_ko": "트럼프 대통령이 이란 전쟁이 유권자들을 분노하게 했고 민주당의 압승을 촉발했다고 인정했습니다. 대외 정책이 선거 패배의 주요 원인으로 지목되면서, 향후 전쟁 정책 방향에도 관심이 쏠립니다.",
+          "category": "정치",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUlGcnVxOUNGdUpRN1hoM2FIcHRHMGdqQUpGRGZJeWVqb0NBNmgtbzBXV3I2eWt4bVd1U3h6MXJQTURlRnRVc1RZMEZRNm4zSlNSQnUwNzhrMWxqNmcyVFdtdmFwN3Awd0ZSNmpEckdmbXlhUkM0NmdYSjQtQlNYZllyVXRsOW9EU1BWNU9rMTJDcTAtR2FWTjdaSE9OR2RpU2JFV3c5cw?oc=5",
+          "published": "2026-11-04T23:46:59+00:00"
         },
         {
-          "title_ko": "악성코드와 가짜 채용 면접으로 바이낸스에서 63억 달러 탈취",
-          "title_original": "How malware and a bogus job interview let attackers nab $6.3B from Binance",
-          "summary_ko": "해커들이 악성코드와 가짜 채용 면접 수법을 이용해 암호화폐 거래소 바이낸스에서 63억 달러를 빼돌린 과정을 보도했다. 대규모 피해 규모와 사회공학적 공격 수법은 암호화폐 업계의 보안 취약성을 드러낸다.",
+          "title_ko": "데이터센터 반대 여론, 전국 투표장에서 분출",
+          "title_original": "A nationwide backlash against data centers erupts at the polls",
+          "summary_ko": "이번 선거에서 데이터센터 건설에 대한 전국적인 반발이 투표 결과로 드러났습니다. AI 확산과 함께 늘어나는 데이터센터 문제가 여러 지역에서 투표 쟁점으로 올랐다는 점에서, 기술 산업 인프라 확장에 대한 정치적 부담이 커지고 있음을 보여줍니다.",
           "category": "기술",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGZOT1RKRGNKUm5FZ3dfY19yeWV0MGR4Y3RtdFJULUhHQVo4UG9fSF9PLVZkc3JMMzVIS1dOY1BwWUFEUEMxc3RmTWt0Rm83TEh0SGVYUUVFV2xfUWdrdXVBUEtvNEtVOFd4Q3l4OHBHUENNR0xmV0N6ZTg5Z0I3Vk9vUDYwWU1zb3pxSEE0UE15elRTajEzckJNZjBseDd2dEE3UENxSm96QTBmWlp4T05sd0hWdw?oc=5",
-          "published": "2026-11-03T23:44:53+00:00"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1dtLXh4bkZMU0R3X1ZqXzVKNXBjRE1JbkNuQUg5R3o2VEE4SUVEM3lqUFZZOHlKTVkyN2tYUEZIdXJTOWZuVWRlQXY1dl9vVkdTVHZFWkpuajdIX2U5UEtjQ2wwQkx4MnM1SnhpeVZCVU96cXc3U1pBekJXWlAya05CN1Q5QTNmQ2Zyc0Y4WDFLWndvQS1tdHM2eHA5R3pUdW9RUU9UcG5mSk13dUhTQ2t2V1JMWmdLU3c?oc=5",
+          "published": "2026-11-05T00:09:43+00:00"
         },
         {
-          "title_ko": "뉴욕주, 30여 년 만에 첫 홍역 관련 사망자 보고",
-          "title_original": "New York reports its first measles-associated death in more than 30 years",
-          "summary_ko": "뉴욕주에서 30년 넘게 만에 처음으로 홍역과 관련된 사망 사례가 보고됐다. 오랫동안 발생하지 않던 홍역 사망자가 나왔다는 점에서 공중보건상 경각심을 불러일으키는 소식이다.",
-          "category": "사회",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV291NXFQWFlHbGxhVk94Y0ZSaVQtcl9FUW5hVEFPOFprOTVLS3VJTTNEYk1fVUU5eGc0RHlUTG41Z2lMTTBzbVNwNk1zMmpZeGxmZl9lSTZDd09kR1FzNEdlQ24xM0xsQnNPb09VbjFtMlVmdWZ4U2VlRExWbTkxRnF6dU9OUldvYUJvLWhOU2RKS3NHdFg4SHJNNDYwTmx6c1lPajVGY0F6VU1ZbnNKTUgxdnl5VWhELURNVw?oc=5",
-          "published": "2026-11-03T04:45:00+00:00"
+          "title_ko": "악성코드와 가짜 채용 면접으로… 바이낸스서 63억 달러 탈취",
+          "title_original": "How malware and a bogus job interview let attackers nab $6.3B from Binance",
+          "summary_ko": "공격자들이 악성코드와 가짜 채용 면접 수법을 이용해 암호화폐 거래소 바이낸스에서 63억 달러를 빼돌린 것으로 나타났습니다. 사회공학적 수법이 결합된 대형 해킹 사건으로, 암호화폐 업계의 보안 취약성을 드러냈습니다.",
+          "category": "금융",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGZOT1RKRGNKUm5FZ3dfY19yeWV0MGR4Y3RtdFJULUhHQVo4UG9fSF9PLVZkc3JMMzVIS1dOY1BwWUFEUEMxc3RmTWt0Rm83TEh0SGVYUUVFV2xfUWdrdXVBUEtvNEtVOFd4Q3l4OHBHUENNR0xmV0N6ZTg5Z0I3Vk9vUDYwWU1zb3pxSEE0UE15elRTajEzckJNZjBseDd2dEE3UENxSm96QTBmWlp4T05sd0hWdw?oc=5",
+          "published": "2026-11-04T01:42:40+00:00"
+        },
+        {
+          "title_ko": "후티 반군 진격에 예멘, 인도주의 위기로 추락",
+          "title_original": "Yemen plunges into humanitarian crisis as Houthis advance",
+          "summary_ko": "후티 반군이 세력을 확장하면서 예멘이 심각한 인도주의 위기에 빠졌습니다. 중동 정세가 불안한 가운데 예멘 내전의 격화가 지역 안정과 민간인 피해에 미칠 영향이 우려됩니다.",
+          "category": "국제",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa3ZpaFZyeTU4OFM3RXhFQWdXcXhPODFkSHZJdnRkcm9EeFMwb0tRY2hZdDVVaEY3R0RVdGs2RjVKYWh5UHlKSVY0d0xEaENYVDBvamxBU3RzTm1NbmhnYWVBV0VNLUhNUG91blBuOFVKUzVtdE9Dc3hnVXoxdlFJcVFXTVVhVjNfQzVaVFpiT0tIckxjVXRQOGN3RE81SWZJOUhkU0MzTmRaMlUtbHd3cW9n?oc=5",
+          "published": "2026-11-04T18:13:34+00:00"
         }
       ]
     },
@@ -102,44 +102,44 @@
       "name_en": "The Korea Economic Daily",
       "articles": [
         {
-          "title_ko": "중국, IPO·대규모 주식 매각 중단…증시 급락 방어 나서",
+          "title_ko": "9월 경상수지 흑자 614억 달러로 역대 최대… 사상 첫 600억 달러 돌파",
           "title_original": null,
-          "summary_ko": "중국 당국이 증시 급락을 막기 위해 기업공개(IPO)와 대규모 주식 매각을 중단했습니다. 세계 2위 경제국의 이례적인 시장 개입으로 글로벌 금융시장에도 파장이 예상됩니다.",
+          "summary_ko": "9월 경상수지 흑자가 614억 달러를 기록해 역대 최대치를 경신했습니다. 월간 경상흑자가 600억 달러를 넘어선 것은 이번이 처음으로, 한국 경제의 대외 건전성을 보여주는 의미 있는 지표입니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026110570727",
+          "published": "2026-11-04T23:02:17+00:00"
+        },
+        {
+          "title_ko": "미 민주당 의회 장악에 달러 급락… 금값 3.4% 급등",
+          "title_original": null,
+          "summary_ko": "미국 민주당이 의회를 장악하면서 달러 가치가 급락하고 금값은 3.4% 급등했습니다. 미국 정치 지형의 변화가 글로벌 금융시장에 즉각적인 충격을 주고 있어 향후 정책 방향과 시장 흐름이 주목됩니다.",
           "category": "국제",
-          "url": "https://www.hankyung.com/article/202611044371i",
-          "published": "2026-11-03T23:31:37+00:00"
+          "url": "https://www.hankyung.com/article/202611057006i",
+          "published": "2026-11-04T22:54:38+00:00"
         },
         {
-          "title_ko": "쿠팡, 매출 14조 넘겼지만 3분기 영업손실 6423억…3분기 연속 적자",
+          "title_ko": "호반건설, 한진칼 최대주주 등극… 조원태 측보다 0.11%P 앞서",
           "title_original": null,
-          "summary_ko": "쿠팡 모회사가 3분기 매출 14조원을 넘겼지만 영업손실 6423억원을 기록하며 3분기 연속 적자를 이어갔습니다. 이익률 하락에 물류센터 화재 손실 3500억원까지 겹쳐 국내 최대 이커머스 기업의 수익성 우려가 커지고 있습니다.",
+          "summary_ko": "호반건설이 한진칼의 최대주주로 올라섰습니다. 조원태 회장 측과의 지분 격차는 0.11%포인트에 불과해, 대한항공 지주사인 한진칼의 경영권 향방에 관심이 쏠립니다.",
           "category": "산업",
-          "url": "https://www.hankyung.com/article/202611044167g",
-          "published": "2026-11-03T21:12:19+00:00"
+          "url": "https://www.hankyung.com/article/2026110465841",
+          "published": "2026-11-04T10:42:58+00:00"
         },
         {
-          "title_ko": "엔비디아, 중국 고객 비중 49%로 제한…AI 패권 경쟁 가열",
+          "title_ko": "홍콩ELS 과징금 3700억 원… 은행권 \"소송 검토\"",
           "title_original": null,
-          "summary_ko": "엔비디아가 중국 고객 비중을 49%로 제한하기로 했습니다. 미·중 간 AI 패권 경쟁이 한층 가열되는 가운데 나온 조치로, 글로벌 반도체 공급망에 영향을 줄 수 있습니다.",
-          "category": "기술",
-          "url": "https://www.hankyung.com/article/202611044341i",
-          "published": "2026-11-03T23:22:02+00:00"
-        },
-        {
-          "title_ko": "엘앤에프, LG에너지솔루션에 1조원 규모 LFP 양극재 공급",
-          "title_original": null,
-          "summary_ko": "엘앤에프가 LG에너지솔루션에 1조원 규모의 LFP 양극재를 공급합니다. 국내 배터리 소재 업계의 대형 수주로 LFP 배터리 공급망 확대 측면에서 의미가 있습니다.",
-          "category": "산업",
-          "url": "https://www.hankyung.com/article/2026110337321",
-          "published": "2026-11-03T09:02:25+00:00"
-        },
-        {
-          "title_ko": "\"2조 달러는 과하다\"…앤트로픽, IPO 앞두고 기업가치 논란",
-          "title_original": null,
-          "summary_ko": "AI 기업 앤트로픽이 기업공개(IPO)를 앞두고 2조 달러 수준의 몸값을 두고 논란에 휩싸였습니다. AI 기업 가치 평가를 둘러싼 시장의 시각을 가늠할 수 있는 사안으로 주목됩니다.",
+          "summary_ko": "홍콩 ELS 판매와 관련해 은행들에 3700억 원 규모의 과징금이 부과됐습니다. 은행들은 소송을 검토하고 있어 금융당국과 은행권 간 법적 다툼으로 번질 가능성이 있습니다.",
           "category": "금융",
-          "url": "https://www.hankyung.com/article/202611044364i",
-          "published": "2026-11-03T23:36:25+00:00"
+          "url": "https://www.hankyung.com/article/2026110463391",
+          "published": "2026-11-04T08:37:26+00:00"
+        },
+        {
+          "title_ko": "10월 외환보유액 4432억 달러… 4년 5개월 만에 최대",
+          "title_original": null,
+          "summary_ko": "10월 말 외환보유액이 4432억 달러로 집계돼 4년 5개월 만에 최대 규모를 기록했습니다. 역대 최대 경상흑자와 함께 대외 지급 능력이 강화됐음을 보여주는 지표입니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026110463191",
+          "published": "2026-11-04T09:12:52+00:00"
         }
       ]
     }
