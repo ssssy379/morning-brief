@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T09:06:11.909644+09:00",
+  "sources": [
+    {
+      "id": "nyt",
+      "name": "뉴욕타임즈",
+      "name_en": "The New York Times",
+      "articles": [
+        {
+          "title_ko": "트럼프 새 비서실장 스티븐 밀러는 누구인가",
+          "title_original": "What to Know About Stephen Miller, Trump’s New Chief of Staff",
+          "summary_ko": "트럼프 대통령이 비서실장을 교체하고 스티븐 밀러를 새 비서실장으로 앉혔다. 밀러는 트럼프 행정부의 대규모 추방 캠페인을 설계한 인물로, 트럼프 이민 정책의 상당 부분에서 대외적 얼굴 역할을 해왔다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
+          "published": "2026-11-06T22:13:11+00:00"
+        },
+        {
+          "title_ko": "중간선거 후 헤그세스 국방장관, 탄핵 추진과 초당적 압박 직면",
+          "title_original": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections",
+          "summary_ko": "중간선거 이후 피트 헤그세스 국방장관에 대한 탄핵 추진이 임박했다. 논란이 많은 트럼프의 국방장관이 민주당뿐 아니라 공화당과도 대립할 수 있는 상황이다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html",
+          "published": "2026-11-06T21:27:47+00:00"
+        },
+        {
+          "title_ko": "AI 투자 우려 확산에 미국발 매도세, 세계 증시로 번져",
+          "title_original": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread",
+          "summary_ko": "인공지능(AI) 지출에 대한 우려가 확산되면서 미국 증시 급락에 이어 글로벌 증시도 동반 하락했다. 짧은 시간에 처리해야 할 정보가 많은 가운데, 시장 관계자들은 상승과 하락 양방향 모두에서 움직임이 극단적이었다고 평가했다.",
+          "category": "경제",
+          "url": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
+          "published": "2026-11-06T21:11:05+00:00"
+        },
+        {
+          "title_ko": "젠슨 황에 접근한 여성, 중국 최고 정보기관이 포섭",
+          "title_original": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
+          "summary_ko": "미국 정보당국은 엔비디아 CEO 젠슨 황과 가까운 관계를 맺은 중국 기업인 앨리스 황이 중국 국가안전부의 정보원이었다고 결론 내렸다. 핵심 AI 반도체 기업 수장을 겨냥한 중국 정보활동이라는 점에서 파장이 예상된다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
+          "published": "2026-11-06T21:30:50+00:00"
+        },
+        {
+          "title_ko": "파라과이 대통령, 금융위기 책임으로 탄핵·파면 후 체포",
+          "title_original": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+          "summary_ko": "산티아고 페냐 파라과이 대통령이 정부와 밀접한 관계의 은행이 파산한 뒤 탄핵돼 파면되고 가택연금에 처해졌다. 페냐는 수십 년 만의 최악의 금융위기를 막지 못한 데 대해 사과한 바 있다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+          "published": "2026-11-06T23:59:10+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wapo",
+      "name": "워싱턴포스트",
+      "name_en": "The Washington Post",
+      "articles": [
+        {
+          "title_ko": "수지 와일스 떠나고 스티븐 밀러, 새 백악관 비서실장에 임명",
+          "title_original": "Stephen Miller is named new White House chief of staff as Susie Wiles departs",
+          "summary_ko": "트럼프 대통령이 화요일 중간선거 패배에 분노한 가운데, 수지 와일스 비서실장이 물러나고 스티븐 밀러가 후임으로 지명됐다. 이번 인사 개편으로 트럼프 행정부의 정책 기조가 더욱 우경화할 가능성이 크다는 분석이다.",
+          "category": "정치",
+          "url": "https://www.washingtonpost.com/politics/2026/11/06/trump-names-stephen-miller-new-white-house-chief-staff/",
+          "published": "2026-11-06T22:53:56+00:00"
+        },
+        {
+          "title_ko": "AI 투자 향방 우려에 증시 급락…중간선거 이후 상승분 모두 반납",
+          "title_original": "Stocks tumble, erasing post-midterm gains as markets weigh future of AI build-out",
+          "summary_ko": "목요일 S&P 500 지수는 약 4%, 기술주 중심의 나스닥 종합지수는 약 5.5% 떨어지며 중간선거 이후의 상승분을 모두 잃었다. 민주당 압승 이후 데이터센터 건설이 둔화될 수 있다는 투자자들의 우려가 커진 것이 배경이다. AI 산업의 투자 셈법이 더 이상 맞지 않게 되면 미국 경제 전반이 타격을 받을 수 있다는 지적이 나온다.",
+          "category": "경제",
+          "url": "https://www.washingtonpost.com/business/2026/11/05/us-stocks-slide-wiping-out-post-midterm-gains/",
+          "published": "2026-11-05T21:32:15+00:00"
+        },
+        {
+          "title_ko": "트럼프 \"푸틴과 우크라이나·'유럽 전체' 관련 합의 임박\"",
+          "title_original": "Trump says he and Putin are close to a deal about Ukraine and ‘all of Europe’",
+          "summary_ko": "트럼프 대통령은 목요일 푸틴 대통령의 특사와 만나 우크라이나와 유럽의 미래를 논의했으며, 이 회담에서 우크라이나는 배제됐다. 트럼프는 푸틴과 합의에 근접했다고 밝혀, 당사국 없이 진행되는 협상이 우크라이나와 유럽 안보에 미칠 영향에 관심이 쏠린다.",
+          "category": "국제",
+          "url": "https://www.washingtonpost.com/world/2026/11/05/ukraine-continues-strikes-russian-refineries-lead-up-white-house-meeting/",
+          "published": "2026-11-06T00:02:22+00:00"
+        },
+        {
+          "title_ko": "美 10월 일자리 16만5천 개 증가…예상 웃도는 고용 강세",
+          "title_original": "U.S. economy added 165,000 jobs in October, showing surprising strength",
+          "summary_ko": "미국 경제가 10월 한 달간 16만5000개의 일자리를 늘리며 예상 밖의 강세를 보였다. 여러 산업에 걸쳐 고용이 꾸준히 늘면서 노동시장이 새로운 강세 신호를 나타내고 있다.",
+          "category": "경제",
+          "url": "https://www.washingtonpost.com/business/2026/11/06/us-economy-added-165000-job-october-strong-gain/",
+          "published": "2026-11-06T14:29:13+00:00"
+        },
+        {
+          "title_ko": "뉴섬 주지사, 사형수 548명 감형 추진…캘리포니아 사형수 감방 비운다",
+          "title_original": "Newsom moves to commute 548 death sentences, emptying California’s death row",
+          "summary_ko": "퇴임을 앞둔 개빈 뉴섬 캘리포니아 주지사가 주 내 사형수 548명 전원의 형을 종신형으로 감형하겠다고 밝혔다. 2028년 대선 잠재 후보로 꼽히는 그의 이번 결정은 같은 날 인디애나·플로리다·앨라배마 주에서 사형이 집행된 것과 대조를 이룬다.",
+          "category": "사회",
+          "url": "https://www.washingtonpost.com/nation/2026/11/05/newsom-begins-commuting-sentences-california-death-row-inmates/",
+          "published": "2026-11-06T00:22:26+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "name_en": "The Korea Economic Daily",
+      "articles": [
+        {
+          "title_ko": "공정위 \"한국 소비자 차별 안 돼\"…해외보다 가격 비싸면 제재",
+          "title_original": null,
+          "summary_ko": "공정거래위원회가 해외보다 한국에서 더 비싸게 판매되는 경우 제재하겠다는 방침을 내놨다. 한국 소비자에 대한 가격 차별을 문제 삼겠다는 취지로, 국내에서 제품을 판매하는 기업들의 가격 정책에 영향을 줄 수 있다.",
+          "category": "정책",
+          "url": "https://www.hankyung.com/article/2026110615881",
+          "published": "2026-11-06T09:03:25+00:00"
+        },
+        {
+          "title_ko": "기아, 3조 원 투자해 광주공장 미래차 생산기지로 전환",
+          "title_original": null,
+          "summary_ko": "기아가 3조 원을 투자해 광주공장을 미래차 생산 체제로 전환한다. 대규모 투자로 기존 생산기지의 미래차 전환을 추진한다는 점에서 지역 산업과 자동차 산업 전환 측면에서 의미가 크다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026110617211",
+          "published": "2026-11-06T10:48:20+00:00"
+        },
+        {
+          "title_ko": "법원, 쿠팡 과징금 6000억 중 2000억 효력정지…쿠팡 손 들어줘",
+          "title_original": null,
+          "summary_ko": "쿠팡에 부과된 과징금 6000억 원 가운데 2000억 원에 대해 법원이 효력정지 결정을 내렸다. 대규모 과징금을 둘러싼 법적 다툼에서 법원이 쿠팡 측 손을 들어준 것으로, 향후 제재의 실효성에 관심이 쏠린다.",
+          "category": "사회",
+          "url": "https://www.hankyung.com/article/202611060899g",
+          "published": "2026-11-06T05:27:45+00:00"
+        },
+        {
+          "title_ko": "1만 원 주문에 배달비 3000원…'총비용 15% 상한' 놓고 업주·라이더 충돌",
+          "title_original": null,
+          "summary_ko": "배달 총비용을 15%로 제한하는 상한제를 두고 음식점 업주와 배달 라이더 간 갈등이 빚어지고 있다. 1만 원 주문에 배달비가 3000원에 이르는 상황에서 비용 부담 분배를 둘러싼 이해관계가 충돌하고 있다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/202611061188g",
+          "published": "2026-11-06T06:45:55+00:00"
+        },
+        {
+          "title_ko": "국민연금 \"기업 자사주 취득, 깐깐하게 들여다볼 것\"",
+          "title_original": null,
+          "summary_ko": "국민연금이 기업들의 자사주 취득을 엄격하게 살펴보겠다는 입장을 밝혔다. 최대 기관투자가의 방침인 만큼 상장사들의 자사주 활용과 주주환원 정책에 영향을 미칠 전망이다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/2026110615161",
+          "published": "2026-11-06T08:32:03+00:00"
+        }
+      ]
+    }
+  ]
+}
