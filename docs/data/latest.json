@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T09:02:47.065634+09:00",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T09:05:38.931101+09:00",
   "sources": [
     {
       "id": "nyt",
@@ -8,44 +8,44 @@
       "name_en": "The New York Times",
       "articles": [
         {
-          "title_ko": "중간선거 압승 이후 척 슈머, 상원 다수당 원내대표 취임 유력",
-          "title_original": "Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout",
-          "summary_ko": "민주당이 중간선거에서 압승을 거두면서 척 슈머 민주당 원내대표가 상원 다수당 원내대표에 오를 것으로 보인다. 당내 회의론과 일부 활동가들의 반발이 여전하지만, 측근들은 그가 선출에 필요한 지지 약속을 충분히 확보했다고 밝혔다. 민주당이 상원 주도권을 쥐게 되면서 트럼프 정부와의 권력 구도에 변화가 예상된다.",
-          "category": "정치",
-          "url": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html",
-          "published": "2026-11-07T16:22:29+00:00"
+          "title_ko": "엔비디아, 젠슨 황 CEO와 중국 스파이의 관계 조사 착수",
+          "title_original": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+          "summary_ko": "젠슨 황 엔비디아 최고경영자가 미국 당국이 중국 정보기관을 위해 일한다고 판단한 기업인과 친밀한 관계였다고 일요일 인정했고, 엔비디아는 이에 대한 조사에 들어갔습니다. 마코 루비오 국무장관도 지난봄 이 관계를 우려하는 비밀 메모 작성에 관여한 것으로 알려졌습니다. 세계 핵심 기업 수장의 안보 리스크 문제로 파장이 클 전망입니다.",
+          "category": "기술",
+          "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+          "published": "2026-11-08T23:51:34+00:00"
         },
         {
-          "title_ko": "네타냐후의 경쟁자 아이젠코트 야당 대표, 이스라엘 연정 구성권 획득",
+          "title_ko": "선거로 분명해진 민심, 그러나 트럼프와 미국의 앞날은 불투명",
+          "title_original": "For Trump and America, a Clear Election Verdict but a Murky Future",
+          "summary_ko": "미국인들이 놀라운 새 정치 현실을 받아들이는 가운데, 유권자들이 사실상 대통령에게 등을 돌린 시점과 그의 임기가 실제로 끝나는 시점 사이에 간극이 생겼습니다. 선거 결과는 명확하지만 그 이후 정국의 향방은 여전히 불확실하다는 분석입니다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html",
+          "published": "2026-11-08T16:25:45+00:00"
+        },
+        {
+          "title_ko": "미 법무부, 코미 기밀유출 사건에서 뉴욕타임스를 공모자로 지목하는 방안 검토",
+          "title_original": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
+          "summary_ko": "법무부가 제임스 코미 관련 유출 사건에서 뉴욕타임스를 공모자로 명시하는 방안을 검토한 것으로 나타났습니다. 실제 어떻게 진행할지는 불분명하지만, 실행될 경우 트럼프 행정부의 언론 공격이 크게 격화되는 조치가 됩니다.",
+          "category": "사회",
+          "url": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
+          "published": "2026-11-08T22:59:31+00:00"
+        },
+        {
+          "title_ko": "네타냐후 경쟁자 아이젠코트, 이스라엘 연정 구성권 확보",
           "title_original": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
-          "summary_ko": "승자가 가려지지 않은 이스라엘 총선 이후 전 군 참모총장 출신 야당 대표 가디 아이젠코트가 정부 구성 임무를 맡았다. 그는 연립정부를 꾸려 베냐민 네타냐후 총리의 뒤를 잇겠다는 목표다. 다만 연정 구성까지 넘어야 할 장애물이 만만치 않다.",
+          "summary_ko": "전 군 참모총장 출신의 야당 지도자 가디 아이젠코트가 결론이 나지 않은 총선 이후 정부 구성 임무를 맡았습니다. 그는 최대 6주 안에 연립정부를 꾸려 베냐민 네타냐후 총리를 대체하려 하지만 장애물이 만만치 않습니다.",
           "category": "국제",
           "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-          "published": "2026-11-07T23:03:29+00:00"
+          "published": "2026-11-08T09:41:56+00:00"
         },
         {
-          "title_ko": "스티븐 밀러, 선거 패배에도 이민 단속 강행 의지",
-          "title_original": "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown",
-          "summary_ko": "트럼프 대통령의 새 비서실장으로 임명된 스티븐 밀러가 중간선거 패배에도 이민 단속 정책을 밀어붙이겠다는 의지를 이미 드러냈다. 많은 유권자가 거부한 의제를 계속 추진하겠다는 것으로, 향후 정국의 갈등 요인이 될 전망이다.",
+          "title_ko": "제프리스, 헤그세스 탄핵 지지…민주당 책임 추궁 본격화",
+          "title_original": "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
+          "summary_ko": "하킴 제프리스 민주당 하원 원내대표가 피트 헤그세스 탄핵을 지지하고 나섰습니다. 민주당은 트럼프 행정부를 겨냥한 강도 높은 감독 의제의 기반을 다지고 있으며, 새 의회 출범 전에 정치적 심판이 먼저 닥칠 수도 있다는 관측입니다.",
           "category": "정치",
-          "url": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html",
-          "published": "2026-11-07T18:29:56+00:00"
-        },
-        {
-          "title_ko": "미 정부, 빈 사무실·우려스러운 연계 가진 중국 기업에 엔비디아 칩 취급 승인",
-          "title_original": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
-          "summary_ko": "미 상무부가 수십 개 중국 기업에 엔비디아 H200 칩 취급을 승인했으며, 이 중 일부는 국가안보 관련 제재를 받는 기업들과 연관된 것으로 드러났다. 첨단 반도체 수출 통제의 실효성에 의문을 제기하는 사안이다.",
-          "category": "기술",
-          "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
-          "published": "2026-11-07T10:00:41+00:00"
-        },
-        {
-          "title_ko": "강한 고용 증가, 견고한 미국 노동시장 재확인",
-          "title_original": "Strong Hiring Reinforces a Sturdy Job Market",
-          "summary_ko": "10월 미국 실업률이 하락하며 고용시장이 여전히 견고한 것으로 나타났다. 인플레이션과 인공지능(AI)이라는 위협 속에서도 수년간 이어진 미국 노동시장의 안정세가 계속되고 있다.",
-          "category": "경제",
-          "url": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html",
-          "published": "2026-11-06T22:29:37+00:00"
+          "url": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
+          "published": "2026-11-08T19:22:53+00:00"
         }
       ]
     },
@@ -55,44 +55,44 @@
       "name_en": "The Washington Post",
       "articles": [
         {
-          "title_ko": "수지 와일스 퇴진, 스티븐 밀러 백악관 비서실장 임명",
-          "title_original": "Stephen Miller is named new White House chief of staff as Susie Wiles departs",
-          "summary_ko": "수지 와일스가 물러나고 스티븐 밀러가 새 백악관 비서실장으로 임명됐다. 이번 인사는 화요일 중간선거 패배에 트럼프 대통령이 여전히 분노하는 가운데 나왔으며, 트럼프의 정책 의제가 더 오른쪽으로 이동할 가능성이 크다는 분석이다.",
+          "title_ko": "트럼프, 스티븐 밀러를 비서실장에 기용…'대결의 시대' 예고",
+          "title_original": "Stephen Miller’s promotion sets the stage for a new era of confrontation",
+          "summary_ko": "트럼프 대통령이 수지 와일스 비서실장의 후임으로 스티븐 밀러를 임명했습니다. 민주당이 의회 장악을 앞둔 상황에서 이번 인사는 타협보다 이념 대결에 무게를 두겠다는 신호로 풀이되며, 행정부와 의회의 충돌이 격화될 가능성을 보여줍니다.",
           "category": "정치",
-          "url": "https://www.washingtonpost.com/politics/2026/11/06/trump-names-stephen-miller-new-white-house-chief-staff/",
-          "published": "2026-11-06T22:53:56+00:00"
+          "url": "https://www.washingtonpost.com/politics/2026/11/07/stephen-millers-promotion-sets-stage-new-era-confrontation/",
+          "published": "2026-11-08T01:11:18+00:00"
         },
         {
-          "title_ko": "역사적 투표율이 민주당 '블루 웨이브' 이끌었다",
-          "title_original": "Historic voter turnout powered Democrats’ blue wave",
-          "summary_ko": "이번 중간선거 투표율이 100여 년 만에 두 번째로 높은 수준을 기록했다. 높은 투표율이 민주당의 예상 밖 승리를 견인한 것으로 나타났다.",
+          "title_ko": "제프리스 \"민주당, 메디케이드 삭감·이란 전쟁·관세 정조준할 것\"",
+          "title_original": "Democrats will take aim at Medicaid cuts, Iran war and tariffs, Jeffries says",
+          "summary_ko": "중간선거 이후 하원 민주당 지도자 하킴 제프리스가 새 회기에서 메디케이드 삭감, 이란 전쟁, 관세 문제를 집중적으로 다루겠다고 밝혔습니다. 트럼프 대통령의 거부권 행사 가능성에 직면한 그는 공화당의 협조를 구하겠다는 입장입니다.",
           "category": "정치",
-          "url": "https://www.washingtonpost.com/politics/2026/11/07/historic-voter-turnout-powered-democrats-blue-wave/",
-          "published": "2026-11-07T10:00:00+00:00"
+          "url": "https://www.washingtonpost.com/politics/2026/11/08/democrats-will-take-aim-medicaid-cuts-iran-war-tariffs-jeffries-says/",
+          "published": "2026-11-08T22:00:00+00:00"
         },
         {
-          "title_ko": "민주당 압승 이후 투자자들이 AI 기업 주식을 내던지는 이유",
-          "title_original": "Why investors are dumping AI company stocks after Democrats’ election sweep",
-          "summary_ko": "민주당의 중간선거 압승 이후 투자자들은 데이터센터 건설이 둔화될 것을 우려하고 있다. AI 산업의 투자 계산이 더 이상 맞지 않게 되면 미국 경제 전반이 타격을 받을 수 있다는 점에서 주목된다.",
-          "category": "경제",
-          "url": "https://www.washingtonpost.com/business/2026/11/06/investors-dumping-ai-company-stocks-fears-democrats-will-stop-data-centers/",
-          "published": "2026-11-06T23:02:04+00:00"
+          "title_ko": "엔비디아 이사회, 중국 스파이 의혹 인물과의 관계 두고 젠슨 황 CEO 조사",
+          "title_original": "Nvidia board to investigate CEO over relationship with suspected Chinese spy",
+          "summary_ko": "엔비디아 이사회가 중국 스파이로 의심되는 인물과의 관계를 이유로 젠슨 황 CEO에 대한 독립 조사에 착수했습니다. 황 CEO는 일요일 아내에게 불충실했다고 인정하며 회사와 고객, 직원들에게 사과했습니다. 세계 최대 AI 반도체 기업 수장을 둘러싼 사안이라 파장이 주목됩니다.",
+          "category": "기술",
+          "url": "https://www.washingtonpost.com/business/2026/11/08/nvidia-opens-investigation-into-ceo-over-relationship-with-suspected-chinese-spy/",
+          "published": "2026-11-08T23:21:12+00:00"
         },
         {
-          "title_ko": "트럼프, 법무부에 민주당 수사 촉구",
-          "title_original": "Trump calls for Justice Department to investigate Democrats",
-          "summary_ko": "트럼프 대통령이 법무부에 민주당을 수사하라고 요구했다. 민주당이 트럼프 2기 행정부에 대한 전방위 조사를 예고한 가운데 나온 것으로, 여야 간 정면충돌이 예상된다.",
-          "category": "정치",
-          "url": "https://www.washingtonpost.com/politics/2026/11/07/trump-calls-justice-department-investigate-democrats/",
-          "published": "2026-11-07T19:00:00+00:00"
-        },
-        {
-          "title_ko": "네타냐후 반대파 가디 아이젠코트 전 참모총장, 이스라엘 정부 구성권 획득",
+          "title_ko": "네타냐후 대항마 아이젠코트 전 군 참모총장, 이스라엘 정부 구성권 확보",
           "title_original": "Ex-military chief Gadi Eisenkot, opponent of Netanyahu, tapped to form government",
-          "summary_ko": "네타냐후 총리의 반대 진영인 가디 아이젠코트 전 이스라엘군 참모총장이 정부 구성 권한을 받았다. 그는 28일 안에 연정을 꾸려야 하며 최대 14일 연장이 가능하고, 실패할 경우 네타냐후 총리에게 기회가 넘어갈 가능성이 크다.",
+          "summary_ko": "베냐민 네타냐후 총리의 반대파인 가디 아이젠코트 전 이스라엘군 참모총장이 정부 구성을 위임받았습니다. 그는 28일 안에 연립정부를 꾸려야 하며 최대 14일 연장이 가능합니다. 실패할 경우 네타냐후 총리에게 기회가 넘어갈 가능성이 큽니다.",
           "category": "국제",
           "url": "https://www.washingtonpost.com/world/2026/11/07/israeli-president-taps-ex-general-eisenkot-opponent-netanyahu-form-government/",
           "published": "2026-11-07T22:18:09+00:00"
+        },
+        {
+          "title_ko": "폴란드 크라쿠프서 총기 난사로 6명 사망…용의자 자택서 시신 3구 추가 발견",
+          "title_original": "Mass shooter kills six in Poland, and three bodies are found at suspect’s home",
+          "summary_ko": "폴란드 크라쿠프 구시가지에서 총격범이 총기를 난사해 6명이 숨지고 15명이 다쳤으며, 용의자의 집에서 시신 3구가 추가로 발견됐습니다. 당국은 용의자가 극우 이념에 심취해 있었다고 밝혔습니다.",
+          "category": "국제",
+          "url": "https://www.washingtonpost.com/world/2026/11/08/six-dead-poland-shooting-three-bodies-found-suspects-home/",
+          "published": "2026-11-08T13:39:41+00:00"
         }
       ]
     },
@@ -102,44 +102,44 @@
       "name_en": "The Korea Economic Daily",
       "articles": [
         {
-          "title_ko": "하루 만에 4800조 원 증발… 세계 증시 덮친 '블루 쓰나미' 충격",
+          "title_ko": "미 민주당 승리로 AI 규제 우려…나스닥 시가총액 하루 새 2조5000억달러 증발",
           "title_original": null,
-          "summary_ko": "이른바 '블루 쓰나미' 충격으로 세계 증시에서 하루 만에 시가총액 약 4800조 원이 사라졌습니다. 글로벌 금융시장 전반이 크게 흔들렸다는 점에서 투자자들의 주목을 받고 있습니다.",
+          "summary_ko": "미국 선거에서 민주당이 승리하면서 AI 규제가 강화될 수 있다는 우려가 커졌습니다. 이 여파로 나스닥 시가총액이 하루 만에 2조5000억달러 사라졌습니다. AI 투자심리 위축이 글로벌 증시와 관련 산업에 영향을 줄 수 있다는 점에서 주목됩니다.",
           "category": "국제",
-          "url": "https://www.hankyung.com/article/2026110722767",
-          "published": "2026-11-07T07:50:26+00:00"
+          "url": "https://www.hankyung.com/article/202611093708i",
+          "published": "2026-11-08T23:05:59+00:00"
         },
         {
-          "title_ko": "'블루 웨이브 쇼크'에 휘청인 코스피… 반등의 열쇠는",
+          "title_ko": "\"투자보다 생존\"…월급 줄 돈 빌리는 기업 급증",
           "title_original": null,
-          "summary_ko": "'블루 웨이브 쇼크'로 코스피가 크게 흔들렸습니다. 기사는 다음 주 증시 전망과 함께 지수 반등의 조건을 짚었습니다.",
-          "category": "금융",
-          "url": "https://www.hankyung.com/article/2026110609346",
-          "published": "2026-11-07T23:00:05+00:00"
+          "summary_ko": "투자가 아니라 직원 급여 같은 운영자금을 마련하려고 돈을 빌리는 기업이 크게 늘고 있습니다. 기업들이 성장보다 생존을 우선하는 상황에 놓였음을 보여 주며, 실물경기 악화를 드러내는 신호로 읽힙니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026110832801",
+          "published": "2026-11-08T09:16:28+00:00"
         },
         {
-          "title_ko": "\"주주는 피눈물인데 직원은 7억?\"… 삼성 성과급 둘러싼 갑론을박",
+          "title_ko": "경제지표와 체감경기 격차 '사상 최대'",
           "title_original": null,
-          "summary_ko": "주가 하락으로 주주들이 손실을 보는 가운데, 삼성 직원 성과급이 7억 원 수준이라는 이야기가 나오면서 논란이 일고 있습니다. 기업 성과 보상과 주주 이익 사이의 형평성 문제가 쟁점으로 떠올랐습니다.",
+          "summary_ko": "공식 경제지표와 국민이 실제로 느끼는 경기 사이의 괴리가 사상 최대 수준으로 벌어졌습니다. 지표만으로는 서민 경제의 어려움이 제대로 드러나지 않는다는 점에서 정책 판단에 시사점을 줍니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/2026110833121",
+          "published": "2026-11-08T08:46:50+00:00"
+        },
+        {
+          "title_ko": "삼성전자 보유 현금 사상 첫 200조원 돌파",
+          "title_original": null,
+          "summary_ko": "삼성전자의 보유 현금이 처음으로 200조원을 넘어섰습니다. 국내 최대 기업이 막대한 현금을 쌓아 두면서 향후 투자와 인수합병 등 활용 방안에 관심이 쏠립니다.",
           "category": "산업",
-          "url": "https://www.hankyung.com/article/202611072406H",
-          "published": "2026-11-07T21:00:01+00:00"
+          "url": "https://www.hankyung.com/article/2026110833367",
+          "published": "2026-11-08T09:14:23+00:00"
         },
         {
-          "title_ko": "\"국내 증시는 이제 그만\"… 서학개미, 일주일 새 3조 원 '폭풍 매수'",
+          "title_ko": "'마스가' 속도 붙나…미 해군·해병대 고위급, 울산 조선소 방문",
           "title_original": null,
-          "summary_ko": "국내 증시에서 이탈한 개인투자자들이 일주일 사이 해외 자산을 3조 원어치 사들였습니다. 국내 증시에 대한 실망이 해외 투자로 옮겨 가는 흐름을 보여 줍니다.",
-          "category": "금융",
-          "url": "https://www.hankyung.com/article/2026110721637",
-          "published": "2026-11-07T03:57:50+00:00"
-        },
-        {
-          "title_ko": "400억 원 투입하고도 가동 못 해… 경남 '풍력 시험장' 어쩌나",
-          "title_original": null,
-          "summary_ko": "경남에 400억 원을 들여 조성한 풍력 시험장이 가동조차 하지 못하고 있습니다. 대규모 공공 예산이 투입된 시설이 활용되지 못하고 있어 사업의 실효성에 의문이 제기됩니다.",
+          "summary_ko": "미 해군과 해병대 고위급 인사들이 울산 조선소를 찾았습니다. 한미 조선 협력 프로젝트인 '마스가'에 속도가 붙을 수 있다는 기대가 나오면서 국내 조선업계에 미칠 영향이 주목됩니다.",
           "category": "산업",
-          "url": "https://www.hankyung.com/article/2026110722857",
-          "published": "2026-11-07T08:06:26+00:00"
+          "url": "https://www.hankyung.com/article/2026110935497",
+          "published": "2026-11-08T21:23:19+00:00"
         }
       ]
     }
