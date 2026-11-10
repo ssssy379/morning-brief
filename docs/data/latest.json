@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T09:05:38.931101+09:00",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T09:06:18.179696+09:00",
   "sources": [
     {
       "id": "nyt",
@@ -8,44 +8,44 @@
       "name_en": "The New York Times",
       "articles": [
         {
-          "title_ko": "엔비디아, 젠슨 황 CEO와 중국 스파이의 관계 조사 착수",
-          "title_original": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
-          "summary_ko": "젠슨 황 엔비디아 최고경영자가 미국 당국이 중국 정보기관을 위해 일한다고 판단한 기업인과 친밀한 관계였다고 일요일 인정했고, 엔비디아는 이에 대한 조사에 들어갔습니다. 마코 루비오 국무장관도 지난봄 이 관계를 우려하는 비밀 메모 작성에 관여한 것으로 알려졌습니다. 세계 핵심 기업 수장의 안보 리스크 문제로 파장이 클 전망입니다.",
+          "title_ko": "엔비디아 젠슨 황 CEO 조사 여파로 주가 급락",
+          "title_original": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
+          "summary_ko": "엔비디아의 젠슨 황 최고경영자가 중국 스파이로 의심받는 여성 사업가와의 관계를 인정한 뒤, 회사가 조사에 착수하면서 주가가 크게 떨어졌습니다. AI 반도체 산업을 대표하는 기업의 수장이 안보 문제와 얽힌 스캔들에 휘말리면서 시장과 정책 양쪽에 파장이 커지고 있습니다.",
           "category": "기술",
-          "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
-          "published": "2026-11-08T23:51:34+00:00"
+          "url": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+          "published": "2026-11-09T21:23:34+00:00"
         },
         {
-          "title_ko": "선거로 분명해진 민심, 그러나 트럼프와 미국의 앞날은 불투명",
-          "title_original": "For Trump and America, a Clear Election Verdict but a Murky Future",
-          "summary_ko": "미국인들이 놀라운 새 정치 현실을 받아들이는 가운데, 유권자들이 사실상 대통령에게 등을 돌린 시점과 그의 임기가 실제로 끝나는 시점 사이에 간극이 생겼습니다. 선거 결과는 명확하지만 그 이후 정국의 향방은 여전히 불확실하다는 분석입니다.",
+          "title_ko": "트럼프, 중간선거 결과 의문 제기하며 다시 '부정선거' 주장",
+          "title_original": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results",
+          "summary_ko": "처음에는 중간선거 결과를 받아들이겠다고 했던 트럼프 대통령이 투표가 조작됐다는 근거 없는 주장을 다시 꺼냈습니다. 선거 결과의 정당성을 흔드는 대통령의 발언이라 정치적 파장이 클 수 있습니다.",
           "category": "정치",
-          "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html",
-          "published": "2026-11-08T16:25:45+00:00"
+          "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
+          "published": "2026-11-09T18:37:12+00:00"
         },
         {
-          "title_ko": "미 법무부, 코미 기밀유출 사건에서 뉴욕타임스를 공모자로 지목하는 방안 검토",
-          "title_original": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
-          "summary_ko": "법무부가 제임스 코미 관련 유출 사건에서 뉴욕타임스를 공모자로 명시하는 방안을 검토한 것으로 나타났습니다. 실제 어떻게 진행할지는 불분명하지만, 실행될 경우 트럼프 행정부의 언론 공격이 크게 격화되는 조치가 됩니다.",
+          "title_ko": "토머스 매시 의원, 헤그세스 국방장관 탄핵 표결 강행 추진",
+          "title_original": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
+          "summary_ko": "공화당 소속 토머스 매시 하원의원(켄터키)이 피트 헤그세스 탄핵안 표결 절차를 개시해, 하원은 수요일까지 표결해야 합니다. 하원이 탄핵소추안을 가결하면 상원에서 탄핵 심판이 열리게 됩니다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
+          "published": "2026-11-09T22:35:05+00:00"
+        },
+        {
+          "title_ko": "법원 명령에도 이민자들 조직적으로 본국 송환",
+          "title_original": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
+          "summary_ko": "트럼프 행정부와 협력하는 외국 파트너 국가들이 추방자를 받아들인 뒤, 미국이 직접 보낼 수 없도록 금지된 나라로 이들을 다시 보내고 있습니다. 법원 명령을 사실상 우회하는 방식이라는 점에서 문제가 되고 있습니다.",
           "category": "사회",
-          "url": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
-          "published": "2026-11-08T22:59:31+00:00"
+          "url": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
+          "published": "2026-11-09T21:54:45+00:00"
         },
         {
-          "title_ko": "네타냐후 경쟁자 아이젠코트, 이스라엘 연정 구성권 확보",
-          "title_original": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
-          "summary_ko": "전 군 참모총장 출신의 야당 지도자 가디 아이젠코트가 결론이 나지 않은 총선 이후 정부 구성 임무를 맡았습니다. 그는 최대 6주 안에 연립정부를 꾸려 베냐민 네타냐후 총리를 대체하려 하지만 장애물이 만만치 않습니다.",
+          "title_ko": "우크라이나 평화협상, 이번 주 아부다비서 재개",
+          "title_original": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+          "summary_ko": "러시아·우크라이나 전쟁 종식을 위한 미국 주도 협상이 이번 주 아랍에미리트 아부다비에서 다시 열립니다. 다만 이번 협상에서 휴전은 의제에 오르지 않습니다.",
           "category": "국제",
-          "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-          "published": "2026-11-08T09:41:56+00:00"
-        },
-        {
-          "title_ko": "제프리스, 헤그세스 탄핵 지지…민주당 책임 추궁 본격화",
-          "title_original": "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
-          "summary_ko": "하킴 제프리스 민주당 하원 원내대표가 피트 헤그세스 탄핵을 지지하고 나섰습니다. 민주당은 트럼프 행정부를 겨냥한 강도 높은 감독 의제의 기반을 다지고 있으며, 새 의회 출범 전에 정치적 심판이 먼저 닥칠 수도 있다는 관측입니다.",
-          "category": "정치",
-          "url": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
-          "published": "2026-11-08T19:22:53+00:00"
+          "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+          "published": "2026-11-09T15:08:54+00:00"
         }
       ]
     },
@@ -55,44 +55,44 @@
       "name_en": "The Washington Post",
       "articles": [
         {
-          "title_ko": "트럼프, 스티븐 밀러를 비서실장에 기용…'대결의 시대' 예고",
-          "title_original": "Stephen Miller’s promotion sets the stage for a new era of confrontation",
-          "summary_ko": "트럼프 대통령이 수지 와일스 비서실장의 후임으로 스티븐 밀러를 임명했습니다. 민주당이 의회 장악을 앞둔 상황에서 이번 인사는 타협보다 이념 대결에 무게를 두겠다는 신호로 풀이되며, 행정부와 의회의 충돌이 격화될 가능성을 보여줍니다.",
-          "category": "정치",
-          "url": "https://www.washingtonpost.com/politics/2026/11/07/stephen-millers-promotion-sets-stage-new-era-confrontation/",
-          "published": "2026-11-08T01:11:18+00:00"
-        },
-        {
-          "title_ko": "제프리스 \"민주당, 메디케이드 삭감·이란 전쟁·관세 정조준할 것\"",
-          "title_original": "Democrats will take aim at Medicaid cuts, Iran war and tariffs, Jeffries says",
-          "summary_ko": "중간선거 이후 하원 민주당 지도자 하킴 제프리스가 새 회기에서 메디케이드 삭감, 이란 전쟁, 관세 문제를 집중적으로 다루겠다고 밝혔습니다. 트럼프 대통령의 거부권 행사 가능성에 직면한 그는 공화당의 협조를 구하겠다는 입장입니다.",
-          "category": "정치",
-          "url": "https://www.washingtonpost.com/politics/2026/11/08/democrats-will-take-aim-medicaid-cuts-iran-war-tariffs-jeffries-says/",
-          "published": "2026-11-08T22:00:00+00:00"
-        },
-        {
-          "title_ko": "엔비디아 이사회, 중국 스파이 의혹 인물과의 관계 두고 젠슨 황 CEO 조사",
+          "title_ko": "엔비디아 이사회, '중국 스파이 의혹' 여성과의 관계 놓고 젠슨 황 CEO 조사 착수",
           "title_original": "Nvidia board to investigate CEO over relationship with suspected Chinese spy",
-          "summary_ko": "엔비디아 이사회가 중국 스파이로 의심되는 인물과의 관계를 이유로 젠슨 황 CEO에 대한 독립 조사에 착수했습니다. 황 CEO는 일요일 아내에게 불충실했다고 인정하며 회사와 고객, 직원들에게 사과했습니다. 세계 최대 AI 반도체 기업 수장을 둘러싼 사안이라 파장이 주목됩니다.",
-          "category": "기술",
+          "summary_ko": "엔비디아 이사회가 중국 스파이로 의심되는 인물과의 관계를 둘러싸고 젠슨 황 CEO에 대한 조사에 나섰다. 황 CEO는 일요일 아내에게 부정을 저질렀다고 인정하고 회사와 고객들에게 사과했다. 세계 최대 AI 칩 기업 수장의 거취와 보안 문제가 걸린 사안이다.",
+          "category": "산업",
           "url": "https://www.washingtonpost.com/business/2026/11/08/nvidia-opens-investigation-into-ceo-over-relationship-with-suspected-chinese-spy/",
-          "published": "2026-11-08T23:21:12+00:00"
+          "published": "2026-11-09T01:10:21+00:00"
         },
         {
-          "title_ko": "네타냐후 대항마 아이젠코트 전 군 참모총장, 이스라엘 정부 구성권 확보",
-          "title_original": "Ex-military chief Gadi Eisenkot, opponent of Netanyahu, tapped to form government",
-          "summary_ko": "베냐민 네타냐후 총리의 반대파인 가디 아이젠코트 전 이스라엘군 참모총장이 정부 구성을 위임받았습니다. 그는 28일 안에 연립정부를 꾸려야 하며 최대 14일 연장이 가능합니다. 실패할 경우 네타냐후 총리에게 기회가 넘어갈 가능성이 큽니다.",
-          "category": "국제",
-          "url": "https://www.washingtonpost.com/world/2026/11/07/israeli-president-taps-ex-general-eisenkot-opponent-netanyahu-form-government/",
-          "published": "2026-11-07T22:18:09+00:00"
+          "title_ko": "하원서 헤그세스 국방장관 탄핵 추진 시작… 이란 전쟁이 핵심 쟁점",
+          "title_original": "Hegseth impeachment effort begins in House, focused on Iran war",
+          "summary_ko": "공화당 소속 토머스 매시 하원의원이 피트 헤그세스 국방장관에 대한 탄핵소추안을 발의했다. 소추안은 헤그세스 장관이 권한을 '남용'하고 불법적인 명령을 알면서도 집행했다고 주장하며, 이란 전쟁 관련 사안에 초점을 맞추고 있다. 여당 의원이 현직 국방장관 탄핵을 주도한다는 점에서 이례적이다.",
+          "category": "정치",
+          "url": "https://www.washingtonpost.com/national-security/2026/11/09/hegseth-impeachment-effort-begins-house-focused-iran-war/",
+          "published": "2026-11-09T23:43:47+00:00"
         },
         {
-          "title_ko": "폴란드 크라쿠프서 총기 난사로 6명 사망…용의자 자택서 시신 3구 추가 발견",
-          "title_original": "Mass shooter kills six in Poland, and three bodies are found at suspect’s home",
-          "summary_ko": "폴란드 크라쿠프 구시가지에서 총격범이 총기를 난사해 6명이 숨지고 15명이 다쳤으며, 용의자의 집에서 시신 3구가 추가로 발견됐습니다. 당국은 용의자가 극우 이념에 심취해 있었다고 밝혔습니다.",
+          "title_ko": "아부다비 우크라이나 평화회담 앞두고 미국, 러시아에 '선물'",
+          "title_original": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi",
+          "summary_ko": "우크라이나 평화회담이 아부다비에서 시작되기에 앞서 미국 협상단이 유럽 안보에 관한 더 포괄적인 합의를 요구하고 나섰다. 유럽 당국자와 전문가들은 이 요구가 크렘린의 주장과 닮았다며 러시아에 초반 승리를 안겨준 것이라고 우려하고 있다.",
           "category": "국제",
-          "url": "https://www.washingtonpost.com/world/2026/11/08/six-dead-poland-shooting-three-bodies-found-suspects-home/",
-          "published": "2026-11-08T13:39:41+00:00"
+          "url": "https://www.washingtonpost.com/world/2026/11/09/us-gives-russia-an-early-win-even-before-ukraine-peace-talks-begin-abu-dhabi/",
+          "published": "2026-11-09T21:22:11+00:00"
+        },
+        {
+          "title_ko": "트럼프 \"연준 의장과 통화했다\"지만 워시 의장 일정표엔 기록 없어",
+          "title_original": "Trump talked with Fed chief, but there’s no record of it on Warsh’s calendar",
+          "summary_ko": "트럼프 대통령은 연방준비제도 회의에서 어떻게 표결할지를 두고 케빈 워시 연준 의장과 대화했다고 밝혔지만, 워시 의장의 9월 일정표에는 해당 대화가 반영돼 있지 않았다. 대통령의 통화정책 개입 논란과 연준 독립성 문제로 이어질 수 있는 사안이다.",
+          "category": "경제",
+          "url": "https://www.washingtonpost.com/business/2026/11/09/fed-kevin-warsh-calendar-shows-no-trump-calls-trump-says-they-talked/",
+          "published": "2026-11-09T10:00:00+00:00"
+        },
+        {
+          "title_ko": "연방대법원, 텍사스 국경 보안 사업 핵심 구간 허용",
+          "title_original": "Supreme Court allows major part of Trump’s border security project in Texas",
+          "summary_ko": "연방대법원이 트럼프 행정부의 텍사스 국경 보안 사업 중 주요 부분의 진행을 허용했다. 해당 사업은 빅벤드 국립공원 일대에 500마일이 넘는 도로와 카메라, 차량 차단벽, 센서를 설치하는 것으로, 사업 전체에서 가장 긴 구간 중 하나다.",
+          "category": "사회",
+          "url": "https://www.washingtonpost.com/politics/2026/11/09/supreme-court-allows-major-part-trumps-border-security-project-texas/",
+          "published": "2026-11-09T23:49:14+00:00"
         }
       ]
     },
@@ -102,44 +102,44 @@
       "name_en": "The Korea Economic Daily",
       "articles": [
         {
-          "title_ko": "미 민주당 승리로 AI 규제 우려…나스닥 시가총액 하루 새 2조5000억달러 증발",
+          "title_ko": "민주당, 상원 장악…트럼프의 '중앙은행 장악 구상'에 제동",
           "title_original": null,
-          "summary_ko": "미국 선거에서 민주당이 승리하면서 AI 규제가 강화될 수 있다는 우려가 커졌습니다. 이 여파로 나스닥 시가총액이 하루 만에 2조5000억달러 사라졌습니다. AI 투자심리 위축이 글로벌 증시와 관련 산업에 영향을 줄 수 있다는 점에서 주목됩니다.",
+          "summary_ko": "민주당이 상원 다수당 지위를 확보하면서 트럼프 대통령의 중앙은행 장악 구상에 제동이 걸렸습니다. 중앙은행 독립성과 미국 통화정책의 향방에 영향을 줄 수 있는 정치 지형 변화라는 점에서 주목됩니다.",
           "category": "국제",
-          "url": "https://www.hankyung.com/article/202611093708i",
-          "published": "2026-11-08T23:05:59+00:00"
+          "url": "https://www.hankyung.com/article/202611106514i",
+          "published": "2026-11-09T23:47:48+00:00"
         },
         {
-          "title_ko": "\"투자보다 생존\"…월급 줄 돈 빌리는 기업 급증",
+          "title_ko": "엔비디아, '스파이와 불륜' 스캔들에 시가총액 3500억달러 증발",
           "title_original": null,
-          "summary_ko": "투자가 아니라 직원 급여 같은 운영자금을 마련하려고 돈을 빌리는 기업이 크게 늘고 있습니다. 기업들이 성장보다 생존을 우선하는 상황에 놓였음을 보여 주며, 실물경기 악화를 드러내는 신호로 읽힙니다.",
+          "summary_ko": "엔비디아가 '스파이와 불륜' 논란에 휩싸이며 시가총액 3500억달러가 사라졌습니다. 젠슨 황 CEO가 이사회 조사를 받는 가운데 후계자 이야기까지 거론되고 있습니다. AI 산업을 대표하는 기업의 리더십 리스크라는 점에서 코어위브 등 관련 기업과 시장 전반에 파장이 우려됩니다.",
+          "category": "기술",
+          "url": "https://www.hankyung.com/article/202611106310i",
+          "published": "2026-11-09T23:02:49+00:00"
+        },
+        {
+          "title_ko": "中, 희토류 수출통제 면제 2개월 연장…미·중 무역휴전 지속",
+          "title_original": null,
+          "summary_ko": "중국이 희토류 수출통제 면제 조치를 2개월 연장했습니다. 이에 따라 미·중 간 무역휴전이 당분간 이어지게 됐으며, 희토류 공급망에 의존하는 글로벌 산업계의 불확실성도 일단 줄어들 전망입니다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/202611095990i",
+          "published": "2026-11-09T10:56:45+00:00"
+        },
+        {
+          "title_ko": "국제유가, 5년 만에 최대 주간 하락…외교적 타결 기대감 확산",
+          "title_original": null,
+          "summary_ko": "국제유가가 5년 만에 가장 큰 주간 하락폭을 기록했습니다. 외교적 타결에 대한 낙관론이 커진 데다 중동 산유국들이 원유 할인 경쟁을 벌이면서 종전 이후 공급과잉이 확대될 수 있다는 관측도 나옵니다.",
           "category": "경제",
-          "url": "https://www.hankyung.com/article/2026110832801",
-          "published": "2026-11-08T09:16:28+00:00"
+          "url": "https://www.hankyung.com/article/202611096082i",
+          "published": "2026-11-09T13:58:58+00:00"
         },
         {
-          "title_ko": "경제지표와 체감경기 격차 '사상 최대'",
+          "title_ko": "머스크 '테라팹' 속도전…한·일 반도체 장비업체에 대형 수주 기회",
           "title_original": null,
-          "summary_ko": "공식 경제지표와 국민이 실제로 느끼는 경기 사이의 괴리가 사상 최대 수준으로 벌어졌습니다. 지표만으로는 서민 경제의 어려움이 제대로 드러나지 않는다는 점에서 정책 판단에 시사점을 줍니다.",
-          "category": "경제",
-          "url": "https://www.hankyung.com/article/2026110833121",
-          "published": "2026-11-08T08:46:50+00:00"
-        },
-        {
-          "title_ko": "삼성전자 보유 현금 사상 첫 200조원 돌파",
-          "title_original": null,
-          "summary_ko": "삼성전자의 보유 현금이 처음으로 200조원을 넘어섰습니다. 국내 최대 기업이 막대한 현금을 쌓아 두면서 향후 투자와 인수합병 등 활용 방안에 관심이 쏠립니다.",
+          "summary_ko": "일론 머스크가 반도체를 직접 생산하는 '테라팹' 추진에 속도를 내고 있습니다. 일본에서 장비 조달을 추진하는 등 생산이 초읽기에 들어가면서, 한국과 일본 반도체 장비업체들에 대형 수주 기회가 열릴 것으로 기대됩니다.",
           "category": "산업",
-          "url": "https://www.hankyung.com/article/2026110833367",
-          "published": "2026-11-08T09:14:23+00:00"
-        },
-        {
-          "title_ko": "'마스가' 속도 붙나…미 해군·해병대 고위급, 울산 조선소 방문",
-          "title_original": null,
-          "summary_ko": "미 해군과 해병대 고위급 인사들이 울산 조선소를 찾았습니다. 한미 조선 협력 프로젝트인 '마스가'에 속도가 붙을 수 있다는 기대가 나오면서 국내 조선업계에 미칠 영향이 주목됩니다.",
-          "category": "산업",
-          "url": "https://www.hankyung.com/article/2026110935497",
-          "published": "2026-11-08T21:23:19+00:00"
+          "url": "https://www.hankyung.com/article/202611095959i",
+          "published": "2026-11-09T10:14:39+00:00"
         }
       ]
     }
