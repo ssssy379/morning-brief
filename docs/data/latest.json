@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T09:06:18.179696+09:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T09:04:21.976246+09:00",
   "sources": [
     {
       "id": "nyt",
@@ -8,44 +8,44 @@
       "name_en": "The New York Times",
       "articles": [
         {
-          "title_ko": "엔비디아 젠슨 황 CEO 조사 여파로 주가 급락",
-          "title_original": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
-          "summary_ko": "엔비디아의 젠슨 황 최고경영자가 중국 스파이로 의심받는 여성 사업가와의 관계를 인정한 뒤, 회사가 조사에 착수하면서 주가가 크게 떨어졌습니다. AI 반도체 산업을 대표하는 기업의 수장이 안보 문제와 얽힌 스캔들에 휘말리면서 시장과 정책 양쪽에 파장이 커지고 있습니다.",
-          "category": "기술",
-          "url": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
-          "published": "2026-11-09T21:23:34+00:00"
-        },
-        {
-          "title_ko": "트럼프, 중간선거 결과 의문 제기하며 다시 '부정선거' 주장",
-          "title_original": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results",
-          "summary_ko": "처음에는 중간선거 결과를 받아들이겠다고 했던 트럼프 대통령이 투표가 조작됐다는 근거 없는 주장을 다시 꺼냈습니다. 선거 결과의 정당성을 흔드는 대통령의 발언이라 정치적 파장이 클 수 있습니다.",
-          "category": "정치",
-          "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
-          "published": "2026-11-09T18:37:12+00:00"
-        },
-        {
-          "title_ko": "토머스 매시 의원, 헤그세스 국방장관 탄핵 표결 강행 추진",
-          "title_original": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
-          "summary_ko": "공화당 소속 토머스 매시 하원의원(켄터키)이 피트 헤그세스 탄핵안 표결 절차를 개시해, 하원은 수요일까지 표결해야 합니다. 하원이 탄핵소추안을 가결하면 상원에서 탄핵 심판이 열리게 됩니다.",
-          "category": "정치",
-          "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
-          "published": "2026-11-09T22:35:05+00:00"
-        },
-        {
-          "title_ko": "법원 명령에도 이민자들 조직적으로 본국 송환",
-          "title_original": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
-          "summary_ko": "트럼프 행정부와 협력하는 외국 파트너 국가들이 추방자를 받아들인 뒤, 미국이 직접 보낼 수 없도록 금지된 나라로 이들을 다시 보내고 있습니다. 법원 명령을 사실상 우회하는 방식이라는 점에서 문제가 되고 있습니다.",
-          "category": "사회",
-          "url": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
-          "published": "2026-11-09T21:54:45+00:00"
-        },
-        {
-          "title_ko": "우크라이나 평화협상, 이번 주 아부다비서 재개",
-          "title_original": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-          "summary_ko": "러시아·우크라이나 전쟁 종식을 위한 미국 주도 협상이 이번 주 아랍에미리트 아부다비에서 다시 열립니다. 다만 이번 협상에서 휴전은 의제에 오르지 않습니다.",
+          "title_ko": "트럼프, 부인과 달리 방중 당시 '엔비디아 젠슨 황 감시' 보고 받아",
+          "title_original": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang",
+          "summary_ko": "젠슨 황 엔비디아 CEO가 베이징행 에어포스원에 탑승하기 전, 트럼프 대통령은 황 CEO가 중국 스파이로 의심되는 여성과 관계를 맺고 있다는 정보를 다시 보고받은 것으로 드러났다. 이는 대통령의 기존 부인과 배치된다. 미 정보당국은 이 여성 앨리스 황을 중국 측 자산으로 판단했으며, 엔비디아는 와크텔 립턴 로펌을 고용해 CEO의 관계에 대한 내부 조사에 착수했다. 세계 최대 AI 칩 기업을 둘러싼 안보 스캔들로 파장이 크다.",
           "category": "국제",
-          "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-          "published": "2026-11-09T15:08:54+00:00"
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
+          "published": "2026-11-10T19:27:59+00:00"
+        },
+        {
+          "title_ko": "루비오 \"이란 전쟁, 대규모 전투 작전은 더 이상 필요 없어\"",
+          "title_original": "Rubio Says ‘Major Combat Operations’ in Iran War Are No Longer Needed",
+          "summary_ko": "마코 루비오 국무장관은 미국의 경제적 압박이 이란 지도부에 충분한 타격을 주고 있어 대규모 전투 작전은 더 이상 필요하지 않다고 밝혔다. 트럼프 행정부 핵심 참모들은 전쟁 종식 전략을 두고 이견을 보이고 있으며, 확전·제한적 타격·외교 등 여러 선택지를 저울질하고 있다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
+          "published": "2026-11-10T19:33:48+00:00"
+        },
+        {
+          "title_ko": "선거 참패 공화당, 하원 조던·상원 튠을 지도부로 선출",
+          "title_original": "Stung by Losses, G.O.P. Chooses Jordan and Thune as Leaders",
+          "summary_ko": "수십 년 만의 최대 선거 패배를 겪은 공화당이 새 지도부를 꾸렸다. 하원에서는 새로운 리더십을 원한다는 신호를 보내며 짐 조던을 선택했고, 상원에서는 현 지도자인 존 튠을 재선출했다. 선거 이후 공화당의 노선과 의회 운영 방향을 가늠할 수 있는 변화다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
+          "published": "2026-11-10T23:21:54+00:00"
+        },
+        {
+          "title_ko": "앤트로픽 초대형 IPO, 엔비디아와 관계 한층 강화",
+          "title_original": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
+          "summary_ko": "엔비디아가 앤트로픽의 기업공개(IPO)에 맞춰 100억 달러를 투자할 계획이다. 이는 여러 대기업이 이 AI 기업에 새로 약속한 투자 중 최대 규모다. 앤트로픽의 최대 투자자인 아마존과 구글도 보유 지분 가치가 수천억 달러 늘어날 수 있어 AI 산업 판도에 큰 영향을 미칠 전망이다.",
+          "category": "기술",
+          "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
+          "published": "2026-11-10T22:03:38+00:00"
+        },
+        {
+          "title_ko": "헤그세스 국방장관, 탄핵소추안 관련 수개월 만에 기자회견서 반박",
+          "title_original": "On the Defense: Takeaways From Hegseth’s Remarks on Articles of Impeachment",
+          "summary_ko": "피트 헤그세스 국방장관이 수개월간 이어진 브리핑 공백을 깨고 기자회견을 열어 탄핵소추안에 맞서 자신의 재임 실적을 방어했다. 하원 공화당은 헤그세스 탄핵안 처리를 보류한 것으로 전해졌다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
+          "published": "2026-11-10T23:48:02+00:00"
         }
       ]
     },
@@ -55,44 +55,44 @@
       "name_en": "The Washington Post",
       "articles": [
         {
-          "title_ko": "엔비디아 이사회, '중국 스파이 의혹' 여성과의 관계 놓고 젠슨 황 CEO 조사 착수",
-          "title_original": "Nvidia board to investigate CEO over relationship with suspected Chinese spy",
-          "summary_ko": "엔비디아 이사회가 중국 스파이로 의심되는 인물과의 관계를 둘러싸고 젠슨 황 CEO에 대한 조사에 나섰다. 황 CEO는 일요일 아내에게 부정을 저질렀다고 인정하고 회사와 고객들에게 사과했다. 세계 최대 AI 칩 기업 수장의 거취와 보안 문제가 걸린 사안이다.",
-          "category": "산업",
-          "url": "https://www.washingtonpost.com/business/2026/11/08/nvidia-opens-investigation-into-ceo-over-relationship-with-suspected-chinese-spy/",
-          "published": "2026-11-09T01:10:21+00:00"
-        },
-        {
-          "title_ko": "하원서 헤그세스 국방장관 탄핵 추진 시작… 이란 전쟁이 핵심 쟁점",
-          "title_original": "Hegseth impeachment effort begins in House, focused on Iran war",
-          "summary_ko": "공화당 소속 토머스 매시 하원의원이 피트 헤그세스 국방장관에 대한 탄핵소추안을 발의했다. 소추안은 헤그세스 장관이 권한을 '남용'하고 불법적인 명령을 알면서도 집행했다고 주장하며, 이란 전쟁 관련 사안에 초점을 맞추고 있다. 여당 의원이 현직 국방장관 탄핵을 주도한다는 점에서 이례적이다.",
+          "title_ko": "하원 민주당 의석, 현대 최다 기록에 근접",
+          "title_original": "House Democrats’ majority approaches a modern record",
+          "summary_ko": "중간선거 결과 민주당은 하원에서 이미 최소 254석을 확보했으며, 당 지도부는 최종적으로 260석 가까이 얻을 수 있다고 보고 있다. 현대 정치사에서 기록적인 수준의 다수당이 될 것으로 보여 향후 의회 권력 구도에 큰 변화가 예상된다.",
           "category": "정치",
-          "url": "https://www.washingtonpost.com/national-security/2026/11/09/hegseth-impeachment-effort-begins-house-focused-iran-war/",
-          "published": "2026-11-09T23:43:47+00:00"
+          "url": "https://www.washingtonpost.com/politics/2026/11/10/house-democrats-majority-approaches-modern-record/",
+          "published": "2026-11-10T20:00:00+00:00"
         },
         {
-          "title_ko": "아부다비 우크라이나 평화회담 앞두고 미국, 러시아에 '선물'",
-          "title_original": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi",
-          "summary_ko": "우크라이나 평화회담이 아부다비에서 시작되기에 앞서 미국 협상단이 유럽 안보에 관한 더 포괄적인 합의를 요구하고 나섰다. 유럽 당국자와 전문가들은 이 요구가 크렘린의 주장과 닮았다며 러시아에 초반 승리를 안겨준 것이라고 우려하고 있다.",
+          "title_ko": "러시아·우크라이나, 아부다비서 미국 지원 평화협상 개시",
+          "title_original": "Russia and Ukraine begin U.S.-backed peace talks in Abu Dhabi",
+          "summary_ko": "러시아와 우크라이나가 미국의 지원 아래 아부다비에서 평화협상을 시작했다. 협상에서는 유럽 안보 전반에 대한 폭넓은 논의도 이뤄질 예정인데, 이는 유럽 안보에 더 큰 발언권을 가지려는 러시아의 핵심 목표를 사실상 수용하는 위험한 행보라는 평가가 나온다.",
           "category": "국제",
-          "url": "https://www.washingtonpost.com/world/2026/11/09/us-gives-russia-an-early-win-even-before-ukraine-peace-talks-begin-abu-dhabi/",
-          "published": "2026-11-09T21:22:11+00:00"
+          "url": "https://www.washingtonpost.com/world/2026/11/10/russia-ukraine-begin-us-backed-peace-talks-abu-dhabi/",
+          "published": "2026-11-10T18:40:33+00:00"
         },
         {
-          "title_ko": "트럼프 \"연준 의장과 통화했다\"지만 워시 의장 일정표엔 기록 없어",
-          "title_original": "Trump talked with Fed chief, but there’s no record of it on Warsh’s calendar",
-          "summary_ko": "트럼프 대통령은 연방준비제도 회의에서 어떻게 표결할지를 두고 케빈 워시 연준 의장과 대화했다고 밝혔지만, 워시 의장의 9월 일정표에는 해당 대화가 반영돼 있지 않았다. 대통령의 통화정책 개입 논란과 연준 독립성 문제로 이어질 수 있는 사안이다.",
+          "title_ko": "트럼프 \"엔비디아 CEO, 내연녀가 중국 스파이인 줄 몰랐다고 해명\"",
+          "title_original": "Trump says Nvidia CEO denied knowing woman he had affair with was a Chinese spy",
+          "summary_ko": "트럼프 대통령은 월요일 젠슨 황 엔비디아 CEO와 통화했으며, 황이 상대 여성이 중국 스파이라는 사실을 알지 못했다고 부인했다고 밝혔다. 황 CEO는 자사 AI 칩 고객사 관계자와의 불륜을 인정했으며, 이 사건은 글로벌 기술 업계를 뒤흔들고 있다.",
+          "category": "기술",
+          "url": "https://www.washingtonpost.com/technology/2026/11/09/china-dismisses-reports-plot-ensnare-nvidia-ceo-smear-campaign/",
+          "published": "2026-11-09T23:10:47+00:00"
+        },
+        {
+          "title_ko": "10월 물가 상승세 둔화됐지만 가격 부담은 여전",
+          "title_original": "Inflation pace slowed in October, but prices remain high",
+          "summary_ko": "10월 인플레이션 속도가 둔화됐으며, 휘발유 가격 하락이 물가 상승폭 축소에 기여했다. 다만 식품 가격은 오히려 상승세를 보였고, 전반적인 물가 수준은 여전히 높은 상태다.",
           "category": "경제",
-          "url": "https://www.washingtonpost.com/business/2026/11/09/fed-kevin-warsh-calendar-shows-no-trump-calls-trump-says-they-talked/",
-          "published": "2026-11-09T10:00:00+00:00"
+          "url": "https://www.washingtonpost.com/business/2026/11/10/inflation-pace-slowed-october-prices-remain-high/",
+          "published": "2026-11-10T15:36:02+00:00"
         },
         {
-          "title_ko": "연방대법원, 텍사스 국경 보안 사업 핵심 구간 허용",
-          "title_original": "Supreme Court allows major part of Trump’s border security project in Texas",
-          "summary_ko": "연방대법원이 트럼프 행정부의 텍사스 국경 보안 사업 중 주요 부분의 진행을 허용했다. 해당 사업은 빅벤드 국립공원 일대에 500마일이 넘는 도로와 카메라, 차량 차단벽, 센서를 설치하는 것으로, 사업 전체에서 가장 긴 구간 중 하나다.",
-          "category": "사회",
-          "url": "https://www.washingtonpost.com/politics/2026/11/09/supreme-court-allows-major-part-trumps-border-security-project-texas/",
-          "published": "2026-11-09T23:49:14+00:00"
+          "title_ko": "하원 공화당, 헤그세스 국방장관 탄핵 시도 저지",
+          "title_original": "Hegseth impeachment effort is blocked by House Republicans",
+          "summary_ko": "같은 공화당 소속 토머스 매시 하원의원이 주도한 피트 헤그세스 국방장관 탄핵 시도가 하원 공화당에 의해 저지됐다. 탄핵이 이뤄졌다면 헤그세스는 역사상 세 번째로 탄핵된 각료가 될 수 있었다.",
+          "category": "정치",
+          "url": "https://www.washingtonpost.com/national-security/2026/11/10/hegseth-defends-his-record-iran-war-impeachment-vote-looms/",
+          "published": "2026-11-10T23:18:06+00:00"
         }
       ]
     },
@@ -102,44 +102,44 @@
       "name_en": "The Korea Economic Daily",
       "articles": [
         {
-          "title_ko": "민주당, 상원 장악…트럼프의 '중앙은행 장악 구상'에 제동",
+          "title_ko": "미국 10월 소비자물가 전월 대비 0.4% 상승…근원 CPI 0.3%↑",
           "title_original": null,
-          "summary_ko": "민주당이 상원 다수당 지위를 확보하면서 트럼프 대통령의 중앙은행 장악 구상에 제동이 걸렸습니다. 중앙은행 독립성과 미국 통화정책의 향방에 영향을 줄 수 있는 정치 지형 변화라는 점에서 주목됩니다.",
+          "summary_ko": "미국의 10월 소비자물가지수(CPI)가 전월보다 0.4% 올랐고, 변동성이 큰 품목을 뺀 근원 CPI는 0.3% 상승했습니다. 물가가 예상을 웃돌면서 시장에서는 금리 인상이 0.25%p에서 끝나지 않을 수 있다는 우려가 커지고 있습니다.",
           "category": "국제",
-          "url": "https://www.hankyung.com/article/202611106514i",
-          "published": "2026-11-09T23:47:48+00:00"
+          "url": "https://www.hankyung.com/article/202611108646i",
+          "published": "2026-11-10T13:36:44+00:00"
         },
         {
-          "title_ko": "엔비디아, '스파이와 불륜' 스캔들에 시가총액 3500억달러 증발",
+          "title_ko": "엔비디아 주가 이틀 새 9.6% 급락…시가총액 약 4300억달러 증발",
           "title_original": null,
-          "summary_ko": "엔비디아가 '스파이와 불륜' 논란에 휩싸이며 시가총액 3500억달러가 사라졌습니다. 젠슨 황 CEO가 이사회 조사를 받는 가운데 후계자 이야기까지 거론되고 있습니다. AI 산업을 대표하는 기업의 리더십 리스크라는 점에서 코어위브 등 관련 기업과 시장 전반에 파장이 우려됩니다.",
-          "category": "기술",
-          "url": "https://www.hankyung.com/article/202611106310i",
-          "published": "2026-11-09T23:02:49+00:00"
+          "summary_ko": "엔비디아 주가가 이틀 동안 9.6% 급락하며 시가총액 약 4300억달러가 사라졌습니다. AI 대표주의 급락은 글로벌 증시와 AI 투자 심리 전반에 부담이 될 수 있다는 점에서 주목됩니다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/2026111187687",
+          "published": "2026-11-10T21:07:06+00:00"
         },
         {
-          "title_ko": "中, 희토류 수출통제 면제 2개월 연장…미·중 무역휴전 지속",
+          "title_ko": "6개월 예금·대출 금리가 1년물보다 높아져…'기준금리 인상' 선반영",
           "title_original": null,
-          "summary_ko": "중국이 희토류 수출통제 면제 조치를 2개월 연장했습니다. 이에 따라 미·중 간 무역휴전이 당분간 이어지게 됐으며, 희토류 공급망에 의존하는 글로벌 산업계의 불확실성도 일단 줄어들 전망입니다.",
-          "category": "국제",
-          "url": "https://www.hankyung.com/article/202611095990i",
-          "published": "2026-11-09T10:56:45+00:00"
+          "summary_ko": "6개월 만기 예금과 대출 금리에 기준금리 인상 전망이 미리 반영되면서 1년 만기 상품보다 금리가 더 높아졌습니다. 만기가 길수록 금리가 높다는 통상적인 공식이 뒤집힌 것으로, 금리 인상기 금융소비자의 자금 운용 전략에 영향을 줄 수 있습니다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/2026111083071",
+          "published": "2026-11-10T09:30:06+00:00"
         },
         {
-          "title_ko": "국제유가, 5년 만에 최대 주간 하락…외교적 타결 기대감 확산",
+          "title_ko": "공정위, '네이버·두나무 합병' 심의 착수…\"10개 시장서 경쟁제한 우려\"",
           "title_original": null,
-          "summary_ko": "국제유가가 5년 만에 가장 큰 주간 하락폭을 기록했습니다. 외교적 타결에 대한 낙관론이 커진 데다 중동 산유국들이 원유 할인 경쟁을 벌이면서 종전 이후 공급과잉이 확대될 수 있다는 관측도 나옵니다.",
-          "category": "경제",
-          "url": "https://www.hankyung.com/article/202611096082i",
-          "published": "2026-11-09T13:58:58+00:00"
-        },
-        {
-          "title_ko": "머스크 '테라팹' 속도전…한·일 반도체 장비업체에 대형 수주 기회",
-          "title_original": null,
-          "summary_ko": "일론 머스크가 반도체를 직접 생산하는 '테라팹' 추진에 속도를 내고 있습니다. 일본에서 장비 조달을 추진하는 등 생산이 초읽기에 들어가면서, 한국과 일본 반도체 장비업체들에 대형 수주 기회가 열릴 것으로 기대됩니다.",
+          "summary_ko": "공정거래위원회가 네이버와 두나무 합병에 대한 심의에 들어갔습니다. 공정위는 10개 시장에서 경쟁 제한 우려가 있다고 보고 있어, 대형 플랫폼과 가상자산 거래소 간 결합의 향방이 주목됩니다.",
           "category": "산업",
-          "url": "https://www.hankyung.com/article/202611095959i",
-          "published": "2026-11-09T10:14:39+00:00"
+          "url": "https://www.hankyung.com/article/2026111083041",
+          "published": "2026-11-10T09:10:57+00:00"
+        },
+        {
+          "title_ko": "9개월 이어진 이란 전쟁 끝 보이나…브렌트유 80달러대로",
+          "title_original": null,
+          "summary_ko": "9개월째 이어진 이란 전쟁의 종결 가능성이 거론되는 가운데 브렌트유 가격이 배럴당 80달러대에 진입했습니다. 국제 유가 흐름은 물가와 에너지 수입 비용에 직결돼 한국 경제에도 중요한 변수입니다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/202611108550i",
+          "published": "2026-11-10T10:46:49+00:00"
         }
       ]
     }
