@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T09:07:48.813227+09:00",
+  "sources": [
+    {
+      "id": "nyt",
+      "name": "뉴욕타임즈",
+      "name_en": "The New York Times",
+      "articles": [
+        {
+          "title_ko": "엔비디아 젠슨 황 CEO 축출… 월가, 막강한 딜메이커를 잃다",
+          "title_original": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
+          "summary_ko": "엔비디아의 젠슨 황 최고경영자가 자리에서 물러났습니다. 그는 1조 달러 규모의 AI 인프라 구축을 이끈 최고의 딜메이커였습니다. 7월 말 기준 엔비디아가 오픈AI·앤트로픽 등 비상장사 229곳에 480억 달러를 투자한 만큼, 그의 퇴진은 AI 스타트업 업계에도 큰 우려를 낳고 있습니다.",
+          "category": "기술",
+          "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+          "published": "2026-11-13T19:52:01+00:00"
+        },
+        {
+          "title_ko": "미국 전역 항공기 이륙 전면 중단",
+          "title_original": "A Nationwide Ground Stop",
+          "summary_ko": "미 연방항공청(FAA)이 전국적으로 항공기 이륙 중단 조치를 내렸습니다. 트럼프 행정부 당국자들은 통신 장애를 원인으로 지목했지만, 장애가 왜 발생했는지는 모른다고 밝혔습니다. 항공편이 취소되거나 크게 지연·변경된 승객은 사유와 관계없이 환불받을 수 있습니다.",
+          "category": "사회",
+          "url": "https://www.nytimes.com/2026/11/13/briefing/a-nationwide-ground-stop.html",
+          "published": "2026-11-13T22:54:25+00:00"
+        },
+        {
+          "title_ko": "러시아, 우크라이나 종전 협상 조건으로 'NATO 후퇴' 요구 재차 제기",
+          "title_original": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
+          "summary_ko": "러시아 당국자들이 종전을 위한 비공개 협상에서 NATO의 후퇴를 요구하는 강경 입장을 다시 내세웠습니다. 이로써 유럽 안보 문제가 협상의 핵심 쟁점으로 떠올랐습니다.",
+          "category": "국제",
+          "url": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html",
+          "published": "2026-11-13T22:18:02+00:00"
+        },
+        {
+          "title_ko": "마이크로소프트 글로벌 장애… 서비스 복구 총력",
+          "title_original": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
+          "summary_ko": "마이크로소프트의 장애가 길어지면서 많은 이용자가 이메일 등 각종 서비스를 쓰지 못했습니다. 이번 사태는 전 세계 기술 기반이 소수 기업에 의존하고 있다는 사실을 다시 한번 보여줬습니다.",
+          "category": "기술",
+          "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
+          "published": "2026-11-13T21:28:58+00:00"
+        },
+        {
+          "title_ko": "미시시피 상원 선거, 스콧 콜럼의 이변… 그 승리를 숫자로 보면",
+          "title_original": "The Numbers Behind Scott Colom’s Stunning Upset in the Mississippi Senate Race",
+          "summary_ko": "극도로 양극화된 공화당 강세 주인 미시시피에서 스콧 콜럼이 상원 의석을 차지하는 이변을 일으켰습니다. 이 승리에는 여러 유리한 조건이 한꺼번에 맞아떨어진 '퍼펙트 스톰'이 필요했고, 실제로 그런 상황이 만들어졌습니다.",
+          "category": "정치",
+          "url": "https://www.nytimes.com/2026/11/13/us/elections/scott-colom-senate-upset-history-mississippi.html",
+          "published": "2026-11-13T23:18:08+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wapo",
+      "name": "워싱턴포스트",
+      "name_en": "The Washington Post",
+      "articles": [
+        {
+          "title_ko": "FAA, '통신 장애'로 미국 전역 공항 항공편 운항 중단",
+          "title_original": "FAA grounds flights at all U.S. airports, citing ‘telecommunications outage’",
+          "summary_ko": "미국 연방항공청(FAA)이 '통신 장애'를 이유로 미국 내 모든 공항의 항공편 운항을 중단시켰습니다. 숀 더피 교통부 장관은 이번 전국적 이륙 중단 조치가 모든 항로교통관제센터에 영향을 준 통신 문제 때문이라고 밝혔습니다. 미국 항공 운항 전반이 한꺼번에 멈춘 사안이라 파급력이 큽니다.",
+          "category": "사회",
+          "url": "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/",
+          "published": "2026-11-13T23:01:23+00:00"
+        },
+        {
+          "title_ko": "美 특사단, 푸틴 면담 후 \"유럽도 우크라이나 종전 협상 참여\"",
+          "title_original": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
+          "summary_ko": "블라디미르 푸틴 러시아 대통령을 만난 미국 특사단이 유럽이 우크라이나 전쟁 종식 협상에 합류할 것이라고 밝혔습니다. 러시아는 그동안 협상에서 유럽이 역할을 맡는 데 반대해 왔고, 푸틴 대통령은 목요일에도 유럽 평화유지군 파견에 대한 반대 입장을 거듭 밝혔습니다. 종전 협상의 참여 구도가 바뀌는 흐름이라는 점에서 주목됩니다.",
+          "category": "국제",
+          "url": "https://www.washingtonpost.com/world/2026/11/12/after-meeting-putin-us-envoys-say-europe-join-talks-ending-ukraine-war/",
+          "published": "2026-11-12T21:24:36+00:00"
+        },
+        {
+          "title_ko": "뉴욕 브루클린 건물 붕괴로 8명 사망·최소 18명 부상",
+          "title_original": "Eight dead and at least 18 injured after Brooklyn building collapse",
+          "summary_ko": "뉴욕 브루클린에서 건물이 무너져 8명이 숨지고 최소 18명이 다쳤습니다. 구조대는 목요일에도 잔해 아래 갇힌 사람이 있는지 수색 작업을 이어갔습니다.",
+          "category": "사회",
+          "url": "https://www.washingtonpost.com/nation/2026/11/12/brooklyn-building-collapse-kills-two-injures-17-new-york-city-officials-say/",
+          "published": "2026-11-13T02:18:12+00:00"
+        },
+        {
+          "title_ko": "美 대법원, 국경 망명 신청자 차단한 트럼프 정책 심리 착수",
+          "title_original": "Supreme Court to review Trump policy blocking asylum seekers at border",
+          "summary_ko": "미국 연방대법원이 국경에서 망명 신청자를 막는 트럼프 행정부 정책에 대한 심리를 진행하기로 했습니다. 이번 사건은 대법관들이 앞으로 몇 달간 판단할 이민 관련 쟁점 가운데 가장 최근에 추가된 것입니다.",
+          "category": "정치",
+          "url": "https://www.washingtonpost.com/politics/2026/11/13/supreme-court-review-trump-policy-blocking-asylum-seekers-border/",
+          "published": "2026-11-13T21:00:23+00:00"
+        },
+        {
+          "title_ko": "연준 의장은 \"AI가 물가 잡는다\"는데 위원들은 이견",
+          "title_original": "The Fed chief said AI would tame inflation. His colleagues disagree.",
+          "summary_ko": "케빈 워시 연방준비제도(연준) 의장은 AI가 물가 안정에 도움이 될 것이라고 주장해 왔습니다. 그러나 AI 붐 때문에 고금리가 더 오래 이어질 수 있다고 보는 연준 인사가 늘고 있으며, 워시 의장은 이런 견해에 동의하는 데 더딘 모습을 보이고 있습니다. 향후 금리 경로를 둘러싼 연준 내부의 시각 차이를 보여 주는 사안입니다.",
+          "category": "경제",
+          "url": "https://www.washingtonpost.com/business/2026/11/13/more-top-fed-officials-say-ai-is-fueling-inflation-kevin-warsh-is-an-outlier/",
+          "published": "2026-11-13T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "name_en": "The Korea Economic Daily",
+      "articles": [
+        {
+          "title_ko": "젠슨 황 없는 엔비디아, 한국에 GPU 26만 장 약속대로 공급",
+          "title_original": null,
+          "summary_ko": "엔비디아가 젠슨 황 없이도 한국에 약속한 GPU 26만 장을 예정대로 공급한다. 엔비디아의 리더십 변화 속에서도 한국의 AI 인프라 구축에 필요한 핵심 자원 공급이 유지된다는 점에서 의미가 크다.",
+          "category": "기술",
+          "url": "https://www.hankyung.com/article/2026111357627",
+          "published": "2026-11-13T08:36:39+00:00"
+        },
+        {
+          "title_ko": "한·중 외교장관 \"관계 복원 정상궤도\"…수교 35주년 앞두고 협력 확대",
+          "title_original": null,
+          "summary_ko": "한국과 중국 외교장관이 양국 관계 복원이 정상궤도에 올랐다고 평가했다. 수교 35주년을 앞두고 양국이 협력 확대에 나서기로 해 외교·경제 관계 개선에 대한 기대가 커지고 있다.",
+          "category": "정치",
+          "url": "https://www.hankyung.com/article/202611136045i",
+          "published": "2026-11-13T12:19:45+00:00"
+        },
+        {
+          "title_ko": "중기부 '모두의 창업', 5개월 만에 또 개인정보 유출",
+          "title_original": null,
+          "summary_ko": "중소벤처기업부는 2차 '모두의 창업' 참가자를 지원하는 기업에서 개인정보가 유출됐다고 밝혔다. 같은 사업에서 5개월 만에 다시 유출 사고가 발생해 정부 사업의 개인정보 관리 부실 문제가 도마에 올랐다.",
+          "category": "사회",
+          "url": "https://www.hankyung.com/article/2026111357437",
+          "published": "2026-11-13T08:17:50+00:00"
+        },
+        {
+          "title_ko": "금융지주 회장 연임 9건 중 2건, 새 기준 적용 시 부결",
+          "title_original": null,
+          "summary_ko": "금융지주 회장 연임 사례 9건 가운데 2건은 새 기준을 적용하면 부결되는 것으로 나타났다. 금융권 지배구조와 최고경영자 연임 관행에 변화가 예상된다는 점에서 주목된다.",
+          "category": "금융",
+          "url": "https://www.hankyung.com/article/202611135682i",
+          "published": "2026-11-13T08:07:34+00:00"
+        },
+        {
+          "title_ko": "삼성, 미국 데이터센터 냉각업체 인수 추진",
+          "title_original": null,
+          "summary_ko": "삼성이 미국의 데이터센터 냉각업체 인수를 추진하고 있다. AI 확산으로 데이터센터 관련 수요가 커지는 가운데 삼성이 관련 사업 확대에 나선다는 점에서 의미가 있다.",
+          "category": "산업",
+          "url": "https://www.hankyung.com/article/2026111358131",
+          "published": "2026-11-13T08:37:33+00:00"
+        }
+      ]
+    }
+  ]
+}
