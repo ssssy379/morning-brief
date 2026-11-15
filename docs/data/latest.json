@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T09:07:48.813227+09:00",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T09:04:27.113323+09:00",
   "sources": [
     {
       "id": "nyt",
@@ -8,44 +8,44 @@
       "name_en": "The New York Times",
       "articles": [
         {
-          "title_ko": "엔비디아 젠슨 황 CEO 축출… 월가, 막강한 딜메이커를 잃다",
-          "title_original": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
-          "summary_ko": "엔비디아의 젠슨 황 최고경영자가 자리에서 물러났습니다. 그는 1조 달러 규모의 AI 인프라 구축을 이끈 최고의 딜메이커였습니다. 7월 말 기준 엔비디아가 오픈AI·앤트로픽 등 비상장사 229곳에 480억 달러를 투자한 만큼, 그의 퇴진은 AI 스타트업 업계에도 큰 우려를 낳고 있습니다.",
-          "category": "기술",
-          "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
-          "published": "2026-11-13T19:52:01+00:00"
-        },
-        {
-          "title_ko": "미국 전역 항공기 이륙 전면 중단",
-          "title_original": "A Nationwide Ground Stop",
-          "summary_ko": "미 연방항공청(FAA)이 전국적으로 항공기 이륙 중단 조치를 내렸습니다. 트럼프 행정부 당국자들은 통신 장애를 원인으로 지목했지만, 장애가 왜 발생했는지는 모른다고 밝혔습니다. 항공편이 취소되거나 크게 지연·변경된 승객은 사유와 관계없이 환불받을 수 있습니다.",
+          "title_ko": "미 전국 항공기 이륙 중단 사태, 노후 항공관제 시스템의 고질적 취약성 드러내",
+          "title_original": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+          "summary_ko": "미 연방항공청(FAA)이 이례적으로 전국 항공편 이륙 중단(그라운드 스톱) 조치를 내렸다. 노후한 FAA 항공관제 인프라는 당국의 개선 노력에도 최근 몇 달 사이 여러 차례 장애를 일으켰다. 이번 사태는 미국 항공 시스템의 구조적 취약성을 다시 부각시켰다.",
           "category": "사회",
-          "url": "https://www.nytimes.com/2026/11/13/briefing/a-nationwide-ground-stop.html",
-          "published": "2026-11-13T22:54:25+00:00"
+          "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
+          "published": "2026-11-14T23:14:32+00:00"
         },
         {
-          "title_ko": "러시아, 우크라이나 종전 협상 조건으로 'NATO 후퇴' 요구 재차 제기",
-          "title_original": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
-          "summary_ko": "러시아 당국자들이 종전을 위한 비공개 협상에서 NATO의 후퇴를 요구하는 강경 입장을 다시 내세웠습니다. 이로써 유럽 안보 문제가 협상의 핵심 쟁점으로 떠올랐습니다.",
-          "category": "국제",
-          "url": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html",
-          "published": "2026-11-13T22:18:02+00:00"
-        },
-        {
-          "title_ko": "마이크로소프트 글로벌 장애… 서비스 복구 총력",
-          "title_original": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
-          "summary_ko": "마이크로소프트의 장애가 길어지면서 많은 이용자가 이메일 등 각종 서비스를 쓰지 못했습니다. 이번 사태는 전 세계 기술 기반이 소수 기업에 의존하고 있다는 사실을 다시 한번 보여줬습니다.",
+          "title_ko": "1년 넘게 감춘 비밀, 젠슨 황 엔비디아 CEO 퇴진으로 이어져",
+          "title_original": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+          "summary_ko": "젠슨 황은 한 여성 고객과의 관계가 순전히 업무 관계라고 밝혔으나, 그가 숨겨온 사실이 결국 자신이 창업한 엔비디아에서 물러나는 결과로 이어졌다. 기술업계 거물들은 그를 대체 불가능한 리더라며 이사회에 지지 서한을 보내는 등 옹호에 나섰다. 세계 AI 산업을 이끄는 기업 수장의 사임이라는 점에서 파장이 크다.",
           "category": "기술",
-          "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
-          "published": "2026-11-13T21:28:58+00:00"
+          "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+          "published": "2026-11-14T23:25:09+00:00"
         },
         {
-          "title_ko": "미시시피 상원 선거, 스콧 콜럼의 이변… 그 승리를 숫자로 보면",
-          "title_original": "The Numbers Behind Scott Colom’s Stunning Upset in the Mississippi Senate Race",
-          "summary_ko": "극도로 양극화된 공화당 강세 주인 미시시피에서 스콧 콜럼이 상원 의석을 차지하는 이변을 일으켰습니다. 이 승리에는 여러 유리한 조건이 한꺼번에 맞아떨어진 '퍼펙트 스톰'이 필요했고, 실제로 그런 상황이 만들어졌습니다.",
-          "category": "정치",
-          "url": "https://www.nytimes.com/2026/11/13/us/elections/scott-colom-senate-upset-history-mississippi.html",
-          "published": "2026-11-13T23:18:08+00:00"
+          "title_ko": "브루클린 건물 붕괴 참사, 이민자 가정들 비탄에 잠겨",
+          "title_original": "Brooklyn Building Collapse Tragedy Devastates Immigrant Families",
+          "summary_ko": "뉴욕 브루클린 플랫부시에서 건물이 무너져 그곳에서 일하고 살던 이민자 가정들이 참사를 당했다. 한 건설 노동자는 잔해 속에서 생존자를 찾다가 2세 남아를 구조하기도 했다.",
+          "category": "사회",
+          "url": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-immigrants.html",
+          "published": "2026-11-14T14:48:52+00:00"
+        },
+        {
+          "title_ko": "트럼프 행정부, 메디케이드 근로 요건 시행 연기",
+          "title_original": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
+          "summary_ko": "연방정부는 저소득 성인에게 근로 사실을 증명하지 못하면 메디케이드 보험 혜택을 잃도록 하는 요건을 내년 1월 1일부터 적용할 계획이었다. 그러나 각 주가 7월까지 시행을 미룰 수 있도록 허용했다. 수많은 저소득층의 의료보험 자격에 영향을 미치는 정책 변화다.",
+          "category": "정책",
+          "url": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
+          "published": "2026-11-14T02:22:25+00:00"
+        },
+        {
+          "title_ko": "마이크로소프트 전 세계 서비스 장애와 복구 상황 정리",
+          "title_original": "Microsoft’s Global Outage and Fixes: What We Know",
+          "summary_ko": "마이크로소프트의 이메일, 메신저 등 여러 서비스에서 약 36시간 동안 장애가 이어졌다. 이로 인해 전 세계 기업과 각종 서비스 운영에 차질이 빚어졌다.",
+          "category": "기술",
+          "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+          "published": "2026-11-14T13:15:55+00:00"
         }
       ]
     },
@@ -55,44 +55,44 @@
       "name_en": "The Washington Post",
       "articles": [
         {
-          "title_ko": "FAA, '통신 장애'로 미국 전역 공항 항공편 운항 중단",
-          "title_original": "FAA grounds flights at all U.S. airports, citing ‘telecommunications outage’",
-          "summary_ko": "미국 연방항공청(FAA)이 '통신 장애'를 이유로 미국 내 모든 공항의 항공편 운항을 중단시켰습니다. 숀 더피 교통부 장관은 이번 전국적 이륙 중단 조치가 모든 항로교통관제센터에 영향을 준 통신 문제 때문이라고 밝혔습니다. 미국 항공 운항 전반이 한꺼번에 멈춘 사안이라 파급력이 큽니다.",
+          "title_ko": "FAA, 미 전역 공항 운항 중단 해제… 여행 대혼란 남겨",
+          "title_original": "FAA lifts ground stop at U.S. airports, leaving travel chaos",
+          "summary_ko": "'일시적 통신 장애'로 미국 전역에서 수천 대의 항공기가 4시간 넘게 발이 묶였다가 미 연방항공청(FAA)이 운항 중단 조치를 해제했습니다. 다음 날에도 수천 편이 결항됐으며, 교통부 장관은 노후 배선 교체 작업이 원인이었다고 밝혔습니다. FAA는 주말이 끝날 무렵 운항이 정상화될 것이라고 전했습니다.",
           "category": "사회",
           "url": "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/",
-          "published": "2026-11-13T23:01:23+00:00"
+          "published": "2026-11-14T02:59:12+00:00"
         },
         {
-          "title_ko": "美 특사단, 푸틴 면담 후 \"유럽도 우크라이나 종전 협상 참여\"",
-          "title_original": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
-          "summary_ko": "블라디미르 푸틴 러시아 대통령을 만난 미국 특사단이 유럽이 우크라이나 전쟁 종식 협상에 합류할 것이라고 밝혔습니다. 러시아는 그동안 협상에서 유럽이 역할을 맡는 데 반대해 왔고, 푸틴 대통령은 목요일에도 유럽 평화유지군 파견에 대한 반대 입장을 거듭 밝혔습니다. 종전 협상의 참여 구도가 바뀌는 흐름이라는 점에서 주목됩니다.",
-          "category": "국제",
-          "url": "https://www.washingtonpost.com/world/2026/11/12/after-meeting-putin-us-envoys-say-europe-join-talks-ending-ukraine-war/",
-          "published": "2026-11-12T21:24:36+00:00"
-        },
-        {
-          "title_ko": "뉴욕 브루클린 건물 붕괴로 8명 사망·최소 18명 부상",
-          "title_original": "Eight dead and at least 18 injured after Brooklyn building collapse",
-          "summary_ko": "뉴욕 브루클린에서 건물이 무너져 8명이 숨지고 최소 18명이 다쳤습니다. 구조대는 목요일에도 잔해 아래 갇힌 사람이 있는지 수색 작업을 이어갔습니다.",
+          "title_ko": "미국, 홍역 퇴치국 지위 상실… 공중보건의 이정표 무너져",
+          "title_original": "U.S. loses measles-elimination status, erasing a landmark public health achievement",
+          "summary_ko": "미국이 홍역 퇴치국 지위를 잃으면서 공중보건 분야의 대표적 성과가 사라지게 됐습니다. 이번 판정은 2025년 1월 서부 텍사스에서 시작된 대규모 발병과 이후 유타·애리조나 등지에서 이어진 지속적 유행에 따른 것입니다.",
           "category": "사회",
-          "url": "https://www.washingtonpost.com/nation/2026/11/12/brooklyn-building-collapse-kills-two-injures-17-new-york-city-officials-say/",
-          "published": "2026-11-13T02:18:12+00:00"
+          "url": "https://www.washingtonpost.com/health/2026/11/13/us-loses-measles-elimination-status-erasing-landmark-achievement/",
+          "published": "2026-11-14T04:20:15+00:00"
         },
         {
-          "title_ko": "美 대법원, 국경 망명 신청자 차단한 트럼프 정책 심리 착수",
-          "title_original": "Supreme Court to review Trump policy blocking asylum seekers at border",
-          "summary_ko": "미국 연방대법원이 국경에서 망명 신청자를 막는 트럼프 행정부 정책에 대한 심리를 진행하기로 했습니다. 이번 사건은 대법관들이 앞으로 몇 달간 판단할 이민 관련 쟁점 가운데 가장 최근에 추가된 것입니다.",
+          "title_ko": "러시아, 나토 후퇴 요구… 젤렌스키 \"미국이 영토 양보 의향 물어\"",
+          "title_original": "Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory",
+          "summary_ko": "이번 주 평화협상에서 러시아는 2022년 우크라이나 침공 이전 나토와 미국에 내놓았던 강경한 최후통첩 수준의 요구로 되돌아갔습니다. 젤렌스키 우크라이나 대통령은 미국 측이 영토 양보에 대해 물어왔다고 밝혀, 협상의 향방에 우려가 커지고 있습니다.",
+          "category": "국제",
+          "url": "https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/",
+          "published": "2026-11-14T22:17:35+00:00"
+        },
+        {
+          "title_ko": "트럼프, 푸틴·시진핑과 첫 3자 정상회담",
+          "title_original": "Trump to have first trilateral meeting with Putin, Xi",
+          "summary_ko": "백악관은 트럼프 대통령이 아시아 순방 막바지인 다음 주 블라디미르 푸틴 러시아 대통령, 시진핑 중국 국가주석과 만난다고 금요일 밝혔습니다. 세 정상이 함께하는 첫 회담이라는 점에서 국제 질서에 미칠 영향이 주목됩니다.",
+          "category": "국제",
+          "url": "https://www.washingtonpost.com/politics/2026/11/13/trump-meet-with-putin-xi-jinping/",
+          "published": "2026-11-14T00:47:36+00:00"
+        },
+        {
+          "title_ko": "엔비디아 스캔들, 민주당 압승 이후 트럼프의 정치적 약점 건드려",
+          "title_original": "Nvidia scandal hits Trump’s political vulnerabilities after Democratic sweep",
+          "summary_ko": "민주당이 선거에서 압승한 가운데 불거진 엔비디아 스캔들이 트럼프 대통령의 정치적 취약점을 파고들고 있습니다. 이번 사안은 AI, 데이터센터, 중국, 부패를 둘러싼 유권자들의 우려와 맞닿아 있으며, 새로 취임한 스티븐 밀러 백악관 비서실장에게도 첫 위기가 되고 있습니다.",
           "category": "정치",
-          "url": "https://www.washingtonpost.com/politics/2026/11/13/supreme-court-review-trump-policy-blocking-asylum-seekers-border/",
-          "published": "2026-11-13T21:00:23+00:00"
-        },
-        {
-          "title_ko": "연준 의장은 \"AI가 물가 잡는다\"는데 위원들은 이견",
-          "title_original": "The Fed chief said AI would tame inflation. His colleagues disagree.",
-          "summary_ko": "케빈 워시 연방준비제도(연준) 의장은 AI가 물가 안정에 도움이 될 것이라고 주장해 왔습니다. 그러나 AI 붐 때문에 고금리가 더 오래 이어질 수 있다고 보는 연준 인사가 늘고 있으며, 워시 의장은 이런 견해에 동의하는 데 더딘 모습을 보이고 있습니다. 향후 금리 경로를 둘러싼 연준 내부의 시각 차이를 보여 주는 사안입니다.",
-          "category": "경제",
-          "url": "https://www.washingtonpost.com/business/2026/11/13/more-top-fed-officials-say-ai-is-fueling-inflation-kevin-warsh-is-an-outlier/",
-          "published": "2026-11-13T10:00:00+00:00"
+          "url": "https://www.washingtonpost.com/politics/2026/11/14/nvidia-scandal-hits-trumps-political-vulnerabilities-after-democratic-sweep/",
+          "published": "2026-11-14T10:00:00+00:00"
         }
       ]
     },
@@ -102,44 +102,44 @@
       "name_en": "The Korea Economic Daily",
       "articles": [
         {
-          "title_ko": "젠슨 황 없는 엔비디아, 한국에 GPU 26만 장 약속대로 공급",
+          "title_ko": "엔비디아 투자자들, 젠슨 황 복귀 요구 서한… \"AI 산업 후퇴 우려\"",
           "title_original": null,
-          "summary_ko": "엔비디아가 젠슨 황 없이도 한국에 약속한 GPU 26만 장을 예정대로 공급한다. 엔비디아의 리더십 변화 속에서도 한국의 AI 인프라 구축에 필요한 핵심 자원 공급이 유지된다는 점에서 의미가 크다.",
-          "category": "기술",
-          "url": "https://www.hankyung.com/article/2026111357627",
-          "published": "2026-11-13T08:36:39+00:00"
+          "summary_ko": "불륜 스캔들로 퇴진한 젠슨 황 엔비디아 CEO의 복귀를 요구하는 투자자 서한이 나왔습니다. 투자자들은 그의 공백이 AI 산업의 후퇴로 이어질 수 있다고 우려하고 있습니다. 같은 날 지면에서는 '젠슨 시대'의 종료가 연말 증시 흐름과 엔비디아 실적 전망에 미칠 영향도 비중 있게 다뤄졌습니다.",
+          "category": "국제",
+          "url": "https://www.hankyung.com/article/2026111567957",
+          "published": "2026-11-14T22:44:32+00:00"
         },
         {
-          "title_ko": "한·중 외교장관 \"관계 복원 정상궤도\"…수교 35주년 앞두고 협력 확대",
+          "title_ko": "\"주가 빠질 때 사자\" 빚투 나선 개인투자자들… 마이너스통장 잔액 44조 돌파",
           "title_original": null,
-          "summary_ko": "한국과 중국 외교장관이 양국 관계 복원이 정상궤도에 올랐다고 평가했다. 수교 35주년을 앞두고 양국이 협력 확대에 나서기로 해 외교·경제 관계 개선에 대한 기대가 커지고 있다.",
-          "category": "정치",
-          "url": "https://www.hankyung.com/article/202611136045i",
-          "published": "2026-11-13T12:19:45+00:00"
-        },
-        {
-          "title_ko": "중기부 '모두의 창업', 5개월 만에 또 개인정보 유출",
-          "title_original": null,
-          "summary_ko": "중소벤처기업부는 2차 '모두의 창업' 참가자를 지원하는 기업에서 개인정보가 유출됐다고 밝혔다. 같은 사업에서 5개월 만에 다시 유출 사고가 발생해 정부 사업의 개인정보 관리 부실 문제가 도마에 올랐다.",
-          "category": "사회",
-          "url": "https://www.hankyung.com/article/2026111357437",
-          "published": "2026-11-13T08:17:50+00:00"
-        },
-        {
-          "title_ko": "금융지주 회장 연임 9건 중 2건, 새 기준 적용 시 부결",
-          "title_original": null,
-          "summary_ko": "금융지주 회장 연임 사례 9건 가운데 2건은 새 기준을 적용하면 부결되는 것으로 나타났다. 금융권 지배구조와 최고경영자 연임 관행에 변화가 예상된다는 점에서 주목된다.",
+          "summary_ko": "주가 하락을 매수 기회로 보고 빚을 내 투자하는 개인투자자가 늘면서 마이너스통장 잔액이 44조원을 넘어섰습니다. 변동성이 큰 장세에서 레버리지 투자가 확대된 만큼 가계부채와 투자 손실 위험에 대한 경계가 필요하다는 점에서 주목됩니다.",
           "category": "금융",
-          "url": "https://www.hankyung.com/article/202611135682i",
-          "published": "2026-11-13T08:07:34+00:00"
+          "url": "https://www.hankyung.com/article/2026111567887",
+          "published": "2026-11-14T22:31:14+00:00"
         },
         {
-          "title_ko": "삼성, 미국 데이터센터 냉각업체 인수 추진",
+          "title_ko": "MS 업무 메일 먹통에 정부 비상대응반 가동… 국내 피해 점검",
           "title_original": null,
-          "summary_ko": "삼성이 미국의 데이터센터 냉각업체 인수를 추진하고 있다. AI 확산으로 데이터센터 관련 수요가 커지는 가운데 삼성이 관련 사업 확대에 나선다는 점에서 의미가 있다.",
-          "category": "산업",
-          "url": "https://www.hankyung.com/article/2026111358131",
-          "published": "2026-11-13T08:37:33+00:00"
+          "summary_ko": "마이크로소프트(MS)의 업무용 메일 서비스가 멈추자 정부가 비상대응반을 가동했습니다. 정부는 국내 기업과 기관의 피해 상황을 점검하고 있으며, 글로벌 클라우드 서비스 의존에 따른 위험이 다시 부각되고 있습니다.",
+          "category": "기술",
+          "url": "https://www.hankyung.com/article/2026111465447",
+          "published": "2026-11-14T08:21:09+00:00"
+        },
+        {
+          "title_ko": "자녀 둘 둔 아빠 16만원 더 돌려받는다… 달라지는 연말정산 절세법",
+          "title_original": null,
+          "summary_ko": "올해 연말정산에서 바뀌는 제도에 따라 자녀 둘을 둔 근로자는 16만원가량의 절세 효과를 볼 수 있습니다. 직장인 다수에게 영향을 주는 세제 변화인 만큼 달라진 공제 항목을 미리 확인해 둘 필요가 있습니다.",
+          "category": "경제",
+          "url": "https://www.hankyung.com/article/202611135532i",
+          "published": "2026-11-14T23:00:02+00:00"
+        },
+        {
+          "title_ko": "\"집 팔고 나가라는 거냐\"… 은마아파트 '4.6억 청구서'에 주민 반발",
+          "title_original": null,
+          "summary_ko": "서울 강남 은마아파트 주민들에게 4억6000만원 규모의 부담금 청구서가 날아들면서 반발이 커지고 있습니다. 서초구 아파트에서도 주민들에게 2억원의 추가 부담이 요구되는 등 재건축 단지 주민들의 비용 부담 문제가 잇따라 불거지고 있습니다.",
+          "category": "부동산",
+          "url": "https://www.hankyung.com/article/2026111348856",
+          "published": "2026-11-14T01:30:01+00:00"
         }
       ]
     }
